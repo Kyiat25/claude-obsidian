@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-07-12 | Total pages: 211 | Sources ingested: 55
+Last updated: 2026-07-12 | Total pages: 216 | Sources ingested: 56
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]] | [[FEARS MOC]]
 
@@ -78,6 +78,7 @@ First cluster in an entirely separate domain from the rest of this vault (tablet
 - [[Called Shot Subclass Features]], [[Reaction Subclass Features]], [[Called Shot Feats]], [[Evasion Feats]], [[Weapon Mastery Feats]], [[Reaction Feats]] — FEARS subclass and feat systems, known only via narrow lenses
 - [[Weapon Mastery]], [[Weapon Skills]] — the martial weapon-technique engine (~40 named skills across 9 weapon categories)
 - ~~[[Psion]], [[Runesmith]], [[Shadowbinder]], [[Tamer]], [[Thaumaturge]]~~ — **retired**, preserved with contradiction callouts, not deleted
+- [[How the Five Layers Shape the Creation World]], [[Hidden Cosmology Thread System]], [[Twins of Creation]], [[World Anchors and Thread System]] — DM-only cosmology cluster; [[Astralor]], [[Aeloria]], [[The Whispering Dark]], [[The Restorer]], [[World Trees]], [[Threadbearers]], [[Loom-Wardens]], [[Loom-Cities]], [[Ashkarra]], [[Aeravae]], [[The Threadbearer Crisis]] — three-way knowledge-hierarchy contradiction plus a new World Trees origin contradiction, both deliberately preserved unresolved
 
 ---
 
@@ -169,6 +170,7 @@ First cluster in an entirely separate domain from the rest of this vault (tablet
 - `How the Five Layers Shape the Creation World.md` — 2026-07-12 | first ingest of a new DM-only cosmology domain; structures [[The Weave]] as a five-Layer proving-ground cosmology with 4 unaware Primal Forces (Astralor, Aeloria, The Whispering Dark, The Restorer); flags a genuine tension against Four Threads of the Mind's "Weave watches/waits" personification; surfaced 15 more uningested cosmology sources in `.raw/` | 5 wiki pages created, 9 updated
 - `Hidden Cosmology Thread System.md` — 2026-07-12 | marked `canonical`; reframes Astralor/Aeloria as "the Twins of Creation," gives Aeloria uniquely elevated, deliberately-concealed near-omniscience (flagged against the prior source's "none of them know" claim); explains Thread rotation via 3 uncoordinated forces; introduces Threadbearers, the Loom-Wardens, and permanently-unexplained World Trees; narrows the uningested cosmology cluster from 15 to 12 files | 4 wiki pages created, 12 updated
 - `Twins of Creation.md` — 2026-07-12 | confirms Astralor/Aeloria are literal siblings, gives both real personalities; **directly contradicts** the prior source instead of extending it — Aeloria does not know The Restorer exists and misreads The Whispering Dark; elevates The Restorer to "sees the entire pattern"; produces an active 3-way irreconcilable disagreement across all cosmology sources on who knows what (documented, not resolved); narrows the uningested cosmology cluster from 12 to 11 files | 1 wiki page created, 11 updated
+- `World Anchors and Thread System.md` — 2026-07-12 | fourth cosmology source, mortal/scholarly register (likely the exact "World Anchors document" the prior source cited as its own baseline); introduces 5 named [[Loom-Cities]] (Kel Varyan, Veltharyn, Thar Vornhal, Aeravae, Selveran), elevates [[Ashkarra]] into the setting's central historical trauma, gives [[Aeravae]]'s cooperative founding its own page, massively expands [[Threadbearers]] mechanics, and introduces a live campaign hook, [[The Threadbearer Crisis]] (4 of 5 Threadbearers assassinated); **new contradiction**: states World Trees were planted by Vatharun, directly undercutting [[World Trees]]'s "deliberately unexplained, even to the DM" framing (documented, not resolved); narrows the uningested cosmology cluster from 11 to 10 files | 5 wiki pages created, 7 updated
 
 ---
 

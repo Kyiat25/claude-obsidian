@@ -18,20 +18,25 @@ role: "ancient leyline stabilizers, deliberately unexplained"
 first_mentioned: "[[Hidden Cosmology Thread System]]"
 related:
   - "[[Hidden Cosmology Thread System]]"
+  - "[[World Anchors and Thread System]]"
   - "[[Astralor]]"
   - "[[Aeloria]]"
   - "[[The Restorer]]"
 sources:
   - ".raw/Hidden Cosmology Thread System.md"
+  - ".raw/World Anchors and Thread System.md"
 confidence: low
 ---
 
 # World Trees
 
-Ancient natural stabilizers appearing at leyline connections, predating World Anchors by millennia, held sacred by multiple cultures. Cutting one down measurably stresses the Thread system.
+Ancient natural stabilizers appearing at leyline connections, predating World Anchors by millennia, held sacred by multiple cultures. Cutting one down measurably stresses the Thread system. Per [[World Anchors and Thread System]]: 73-75 confirmed worldwide, 6-7 "Major Root Anchors," at least 5 known-corrupted, 7-9 lost to Loom-City expansion; for roughly 15,000 years ("the Loomless Time") they were the sole stabilization system in existence.
 
 > [!note] Deliberately unexplained — by design, not by omission
-> Unlike every other concept in this cosmology cluster, the source explicitly states World Trees' true origin is meant to stay a genuine mystery, **even to the DM**: "preserves cosmic wonder... prevents over-systematization... respects that some things transcend even divine knowledge." This is not a gap to be filled in by a future source — it's flagged as intentionally permanent. Don't resolve this the way other open threads in this cluster get resolved by later ingests; treat the ambiguity itself as canonical.
+> Unlike every other concept in this cosmology cluster, [[Hidden Cosmology Thread System]] explicitly states World Trees' true origin is meant to stay a genuine mystery, **even to the DM**: "preserves cosmic wonder... prevents over-systematization... respects that some things transcend even divine knowledge." This is not a gap to be filled in by a future source — it's flagged as intentionally permanent. Don't resolve this the way other open threads in this cluster get resolved by later ingests; treat the ambiguity itself as canonical.
+
+> [!contradiction] A later source names a creator outright: Vatharun
+> [[World Anchors and Thread System]] states as flat, unhedged background fact that World Trees were "planted by Vatharun (Earth Pantheon deity)" — no theory framing, no "some say," just an origin. This directly undercuts the instruction above. Two ways to reconcile it: (1) this is in-world *scholarly consensus*, itself possibly wrong, and the DM-facing mystery survives underneath it; or (2) the two sources simply weren't written consistently, same as the standing three-way Aeloria/Restorer/Whispering-Dark knowledge contradiction on [[The Weave]]. Left flagged, not resolved — a GM should choose which reading applies to their table before this matters at the table.
 
 ## Five competing theories, none canonical
 
@@ -48,6 +53,7 @@ Different in-world factions can hold different (and mutually exclusive) beliefs 
 ## See also
 
 - [[Hidden Cosmology Thread System]]
+- [[World Anchors and Thread System]]
 - [[Astralor]]
 - [[Aeloria]]
 - [[The Restorer]]

@@ -25,6 +25,14 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 
 ---
 
+## [2026-07-12] ingest | World Anchors and Thread System
+- Source: `.raw/World Anchors and Thread System.md`
+- Summary: fourth cosmology source, written in a mortal/scholarly register rather than the mythic DM-secret register of the prior three — almost certainly the exact "World Anchors document" [[Hidden Cosmology Thread System]] cited as its own Tier One baseline. Introduces five named Loom-Cities, elevates the Ashkarra Catastrophe into the setting's central historical trauma, gives Aeravae's cooperative founding its own page, massively expands Threadbearer mechanics, and surfaces a live campaign hook
+- Pages created: [[World Anchors and Thread System]], [[Loom-Cities]], [[Ashkarra]], [[Aeravae]], [[The Threadbearer Crisis]]
+- Pages updated: [[World Trees]] (new `[!contradiction]` — Vatharun named as creator), [[Threadbearers]] (mortal mechanics section added: the Beaming, death/succession, cultural variance), [[Loom-Wardens]] (cross-referenced into the crisis), [[index]], [[hot]], [[FEARS MOC]]
+- Key insight: **New, major contradiction against [[World Trees]].** [[Hidden Cosmology Thread System]] explicitly states World Trees' origin should stay unknown "even to the DM" — five competing theories, no canonical answer, framed as a permanent design choice. This source instead states flatly, with no hedge or competing theory offered, that World Trees were "planted by Vatharun (Earth Pantheon deity)." Flagged with `[!contradiction]`, not resolved — same treatment as the standing three-way Aeloria/Restorer/Whispering-Dark knowledge contradiction on [[The Weave]]. Also establishes a live, ongoing campaign situation (not historical background): four of five Threadbearers assassinated by the Drow, four World Anchors dimmed, a three-way race underway over each new Threadbearer manifestation — captured on [[The Threadbearer Crisis]].
+- Note: five new addresses allocated (c-000179 through c-000183); counter advanced from 179 to 184. **Uningested cosmology cluster narrowed from 11 to 10 files.**
+
 ## [2026-07-12] ingest | Twins of Creation
 - Source: `.raw/Twins of Creation.md`
 - Summary: third cosmology source, and the first to directly contradict rather than extend what came before. Confirms [[Astralor]] and [[Aeloria]] are literal siblings, "the Twins of Creation," and gives both real personalities for the first time

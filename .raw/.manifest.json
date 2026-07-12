@@ -1145,6 +1145,27 @@
         "wiki/notes/Hidden Cosmology Thread System.md"
       ],
       "note": "Third cosmology source, and the first to directly contradict rather than just extend the prior two. Confirms Astralor and Aeloria are literal siblings, 'the Twins of Creation', and gives both real personalities for the first time. Directly contradicts Hidden Cosmology Thread System's central claim that Aeloria knows almost everything -- this source states she does not know The Restorer exists and misunderstands The Whispering Dark, and instead elevates The Restorer to 'the only force that sees the entire pattern'. This produces a three-way irreconcilable disagreement across all three cosmology sources about who knows what, documented as a comparison table on The Weave and Twins of Creation's own pages rather than silently resolved. Narrows the uningested cosmology cluster from 12 to 11 files."
+    },
+    ".raw/World Anchors and Thread System.md": {
+      "hash": "9103743e0f371c2cd69530b12c6f090b",
+      "ingested_at": "2026-07-12",
+      "pages_created": [
+        "wiki/notes/World Anchors and Thread System.md",
+        "wiki/notes/Loom-Cities.md",
+        "wiki/notes/Ashkarra.md",
+        "wiki/notes/Aeravae.md",
+        "wiki/notes/The Threadbearer Crisis.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/World Trees.md",
+        "wiki/notes/Threadbearers.md",
+        "wiki/notes/Loom-Wardens.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Fourth cosmology source, and the first written in a mortal/scholarly register rather than mythic DM-secret register -- almost certainly the exact 'World Anchors document' Hidden Cosmology Thread System cited as its own Tier One baseline. Introduces five named Loom-Cities (Kel Varyan, Veltharyn, Thar Vornhal, Aeravae, Selveran) plus three regions explicitly outside the Anchor system (Corvessa, Talanthar, the Underdark/Drow). Elevates the Ashkarra Catastrophe from a brief case study into the setting's central historical trauma (a full Loom-City lost, a World Anchor permanently destroyed) and gives Aeravae's founding as its direct, cooperative answer (the Echo-Cenote, a unique hybrid Anchor/World Tree). Massively expands Threadbearer mechanics (the Beaming, death/succession, cultural variance) and surfaces a live campaign hook: four of five Threadbearers assassinated by the Drow, four Anchors dimmed, a three-way race underway over each new manifestation -- captured on its own page, The Threadbearer Crisis. Produces a new, major contradiction: states flatly that World Trees were planted by Vatharun (an Earth Pantheon deity), directly undercutting World Trees.md's explicit 'deliberately unexplained, even to the DM' framing from Hidden Cosmology Thread System -- flagged with [!contradiction] rather than resolved, same treatment as the standing three-way knowledge-hierarchy conflict on The Weave."
     }
   },
   "address_map": {
@@ -1324,6 +1345,11 @@
     "wiki/notes/Loom-Wardens.md": "c-000175",
     "wiki/notes/Threadbearers.md": "c-000176",
     "wiki/notes/World Trees.md": "c-000177",
-    "wiki/notes/Twins of Creation.md": "c-000178"
+    "wiki/notes/Twins of Creation.md": "c-000178",
+    "wiki/notes/World Anchors and Thread System.md": "c-000179",
+    "wiki/notes/Loom-Cities.md": "c-000180",
+    "wiki/notes/Ashkarra.md": "c-000181",
+    "wiki/notes/Aeravae.md": "c-000182",
+    "wiki/notes/The Threadbearer Crisis.md": "c-000183"
   }
 }

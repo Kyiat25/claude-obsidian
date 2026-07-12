@@ -18,17 +18,25 @@ role: "mortal Thread-channelers, unknowing cosmic touchpoints"
 first_mentioned: "[[Hidden Cosmology Thread System]]"
 related:
   - "[[Hidden Cosmology Thread System]]"
+  - "[[World Anchors and Thread System]]"
   - "[[Aeloria]]"
   - "[[Loom-Wardens]]"
   - "[[Thread Merchant]]"
+  - "[[Loom-Cities]]"
+  - "[[The Threadbearer Crisis]]"
 sources:
   - ".raw/Hidden Cosmology Thread System.md"
+  - ".raw/World Anchors and Thread System.md"
 confidence: medium
 ---
 
 # Threadbearers
 
-Mortals who manage Thread flow and "sense fate" — a role every mortal in-world understands mechanically (see the still-uningested `World Anchors and Thread System.md`, this source's own cited baseline), but whose true nature this source reveals to be far stranger than anyone involved realizes.
+Mortals who manage Thread flow and "sense fate" — a role every mortal in-world understands mechanically (see [[World Anchors and Thread System]], the mortal/scholarly baseline this source itself cites), but whose true nature this source reveals to be far stranger than anyone involved realizes.
+
+## The mortal mechanics
+
+Per [[World Anchors and Thread System]]: Threadbearers can manifest **anywhere**, with no bloodline requirement and no divine selection ritual — the event is called **"the Beaming."** When a Threadbearer dies, every surviving Threadbearer immediately senses both the death and the new Bearer's call, and is sacred-duty-bound to find them "or die trying." Cultural treatment varies sharply by region: in the [[Loom-Cities]], Threadbearers are political figures tied to their city's World Anchor; in Corvessa (which has no Anchor of its own), a Threadbearer born there is treated as a living saint, making it the single most religiously-charged Threadbearer culture in the setting. This mortal-facing mechanical layer is presently under acute strain — see [[The Threadbearer Crisis]], where four of five Threadbearers have been assassinated and new manifestations are being actively raced for by protective, controlling, and hostile factions alike.
 
 > [!note] Distinct from the Thread Merchant background
 > [[Thread Merchant]] ([[FEARS Advanced Backgrounds]] Batch 3) is a mundane trade background — buying and selling Thread fragments as spell components. Threadbearers are a cosmological role entirely: they don't trade Threads, they channel and sense them directly, in ways that touch three layers of reality without their knowledge. No mechanical overlap is stated between the two, though a Thread Merchant character would very plausibly know of, deal with, or be fascinated by Threadbearers in play.
@@ -55,7 +63,10 @@ Threadbearers are the mortals closest to cosmic truth, yet interpret everything 
 ## See also
 
 - [[Hidden Cosmology Thread System]]
+- [[World Anchors and Thread System]]
 - [[Aeloria]]
 - [[Loom-Wardens]]
 - [[Thread Merchant]]
+- [[Loom-Cities]]
+- [[The Threadbearer Crisis]]
 - [[FEARS MOC]]

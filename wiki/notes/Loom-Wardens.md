@@ -64,10 +64,15 @@ The Loom-Wardens study [[Threadbearers]] obsessively — sensing they touch some
 
 Could be secret allies, could be manipulating the party toward "fated" outcomes, may know more about an active Threadbearer crisis than they let on, may be internally divided into competing factions, and their morality is deliberately ambiguous — they genuinely believe they serve good, but their methods (fate manipulation, possibly sacrificing individuals for "the greater pattern") can be manipulative or cruel regardless of whether their underlying belief in cosmic necessity turns out to be justified.
 
+> [!note] The "active Threadbearer crisis" referenced above now has a name
+> [[World Anchors and Thread System]] confirms exactly the crisis this page's source anticipated: [[The Threadbearer Crisis]], in which four of five Threadbearers have been assassinated by Drow operatives. Given the Loom-Wardens' stated role guarding Anchors and monitoring Threadbearer recognition, they are a natural (if unconfirmed) faction to place on the "protective" side of that crisis's three-way race — or, given their own internal factionalism, potentially split across more than one side of it.
+
 ## See also
 
 - [[Hidden Cosmology Thread System]]
+- [[World Anchors and Thread System]]
 - [[Aeloria]]
 - [[Threadbearers]]
+- [[The Threadbearer Crisis]]
 - [[Pattern Keeper]]
 - [[FEARS MOC]]
