@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-07-12 | Total pages: 136 | Sources ingested: 49
+Last updated: 2026-07-12 | Total pages: 198 | Sources ingested: 52
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]] | [[FEARS MOC]]
 
@@ -162,6 +162,9 @@ First cluster in an entirely separate domain from the rest of this vault (tablet
 - `Warlock.md` — 2026-07-12 | twenty-second per-class deep-dive (22/24), back to standard format; seventeenth DC formula confirmation, clean Last Stand/Class Reactions confirmations, second Weapon Mastery confirming silence, new Called Shot/Momentum hooks | 0 wiki pages created, 6 updated
 - `Witch.md` — 2026-07-12 | twenty-third per-class deep-dive (23/24); eighteenth DC formula confirmation, clean Last Stand/Class Reactions confirmations, third Weapon Mastery confirming silence, "Hex of Frailty" left as an open unconfirmed claim rather than a contradiction | 0 wiki pages created, 5 updated
 - `Wizard.md` — 2026-07-12 | twenty-fourth and FINAL per-class deep-dive (24/24 — cluster complete); nineteenth DC formula confirmation, second plain-8-base Last Stand DC, fourth Class Reactions pool-bypass shape, copy-paste Momentum error flagged | 0 wiki pages created, 4 updated
+- `FEARS Advanced Backgrounds - Batch 1.md` — 2026-07-12 | new system: 4-rank progression track for 15 backgrounds (Soldier, Criminal, Acolyte, Folk Hero, Guild Artisan, Sage, Charlatan, Entertainer, Pit Fighter, Pauper/Vagabond, Bounty Hunter, Merchant, Witch Hunter, Plague Doctor, Grave Keeper); Batches 2-3 not yet ingested | 16 wiki pages created, 6 updated
+- `FEARS Advanced Backgrounds - Batch 2.md` — 2026-07-12 | 20 more backgrounds (Scout, Ship Captain, Spy, Archaeologist, City Watch, Diplomat, Gladiator, Hermit, Investigator-as-background, Knight, Noble, Pirate, Smuggler, Eldritch Scholar, Exorcist, Hedge Witch, Monster Hunter, Occultist, Rat Catcher, Vampire Hunter); naming collision with the Investigator class flagged and disambiguated; progression-timing contradiction vs. Batch 1 flagged; Batch 3 not yet ingested | 20 wiki pages created, 9 updated
+- `FEARS Advanced Backgrounds - Batch 3.md` — 2026-07-12 | FINAL batch, 26 backgrounds across 8 categories (magic/druidic/urban/social/criminal/working-class/religious/FEARS-specific), completing the system at 61 total; second naming collision (Minstrel/Bard vs. the Bard class) flagged and disambiguated; progression-timing contradiction now 2-vs-1 (Batches 2+3 agree, Batch 1 is the outlier); Corruption design-intent from Batch 2 now mechanically implemented via Inquisitor and Corruption Warden | 26 wiki pages created, 7 updated
 
 ---
 

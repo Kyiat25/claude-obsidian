@@ -23,6 +23,7 @@ related:
   - "[[Eldritch Moons in Combat]]"
   - "[[Sanity & Focus in Combat]]"
   - "[[Fracture Whispers]]"
+  - "[[FEARS Advanced Backgrounds]]"
 ---
 
 # FEARS — Map of Content
@@ -161,6 +162,7 @@ Full table with caster tier, resource, and hit die: [[FEARS Class Roster]]. Per-
 - **New**: [[Binder]]'s source frontmatter reads `status: draft` — a value not seen on any other per-class file (all others read `revised`; three read `excluded` and were later corrected to canon). Not treated as excluded, but flagged as a genuinely new provenance signal worth watching if it recurs on future per-class files.
 - **New**: [[Binder]] is the first per-class deep-dive with zero mention of [[Momentum]], despite its own Bleed Points resource having near-identical gain triggers (taking damage, dropping an enemy). Bleed Points appears to be a fully parallel resource track, not a Momentum variant — flagged as an observation, not a contradiction.
 - **Per-class deep-dive pass complete**: all 24 classes and all non-per-class FEARS files in `.raw/` have now been ingested. `.raw/` holds no known uningested FEARS content as of this entry. The cluster's remaining open threads are cross-referential (contradictions, unconfirmed claims, design patterns) rather than missing sources — see the consolidated summary below.
+- **Subsystem complete (2026-07-12)**: [[FEARS Advanced Backgrounds]] — a 4-rank progression system, all 3 batches now ingested, 61 backgrounds total. Batch 1 (15, core/specialized/dark-fantasy/niche), Batch 2 (20, filling essential/specialized/dark-fantasy gaps), Batch 3 (26, covering magic/druidic/urban/social/criminal/working-class/religious/FEARS-specific categories). Explicitly written for Dór-o Estel's setting themes; Batch 3's FEARS-specific trio ([[Pattern Keeper]], [[Fracture Scout]], [[Corruption Warden]]) are the first content anywhere to give "Faith of the Bound Pattern," Threads, and Loom-Cities real mechanical substance rather than just naming them. **Two genuine naming collisions**: Batch 2's "Investigator" background vs. the [[Investigator]] class, and Batch 3's "Minstrel/Bard" background vs. the [[Bard]] class — both resolved via filename disambiguation, flagged on all four affected pages. **Genuine contradiction, now 2-vs-1**: Batches 2 and 3 agree on rank-transition session counts; Batch 1 alone uses faster numbers, not reconciled. **Corruption tie-in now implemented**: [[Inquisitor]] and [[Corruption Warden]] (Batch 3) give Batch 2's abstract "Corruption risk" design intent real numbers (save advantage, immunity, a Corruption-reduction capstone) — Momentum and Breaking Point integration remain unimplemented by any background across all 3 batches. [[Sailor]], [[Urchin]], and [[Outlander]] remain undeveloped despite being flagged after Batch 1 and Batch 3 billing itself as covering "remaining gaps."
 
 ### Cluster-wide patterns, now that all 24 classes are in
 

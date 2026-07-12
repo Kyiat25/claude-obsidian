@@ -40,6 +40,9 @@ confidence: high
 
 **Martial tier** (no spellcasting — a Ritualist, not a caster: no Spell Save DC anywhere in this source). "Every creature has a system. Every system has a failure point. Find it. Press it." A burst striker, skill master, and supernatural specialist — devastating against bloodied targets, increasingly resistant to (and eventually able to banish) the supernatural. Complexity self-rated HIGH (7/10) by its own per-class deep-dive — tied for the highest complexity rating seen this session.
 
+> [!note] Naming collision with the Investigator background — flagged, not silently resolved
+> [[FEARS Advanced Backgrounds]] Batch 2 introduces an "Investigator" *background* ([[Investigator (Background)]]) — a completely different mechanical concept (a 4-rank detective-agency progression track) that happens to share this class's name. The two are unrelated in the source text; a character could be this class, that background, both, or neither. Disambiguated via filename since two pages can't both be named `Investigator.md`.
+
 > "Every creature has a system. Every system has a failure point. Find it. Press it."
 
 ## Signature abilities

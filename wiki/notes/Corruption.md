@@ -80,6 +80,10 @@ Thematically adjacent to [[Unstable Magic Zones]]' Dead/Wild Magic Zone collapse
 
 [[Sangromancer]]'s **Vitae Strain** is structurally similar to Corruption — a six-threshold accumulation track (5/10/15/20/25/30) with permanent Boon-and-Curse consequences at each level, reducible only through drastic means — but the source states outright that it is **not** the same stat: "Vitae Strain measures only what the sanguine arts have done to you, not what eldritch exposure has done to your soul." Treated as a deliberately parallel, mechanically-inspired-by-but-distinct-from Corruption system rather than a variant terminology case like [[Bender]]'s "Corruption Point." Worth watching whether any other class introduces its own similarly-shaped-but-separate degradation track.
 
+## Background tie-in — now partially implemented (Batch 3)
+
+[[FEARS Advanced Backgrounds]]'s system-level integration notes state that Rank 3-4 backgrounds "may involve dark compromises," naming Corruption risk as a design intent for high-rank power. Batches 1 and 2 never implemented this mechanically — [[Eldritch Scholar]] came closest with its per-rank "cost" framing (nightmares, appearance changes, unnatural aging), but never named Corruption by number. **Batch 3 changes this**: [[Inquisitor]] (advantage on saves against Corruption at Rank 3, immunity at Rank 4) and [[Corruption Warden]] (advantage on saves at Rank 2, immunity at Rank 4, plus a once-per-year ability to reduce someone else's Corruption by 2 tiers) both give this design intent real numbers — the first background-system content anywhere to state a concrete Corruption interaction.
+
 ## See also
 
 - [[A World that Watches]]

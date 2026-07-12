@@ -37,6 +37,9 @@ confidence: high
 
 **Full Caster tier**. "The world is a story—and you decide how it ends." Manipulates probability and outcomes. Complexity self-rated MODERATE (5/10) by its own per-class deep-dive.
 
+> [!note] Naming collision with the Minstrel background — flagged, not silently resolved
+> [[FEARS Advanced Backgrounds]] Batch 3 introduces a "Minstrel / Bard" *background* ([[Minstrel]]) — a mundane performance-and-fame progression track with no spellcasting anywhere in its text, mechanically unrelated to this class's reality-manipulation magic. Filed under "Minstrel" to avoid a filename collision, same pattern as [[Investigator (Background)]] vs. the Investigator class.
+
 > "You don't play music. You play the room. The music is just how you do it."
 
 ## Signature abilities

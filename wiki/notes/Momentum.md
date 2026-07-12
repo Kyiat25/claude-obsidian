@@ -168,6 +168,10 @@ Casters never count below **−1 MS** when calculating Spell Save DCs, even at �
 
 Enemy-only: a failed [[Breaking Points]] check locks the enemy at **−2 Momentum minimum** until a successful [[Enemy Rally]] resets it — a floor mechanic distinct from the normal −2 range. A Nat 20 Rally resets allies to 0 and grants Advantage on their next attack; a Nat 1 Rally locks them at −2 and forfeits further Rally attempts that combat.
 
+## Background tie-in (unimplemented design intent)
+
+[[FEARS Advanced Backgrounds]]'s system-level notes call for high-rank backgrounds to provide "Momentum Generation" from a fearsome or inspirational reputation. No individual background page specifies a Momentum interaction mechanically — this is a stated design goal at the system level, not yet implemented per background.
+
 ## Design history
 
 [[The Dynamic Combat System (Excluded Draft)|An earlier, explicitly excluded draft]] of the combat system used a **−3 to +3** range (7 states, including an "Overwhelmed" −3 tier: first attack disadvantage, attacks against you have advantage) and different class-specific rules for Barbarian/Monk/Rogue/Fighter. None of that is reflected above — this page documents only the current, confirmed range and rules. Kept for provenance, not as an alternate ruleset.

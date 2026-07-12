@@ -69,6 +69,10 @@ Leaders with Sanity 20+ are immune to casualty-triggered Breaking Points entirel
 
 Off by default (see [[Bloodied Breaking Points Rally]]). If a table opts in: triggers are party-leader-down (DC 12), 50% party incapacitated (DC 15), or GM-declared catastrophic events (DC 10-20). PCs never auto-rout — failure costs −1 Momentum and forces a choice (retreat or stabilize an ally), not a forced flee. Any PC with the highest Focus may attempt Rally; level 17+ PCs may auto-succeed once per combat.
 
+## Background tie-in (unimplemented design intent)
+
+[[FEARS Advanced Backgrounds]]'s system-level notes call for high-rank backgrounds to provide "Breaking Point Protection" — leadership or spiritual strength aiding allies, conceptually similar to this page's Rally mechanic. No individual background page specifies this mechanically; [[Soldier]]'s Rally the Troops and [[Knight]]'s Knight's Banner are the closest analogues (both grant temp HP + fear-save benefits to nearby allies) but neither is stated to interact with Breaking Points specifically.
+
 ## See also
 
 - [[Bloodied Breaking Points Rally]]
