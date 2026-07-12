@@ -23,7 +23,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-07-12 | Total pages: 198 | Sources ingested: 52
+Last updated: 2026-07-12 | Total pages: 211 | Sources ingested: 55
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]] | [[FEARS MOC]]
 
@@ -165,6 +165,10 @@ First cluster in an entirely separate domain from the rest of this vault (tablet
 - `FEARS Advanced Backgrounds - Batch 1.md` — 2026-07-12 | new system: 4-rank progression track for 15 backgrounds (Soldier, Criminal, Acolyte, Folk Hero, Guild Artisan, Sage, Charlatan, Entertainer, Pit Fighter, Pauper/Vagabond, Bounty Hunter, Merchant, Witch Hunter, Plague Doctor, Grave Keeper); Batches 2-3 not yet ingested | 16 wiki pages created, 6 updated
 - `FEARS Advanced Backgrounds - Batch 2.md` — 2026-07-12 | 20 more backgrounds (Scout, Ship Captain, Spy, Archaeologist, City Watch, Diplomat, Gladiator, Hermit, Investigator-as-background, Knight, Noble, Pirate, Smuggler, Eldritch Scholar, Exorcist, Hedge Witch, Monster Hunter, Occultist, Rat Catcher, Vampire Hunter); naming collision with the Investigator class flagged and disambiguated; progression-timing contradiction vs. Batch 1 flagged; Batch 3 not yet ingested | 20 wiki pages created, 9 updated
 - `FEARS Advanced Backgrounds - Batch 3.md` — 2026-07-12 | FINAL batch, 26 backgrounds across 8 categories (magic/druidic/urban/social/criminal/working-class/religious/FEARS-specific), completing the system at 61 total; second naming collision (Minstrel/Bard vs. the Bard class) flagged and disambiguated; progression-timing contradiction now 2-vs-1 (Batches 2+3 agree, Batch 1 is the outlier); Corruption design-intent from Batch 2 now mechanically implemented via Inquisitor and Corruption Warden | 26 wiki pages created, 7 updated
+- Homebrew (no `.raw/` source) — 2026-07-12 | Sailor, Urchin, Outlander written to close the 3-backgrounds gap none of the 3 batches ever filled; each built on a mechanical axis distinct from its nearest cousin (Sailor vs. Ship Captain/Fisher, Urchin vs. Criminal, Outlander vs. Scout — the last with no income table at any rank, unique in the 64-background system) | 3 wiki pages created, 5 updated
+- `How the Five Layers Shape the Creation World.md` — 2026-07-12 | first ingest of a new DM-only cosmology domain; structures [[The Weave]] as a five-Layer proving-ground cosmology with 4 unaware Primal Forces (Astralor, Aeloria, The Whispering Dark, The Restorer); flags a genuine tension against Four Threads of the Mind's "Weave watches/waits" personification; surfaced 15 more uningested cosmology sources in `.raw/` | 5 wiki pages created, 9 updated
+- `Hidden Cosmology Thread System.md` — 2026-07-12 | marked `canonical`; reframes Astralor/Aeloria as "the Twins of Creation," gives Aeloria uniquely elevated, deliberately-concealed near-omniscience (flagged against the prior source's "none of them know" claim); explains Thread rotation via 3 uncoordinated forces; introduces Threadbearers, the Loom-Wardens, and permanently-unexplained World Trees; narrows the uningested cosmology cluster from 15 to 12 files | 4 wiki pages created, 12 updated
+- `Twins of Creation.md` — 2026-07-12 | confirms Astralor/Aeloria are literal siblings, gives both real personalities; **directly contradicts** the prior source instead of extending it — Aeloria does not know The Restorer exists and misreads The Whispering Dark; elevates The Restorer to "sees the entire pattern"; produces an active 3-way irreconcilable disagreement across all cosmology sources on who knows what (documented, not resolved); narrows the uningested cosmology cluster from 12 to 11 files | 1 wiki page created, 11 updated
 
 ---
 

@@ -19,6 +19,8 @@ related:
   - "[[Thread Merchant]]"
   - "[[Unstable Magic Zones]]"
   - "[[Fracture Whispers]]"
+  - "[[Loom-Wardens]]"
+  - "[[Aeloria]]"
 sources:
   - ".raw/FEARS Advanced Backgrounds - Batch 3.md"
 confidence: high
@@ -63,10 +65,15 @@ confidence: high
 
 **Feature — Master of Divine Weave**: permanently stabilize medium wild magic zones via a week-long ritual; sense Pattern disturbances across the entire world; once per year, temporarily restore a small Pattern portion to the godly era (pre-death conditions, 1 day); see threads of fate and destiny connecting people; may be able to communicate with the Pattern itself. Wizards seek your knowledge of magic's foundation, rulers fear your power over reality, and you may know why the gods died — some say you can reweave the Pattern, forbidden knowledge.
 
+> [!note] The Faith you serve is secretly manipulated by the Loom-Wardens
+> [[Hidden Cosmology Thread System]] reveals a secret organization, [[Loom-Wardens]], operating *within* the Faith of the Bound Pattern — guiding theological interpretation, influencing which Threadbearers get recognized, and shaping Thread policy, all while unknowingly serving [[Aeloria]] rather than the Pattern itself. A Pattern Keeper NPC or PC could very plausibly be an unwitting Loom-Warden, or a genuine believer whose faith is quietly steered by forces even the Faith's own hierarchy doesn't know exist. No source confirms this directly for Pattern Keeper specifically — flagged as a strong implied connection, not a stated one.
+
 ## See also
 
 - [[FEARS Advanced Backgrounds]]
 - [[Thread Merchant]]
 - [[Unstable Magic Zones]]
+- [[Loom-Wardens]]
+- [[Aeloria]]
 - [[Fracture Whispers]]
 - [[FEARS MOC]]

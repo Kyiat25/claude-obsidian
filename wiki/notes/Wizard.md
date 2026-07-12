@@ -23,6 +23,7 @@ related:
   - "[[Weapon Mastery]]"
   - "[[Last Stand]]"
   - "[[Class Reactions]]"
+  - "[[The Weave]]"
 sources:
   - "[[Class_breakdown]]"
   - "[[Classes_Summary]]"
@@ -31,6 +32,9 @@ confidence: high
 ---
 
 # Wizard — Master of the Weave
+
+> [!note] "The Weave" now has cosmological structure
+> This class's own subtitle names [[The Weave]] directly. [[How the Five Layers Shape the Creation World]] is the first source to actually structure what the Weave is — a five-layer cosmology with four unaware Primal Forces — rather than leave it as unexplained flavor. Worth reading alongside this page.
 
 **Full Caster tier**. "The wizard doesn't command magic. The wizard understands it — and understanding is the more dangerous power." Wins encounters before they begin through preparation rather than raw power; fragile, but the best-positioned class to adapt when a plan goes wrong because it read the scenario first. Complexity self-rated HIGH (8/10) by its own per-class deep-dive. The twenty-fourth and final per-class deep-dive ingested this cluster.
 

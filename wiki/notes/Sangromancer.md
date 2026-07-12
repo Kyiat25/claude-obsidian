@@ -26,6 +26,7 @@ related:
   - "[[Weapon Mastery]]"
   - "[[Last Stand]]"
   - "[[Class Reactions]]"
+  - "[[The Weave]]"
 sources:
   - "[[Welcome to FEARS]]"
   - "[[Classes_Summary]]"

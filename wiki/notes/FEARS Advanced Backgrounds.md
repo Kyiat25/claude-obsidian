@@ -76,6 +76,9 @@ related:
   - "[[Pattern Keeper]]"
   - "[[Fracture Scout]]"
   - "[[Corruption Warden]]"
+  - "[[Sailor]]"
+  - "[[Urchin]]"
+  - "[[Outlander]]"
   - "[[Reputation]]"
   - "[[Wanted Score]]"
   - "[[Black Market]]"
@@ -88,7 +91,7 @@ confidence: high
 
 # FEARS Advanced Backgrounds
 
-A 4-rank progression system that turns a PHB-style background from static character history into an ongoing advancement track running alongside class levels. **The system is now complete**: 61 backgrounds across all 3 batches, matching Batch 3's own closing count exactly. Each background grants, at Rank 1: skill/tool/language proficiencies, starting equipment, a named Feature, and starting Holdings. Each subsequent rank (2, 3, 4) grants expanded Holdings, an upgraded/expanded Feature, and requires completing a specific in-fiction Progression trigger to unlock — there is no XP or session-count gate alone; the trigger is the gate.
+A 4-rank progression system that turns a PHB-style background from static character history into an ongoing advancement track running alongside class levels. **64 backgrounds total**: 61 across the 3 ingested source batches, plus 3 homebrew additions ([[Sailor]], [[Urchin]], [[Outlander]]) written to close a gap none of the 3 batches ever filled — see below. Each background grants, at Rank 1: skill/tool/language proficiencies, starting equipment, a named Feature, and starting Holdings. Each subsequent rank (2, 3, 4) grants expanded Holdings, an upgraded/expanded Feature, and requires completing a specific in-fiction Progression trigger to unlock — there is no XP or session-count gate alone; the trigger is the gate.
 
 ## Power budget per rank
 
@@ -150,7 +153,7 @@ Batch 3 adds the one genuinely new, concrete rule missing from Batches 1 and 2 �
 
 ## The 20 backgrounds (Batch 2)
 
-Batch 2 fulfills every slot Batch 1's "not-yet-developed" list flagged, except three ([[Sailor]], [[Urchin]], [[Outlander]] — still missing after both batches, see below).
+Batch 2 fulfills every slot Batch 1's "not-yet-developed" list flagged, except three ([[Sailor]], [[Urchin]], [[Outlander]] — see the homebrew section below).
 
 | # | Background | Tier | Rank 1 → Rank 4 |
 |---|---|---|---|
@@ -238,13 +241,21 @@ Batch 2's integration notes state higher ranks should provide: **Sanity bonuses*
 
 Maps each vanilla 5E/Grim Hollow background onto its replacement: Acolyte, Charlatan, Criminal, Entertainer, Folk Hero, Guild Artisan, Sage, and Soldier are directly rank-1-through-4 versions of the PHB backgrounds of the same name. Pauper (Vagabond), Pit Fighter, and Gladiator come from Grim Hollow (Gladiator explicitly distinguished from Pit Fighter — legitimate spectacle vs. underground/illegal fighting). Hermit and Noble (Batch 1's "adaptable but not yet written" list) are now covered by Batch 2. Pauper (Beggar) is noted as "already covered in project files" (not part of this source; not yet located in this vault).
 
-## Still not developed after all 3 batches
+## Homebrew additions: Sailor, Urchin, Outlander
 
-**[[Sailor]], [[Urchin]], [[Outlander]]** — all three were on Batch 1's "adaptable but not yet written" list, and none of them appear anywhere in Batch 2 or Batch 3 either. No wiki pages exist for them, and no batch ever circled back to them despite Batch 3 explicitly billing itself as covering "the remaining gaps." Genuinely orphaned at this point — not a documentation gap so much as three PHB backgrounds this system apparently never intends to cover.
+**[[Sailor]], [[Urchin]], [[Outlander]]** — all three were on Batch 1's "adaptable but not yet written" list, and none of them ever appeared in Batch 2 or Batch 3 either, despite Batch 3 explicitly billing itself as covering "the remaining gaps." No `.raw/` source exists for any of them. Rather than leave them as permanent dead links, all three were written from scratch to match this system's template and power curve — but each was deliberately built around a mechanical axis its nearest existing cousin *doesn't* use, rather than reskinning that cousin's structure:
 
-## System complete: all 3 batches ingested
+| # | Background | Distinct from | Its own axis | Rank 1 → Rank 4 |
+|---|---|---|---|---|
+| 1 | [[Sailor]] | [[Ship Captain]] (ownership), [[Fisher]] (trade income) | Debts owed by survivors + a superstitious reputation — **no income table at any rank** | Survivor → The Unsinkable |
+| 2 | [[Urchin]] | [[Criminal]] (hierarchy, profit) | Social invisibility weaponized — the powerful structurally never register you as a threat or suspect | Nobody → The One Who Was Never There |
+| 3 | [[Outlander]] | [[Scout]] (paid guiding career) | Belonging, not expertise — sought out rather than hired, never fully fits either world | Stranger to Walls → Between Both Worlds |
 
-`.raw/FEARS Advanced Backgrounds - Batch 1.md`, `Batch 2.md`, and `Batch 3.md` have all been ingested. This page and the 61 background pages above cover the full system as it currently exists in `.raw/`.
+Outlander is notable as the only background in the entire 64-entry system with **no income figure at any rank** — deliberate, since the whole point of the background is that you don't participate in the cash economy other backgrounds are built on.
+
+## System complete: all 3 batches ingested, plus 3 homebrew fills
+
+`.raw/FEARS Advanced Backgrounds - Batch 1.md`, `Batch 2.md`, and `Batch 3.md` have all been ingested, and the 3 backgrounds none of them developed have been written to close the gap. This page and the 64 background pages above cover the full system as it now exists in this vault.
 
 ## See also
 
@@ -309,6 +320,9 @@ Maps each vanilla 5E/Grim Hollow background onto its replacement: Acolyte, Charl
 - [[Pattern Keeper]]
 - [[Fracture Scout]]
 - [[Corruption Warden]]
+- [[Sailor]]
+- [[Urchin]]
+- [[Outlander]]
 - [[Reputation]]
 - [[Wanted Score]]
 - [[Black Market]]

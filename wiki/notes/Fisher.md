@@ -17,6 +17,7 @@ first_mentioned: "[[FEARS Advanced Backgrounds]]"
 related:
   - "[[FEARS Advanced Backgrounds]]"
   - "[[Ship Captain]]"
+  - "[[Sailor]]"
 sources:
   - ".raw/FEARS Advanced Backgrounds - Batch 3.md"
 confidence: high
@@ -64,5 +65,6 @@ confidence: high
 ## See also
 
 - [[FEARS Advanced Backgrounds]]
+- [[Sailor]]
 - [[Ship Captain]]
 - [[FEARS MOC]]

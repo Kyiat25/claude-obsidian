@@ -21,6 +21,7 @@ related:
   - "[[Spirit Debt]]"
   - "[[Territory Bond]]"
   - "[[Witch]]"
+  - "[[The Weave]]"
 sources:
   - ".raw/Narrative Identity.md"
 source_type: article

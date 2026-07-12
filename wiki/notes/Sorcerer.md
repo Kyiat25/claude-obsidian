@@ -22,6 +22,7 @@ related:
   - "[[Weapon Mastery]]"
   - "[[Last Stand]]"
   - "[[Class Reactions]]"
+  - "[[The Weave]]"
 sources:
   - "[[Class_breakdown]]"
   - "[[Classes_Summary]]"

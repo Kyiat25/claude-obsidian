@@ -1076,6 +1076,75 @@
         "wiki/notes/Bard.md"
       ],
       "note": "Third and FINAL batch of the FEARS Advanced Backgrounds system. 26 backgrounds across 8 categories (Magic-Focused, Druidic/Nature, Urban Specialist, Social/Performance, Criminal Specialist, Working Class, Specialized Religious, FEARS-Specific). Completes the system at 61 total backgrounds across 3 batches, matching the source's own closing count. Second genuine naming collision this system: 'Minstrel/Bard' vs. the existing Bard class, resolved via filename (filed under 'Minstrel'). Third data point on the progression-timing contradiction: Batch 3's session counts match Batch 2's (both higher than Batch 1's), making Batch 1 the outlier 2-to-1. Batch 3's own 'Integration with FEARS Systems' section is more concrete than Batch 2's: Inquisitor and Corruption Warden explicitly implement Corruption resistance/immunity, fulfilling design intent Batch 2 only stated abstractly. FEARS-specific backgrounds (Pattern Keeper, Fracture Scout, Corruption Warden) give first-ever concrete mechanical treatment to 'Faith of the Bound Pattern' and confirm Threads/Loom-Cities as tradeable components via Thread Merchant."
+    },
+    ".raw/How the Five Layers Shape the Creation World.md": {
+      "hash": "c1a3c26a386467d5ef1d9dbf2fe436e8",
+      "ingested_at": "2026-07-12",
+      "pages_created": [
+        "wiki/notes/How the Five Layers Shape the Creation World.md",
+        "wiki/notes/Astralor.md",
+        "wiki/notes/Aeloria.md",
+        "wiki/notes/The Whispering Dark.md",
+        "wiki/notes/The Restorer.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/notes/Wizard.md",
+        "wiki/notes/Sorcerer.md",
+        "wiki/notes/Sangromancer.md",
+        "wiki/notes/Four Threads of the Mind.md",
+        "wiki/notes/Narrative Identity.md"
+      ],
+      "note": "First ingest of a new DM-only cosmology domain, entirely separate from the class/background mechanics work so far. Introduces 'the Weave' and 'Creation World' as a proving-ground cosmology with Five Layers (Primal/Universal/Elemental/Form/Personal Glyphs), confirmed connected to existing FEARS content (Wizard 'Master of the Weave', Sorcerer, Sangromancer, Four Threads of the Mind, Narrative Identity). Surfaced a much larger uningested cluster: 5 directly-adjacent Creation-World files (Creation World.md, Creations Misunderstanding.md, Twins of Creation.md, Weave and Magic.md, Weave of Creation.md) plus 10 more Eldritch/Thread/Loom-City cosmology files not yet ingested. Only this one file was ingested per explicit user request; the cluster is flagged, not pursued."
+    },
+    ".raw/Hidden Cosmology Thread System.md": {
+      "hash": "126c72823f6aa9d07ecd38be37ed39a2",
+      "ingested_at": "2026-07-12",
+      "pages_created": [
+        "wiki/notes/Hidden Cosmology Thread System.md",
+        "wiki/notes/Loom-Wardens.md",
+        "wiki/notes/Threadbearers.md",
+        "wiki/notes/World Trees.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/notes/The Weave.md",
+        "wiki/notes/Dór-o Estel.md",
+        "wiki/notes/Astralor.md",
+        "wiki/notes/Aeloria.md",
+        "wiki/notes/The Whispering Dark.md",
+        "wiki/notes/The Restorer.md",
+        "wiki/notes/Pattern Keeper.md",
+        "wiki/notes/Thread Merchant.md"
+      ],
+      "note": "Second cosmology ingest, directly building on How the Five Layers Shape the Creation World. Marked 'canonical' (stronger provenance than the first source's 'complete'). Reveals Astralor and Aeloria as 'the Twins of Creation', gives Aeloria uniquely elevated and deliberately-concealed near-omniscience (a genuine tension against the first source's 'none of them know' framing, flagged not resolved), explains Thread rotation mechanically via three uncoordinated cosmic forces, introduces Threadbearers and the Loom-Wardens, and gives World Trees a deliberately permanent (by design) unexplained mystery. Reduces the previously-flagged 15-file uningested cosmology cluster to 12 remaining files."
+    },
+    ".raw/Twins of Creation.md": {
+      "hash": "9beb3f9f88e937cfb2fac20be901d649",
+      "ingested_at": "2026-07-12",
+      "pages_created": [
+        "wiki/notes/Twins of Creation.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/notes/The Weave.md",
+        "wiki/notes/Dór-o Estel.md",
+        "wiki/notes/Astralor.md",
+        "wiki/notes/Aeloria.md",
+        "wiki/notes/The Whispering Dark.md",
+        "wiki/notes/The Restorer.md",
+        "wiki/notes/Hidden Cosmology Thread System.md"
+      ],
+      "note": "Third cosmology source, and the first to directly contradict rather than just extend the prior two. Confirms Astralor and Aeloria are literal siblings, 'the Twins of Creation', and gives both real personalities for the first time. Directly contradicts Hidden Cosmology Thread System's central claim that Aeloria knows almost everything -- this source states she does not know The Restorer exists and misunderstands The Whispering Dark, and instead elevates The Restorer to 'the only force that sees the entire pattern'. This produces a three-way irreconcilable disagreement across all three cosmology sources about who knows what, documented as a comparison table on The Weave and Twins of Creation's own pages rather than silently resolved. Narrows the uningested cosmology cluster from 12 to 11 files."
     }
   },
   "address_map": {
@@ -1242,6 +1311,19 @@
     "wiki/notes/Pilgrim.md": "c-000162",
     "wiki/notes/Pattern Keeper.md": "c-000163",
     "wiki/notes/Fracture Scout.md": "c-000164",
-    "wiki/notes/Corruption Warden.md": "c-000165"
+    "wiki/notes/Corruption Warden.md": "c-000165",
+    "wiki/notes/Sailor.md": "c-000166",
+    "wiki/notes/Urchin.md": "c-000167",
+    "wiki/notes/Outlander.md": "c-000168",
+    "wiki/notes/How the Five Layers Shape the Creation World.md": "c-000169",
+    "wiki/notes/Astralor.md": "c-000170",
+    "wiki/notes/Aeloria.md": "c-000171",
+    "wiki/notes/The Whispering Dark.md": "c-000172",
+    "wiki/notes/The Restorer.md": "c-000173",
+    "wiki/notes/Hidden Cosmology Thread System.md": "c-000174",
+    "wiki/notes/Loom-Wardens.md": "c-000175",
+    "wiki/notes/Threadbearers.md": "c-000176",
+    "wiki/notes/World Trees.md": "c-000177",
+    "wiki/notes/Twins of Creation.md": "c-000178"
   }
 }

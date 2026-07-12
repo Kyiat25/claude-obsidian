@@ -16,6 +16,7 @@ role: "advanced background"
 first_mentioned: "[[FEARS Advanced Backgrounds]]"
 related:
   - "[[FEARS Advanced Backgrounds]]"
+  - "[[Sailor]]"
 sources:
   - ".raw/FEARS Advanced Backgrounds - Batch 2.md"
 confidence: high
@@ -65,5 +66,6 @@ confidence: high
 ## See also
 
 - [[FEARS Advanced Backgrounds]]
+- [[Sailor]]
 - [[Pirate]]
 - [[FEARS MOC]]

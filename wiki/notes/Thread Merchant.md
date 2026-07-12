@@ -62,9 +62,14 @@ confidence: high
 
 **Feature — Lord of Magical Trade**: acquire any non-artifact spell component given reasonable time; first access to newly discovered Thread sources; influence magical policy through economic pressure; once per month, grant a significant component gift to curry favor with a powerful organization; your supply affects what magic can be cast across regions. Archmages must negotiate with you for rare materials, governments fear your economic power, and you may have discovered a way to stabilize or cultivate Threads.
 
+> [!note] What Threads actually are, now confirmed
+> [[Hidden Cosmology Thread System]] confirms Threads aren't just tradeable components — they're the elemental structure [[Astralor]] built reality from, and their rotation between locations is the result of three unwitting cosmic forces ([[Aeloria]], [[The Whispering Dark]], [[The Restorer]]) working at cross-purposes. A Thread Merchant character would have no idea their stock is, cosmically speaking, fought over by gods who don't know each other exist. See [[Threadbearers]] for the mortals who channel Threads directly rather than trading them.
+
 ## See also
 
 - [[FEARS Advanced Backgrounds]]
 - [[Fracture Whispers]]
 - [[Merchant]]
+- [[Threadbearers]]
+- [[Hidden Cosmology Thread System]]
 - [[FEARS MOC]]

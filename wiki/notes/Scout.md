@@ -16,6 +16,7 @@ role: "advanced background"
 first_mentioned: "[[FEARS Advanced Backgrounds]]"
 related:
   - "[[FEARS Advanced Backgrounds]]"
+  - "[[Outlander]]"
 sources:
   - ".raw/FEARS Advanced Backgrounds - Batch 2.md"
 confidence: high
@@ -65,4 +66,5 @@ confidence: high
 ## See also
 
 - [[FEARS Advanced Backgrounds]]
+- [[Outlander]]
 - [[FEARS MOC]]

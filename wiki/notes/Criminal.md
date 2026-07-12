@@ -18,6 +18,7 @@ related:
   - "[[FEARS Advanced Backgrounds]]"
   - "[[Black Market]]"
   - "[[Wanted Score]]"
+  - "[[Urchin]]"
 sources:
   - ".raw/FEARS Advanced Backgrounds - Batch 1.md"
 confidence: high
@@ -67,6 +68,7 @@ confidence: high
 ## See also
 
 - [[FEARS Advanced Backgrounds]]
+- [[Urchin]]
 - [[Black Market]]
 - [[Wanted Score]]
 - [[FEARS MOC]]
