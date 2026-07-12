@@ -2,8 +2,1073 @@
   "version": 1,
   "created": "2026-04-23",
   "description": "Ingest delta tracker and address map for the claude-obsidian vault. Do not hand-edit; wiki-ingest maintains this.",
-  "sources": {},
+  "sources": {
+    ".raw/Welcome to FEARS.md": {
+      "hash": "1ff527a6491365907b72e89a43498ed9",
+      "ingested_at": "2026-07-11",
+      "pages_created": [
+        "wiki/notes/Welcome to FEARS.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/notes/FEARS Combat System.md",
+        "wiki/notes/Whisper Points.md",
+        "wiki/notes/Dynamic Action Economy.md",
+        "wiki/notes/Unstable Magic Zones.md",
+        "wiki/notes/Translation Matrix.md",
+        "wiki/notes/Consequence Engine.md",
+        "wiki/notes/Daldir Lunadreamer.md",
+        "wiki/notes/Investigator.md",
+        "wiki/notes/Inventor.md",
+        "wiki/notes/Magus.md",
+        "wiki/notes/Psion.md",
+        "wiki/notes/Runesmith.md",
+        "wiki/notes/Sangromancer.md",
+        "wiki/notes/Shadowbinder.md",
+        "wiki/notes/Shaman.md",
+        "wiki/notes/Tamer.md",
+        "wiki/notes/Tattooist.md",
+        "wiki/notes/Thaumaturge.md",
+        "wiki/notes/Witch.md"
+      ],
+      "pages_updated": [
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/A World that Watches.md": {
+      "hash": "6699926786849e296b80376ca18e3bdf",
+      "ingested_at": "2026-07-11",
+      "pages_created": [
+        "wiki/notes/A World that Watches.md",
+        "wiki/notes/Dór-o Estel.md",
+        "wiki/notes/Disposition.md",
+        "wiki/notes/Wanted Score.md",
+        "wiki/notes/Reputation.md",
+        "wiki/notes/Black Market.md",
+        "wiki/notes/Hideouts.md",
+        "wiki/notes/Sanity.md",
+        "wiki/notes/Focus.md",
+        "wiki/notes/Corruption.md",
+        "wiki/notes/Luck.md",
+        "wiki/notes/Memory.md",
+        "wiki/notes/Occult.md",
+        "wiki/notes/Streetwise.md",
+        "wiki/notes/Whisper Engine.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Translation Matrix.md",
+        "wiki/notes/Dynamic Action Economy.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/FEARS Character Framework.md": {
+      "hash": "4c50f87ed5315fb1ba088771e3524e67",
+      "ingested_at": "2026-07-11",
+      "pages_created": [
+        "wiki/notes/FEARS Character Framework.md",
+        "wiki/notes/FEARS Character Sheet.md",
+        "wiki/notes/Mental State.md",
+        "wiki/notes/Called Shot.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/FEARS Combat System.md",
+        "wiki/notes/Whisper Points.md",
+        "wiki/notes/Translation Matrix.md",
+        "wiki/notes/Sanity.md",
+        "wiki/notes/Focus.md",
+        "wiki/notes/Corruption.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Four Threads of the Mind.md": {
+      "hash": "4228eaafa252f91c65f80ec6fea44f73",
+      "ingested_at": "2026-07-11",
+      "pages_created": [
+        "wiki/notes/Four Threads of the Mind.md",
+        "wiki/notes/Archivists of the Shattered Loom.md",
+        "wiki/notes/The Weave.md",
+        "wiki/notes/Burned out.md",
+        "wiki/notes/Broken.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Focus.md",
+        "wiki/notes/Sanity.md",
+        "wiki/notes/Corruption.md",
+        "wiki/notes/Luck.md",
+        "wiki/notes/Mental State.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Narrative Identity.md": {
+      "hash": "74e055210c7139ec07e6f81c2dcced9e",
+      "ingested_at": "2026-07-11",
+      "pages_created": [
+        "wiki/notes/Narrative Identity.md",
+        "wiki/notes/Narrative Identity Framework.md",
+        "wiki/notes/Warden.md",
+        "wiki/notes/Reaper.md",
+        "wiki/notes/Bender.md",
+        "wiki/notes/Apothecary.md",
+        "wiki/notes/Spirit Debt.md",
+        "wiki/notes/Territory Bond.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Witch.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Classes_Summary.md": {
+      "hash": "a55fdcfd2f27495d564683d320157da9",
+      "ingested_at": "2026-07-11",
+      "pages_created": [
+        "wiki/notes/Classes_Summary.md",
+        "wiki/notes/FEARS Class Roster.md",
+        "wiki/notes/Binder.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Psion.md",
+        "wiki/notes/Runesmith.md",
+        "wiki/notes/Shadowbinder.md",
+        "wiki/notes/Tamer.md",
+        "wiki/notes/Thaumaturge.md",
+        "wiki/notes/Investigator.md",
+        "wiki/notes/Inventor.md",
+        "wiki/notes/Magus.md",
+        "wiki/notes/Sangromancer.md",
+        "wiki/notes/Shaman.md",
+        "wiki/notes/Tattooist.md",
+        "wiki/notes/Witch.md",
+        "wiki/notes/Bender.md",
+        "wiki/notes/Warden.md",
+        "wiki/notes/Reaper.md",
+        "wiki/notes/Apothecary.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Class_breakdown.md": {
+      "hash": "4fddb699b771d6db209d37f89a5968e7",
+      "ingested_at": "2026-07-11",
+      "pages_created": [
+        "wiki/notes/Class_breakdown.md",
+        "wiki/notes/FEARS Class Format.md",
+        "wiki/notes/Barbarian.md",
+        "wiki/notes/Fighter.md",
+        "wiki/notes/Monk.md",
+        "wiki/notes/Rogue.md",
+        "wiki/notes/Ranger.md",
+        "wiki/notes/Paladin.md",
+        "wiki/notes/Wizard.md",
+        "wiki/notes/Sorcerer.md",
+        "wiki/notes/Warlock.md",
+        "wiki/notes/Druid.md",
+        "wiki/notes/Cleric.md",
+        "wiki/notes/Bard.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Investigator.md",
+        "wiki/notes/Inventor.md",
+        "wiki/notes/Apothecary.md",
+        "wiki/notes/Magus.md",
+        "wiki/notes/Sangromancer.md",
+        "wiki/notes/Shaman.md",
+        "wiki/notes/Tattooist.md",
+        "wiki/notes/Witch.md",
+        "wiki/notes/Bender.md",
+        "wiki/notes/Warden.md",
+        "wiki/notes/Reaper.md",
+        "wiki/notes/Binder.md",
+        "wiki/notes/FEARS Class Roster.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/DCS.md": {
+      "hash": "253d2cbd19da1d2edc1dce16225078dc",
+      "ingested_at": "2026-07-11",
+      "pages_created": [
+        "wiki/notes/Dynamic Combat System (DCS).md",
+        "wiki/notes/Evasion.md",
+        "wiki/notes/Damage Reduction.md",
+        "wiki/notes/Shields.md",
+        "wiki/notes/Tactical Reactions.md",
+        "wiki/notes/Momentum.md",
+        "wiki/notes/Combat Flow.md",
+        "wiki/notes/Injury System.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Called Shot.md",
+        "wiki/notes/FEARS Combat System.md",
+        "wiki/notes/Rogue.md",
+        "wiki/notes/Monk.md",
+        "wiki/notes/Ranger.md",
+        "wiki/notes/Barbarian.md",
+        "wiki/notes/Paladin.md",
+        "wiki/notes/Fighter.md",
+        "wiki/notes/Magus.md",
+        "wiki/notes/Investigator.md",
+        "wiki/notes/Shaman.md",
+        "wiki/notes/Witch.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Bloodied Breaking Points Rally.md": {
+      "hash": "bc8139b8c918391d855c9e90359f1120",
+      "ingested_at": "2026-07-11",
+      "pages_created": [
+        "wiki/notes/Bloodied Breaking Points Rally.md",
+        "wiki/notes/Bloodied and Bruised.md",
+        "wiki/notes/Breaking Points.md",
+        "wiki/notes/Enemy Rally.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Combat Flow.md",
+        "wiki/notes/Momentum.md",
+        "wiki/notes/Injury System.md",
+        "wiki/notes/Called Shot.md",
+        "wiki/notes/Bard.md",
+        "wiki/notes/Warlock.md",
+        "wiki/notes/Cleric.md",
+        "wiki/notes/Paladin.md",
+        "wiki/notes/Investigator.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ]
+    },
+    ".raw/Combat Flow.md": {
+      "hash": "73d2d7b2cb4cf2d11608be1346af05cd",
+      "ingested_at": "2026-07-11",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Combat Flow.md",
+        "wiki/notes/Tactical Reactions.md",
+        "wiki/notes/Dynamic Combat System (DCS).md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "No pages_created — filename collided with the pre-existing wiki/notes/Combat Flow.md page (a DCS-level summary of this exact subsystem), which was upgraded in place instead of duplicated. No new address allocated; c-000078 (Combat Flow's existing address) was reused."
+    },
+    ".raw/Called Shots.md": {
+      "hash": "4ac03daa59df9f3d6b61ef7f7e1a0eab",
+      "ingested_at": "2026-07-11",
+      "pages_created": [
+        "wiki/notes/Called Shot Subclass Features.md",
+        "wiki/notes/Called Shot Feats.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Called Shot.md",
+        "wiki/notes/Rogue.md",
+        "wiki/notes/Monk.md",
+        "wiki/notes/Fighter.md",
+        "wiki/notes/Barbarian.md",
+        "wiki/notes/Ranger.md",
+        "wiki/notes/Paladin.md",
+        "wiki/notes/Bard.md",
+        "wiki/notes/Warlock.md",
+        "wiki/notes/Wizard.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Deepens the existing wiki/notes/Called Shot.md page (same in-place-upgrade pattern as Combat Flow) rather than creating a duplicate source page. Two genuinely new subsystems (subclasses, feats) got their own consolidated table pages instead of per-item pages."
+    },
+    ".raw/Damage Reduction.md": {
+      "hash": "bce86563cb2a4f25d44195ca316ee7cc",
+      "ingested_at": "2026-07-11",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Damage Reduction.md",
+        "wiki/notes/Barbarian.md",
+        "wiki/notes/Monk.md",
+        "wiki/notes/Fighter.md",
+        "wiki/notes/Ranger.md",
+        "wiki/notes/Druid.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Deepens the existing wiki/notes/Damage Reduction.md page (same in-place-upgrade pattern as Combat Flow and Called Shot) rather than creating a duplicate source page. No new address allocated; c-000074 (Damage Reduction's existing address) was reused."
+    },
+    ".raw/Momentum.md": {
+      "hash": "bf0ec9152a178241c83afb66c6257bb5",
+      "ingested_at": "2026-07-11",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Momentum.md",
+        "wiki/notes/Barbarian.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Deepens the existing wiki/notes/Momentum.md page (same in-place-upgrade pattern as Combat Flow, Called Shot, and Damage Reduction) rather than creating a duplicate source page. No new address allocated; c-000077 (Momentum's existing address) was reused."
+    },
+    ".raw/Evasion.md": {
+      "hash": "edda7abdb32455b6fed28b40fc51f3bf",
+      "ingested_at": "2026-07-11",
+      "pages_created": [
+        "wiki/notes/Evasion Feats.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Evasion.md",
+        "wiki/notes/Monk.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Deepens the existing wiki/notes/Evasion.md page (same in-place-upgrade pattern as Combat Flow, Called Shot, Damage Reduction, Momentum) rather than creating a duplicate source page. No new address allocated for Evasion.md itself; c-000073 (Evasion's existing address) was reused. One new address (c-000086) for Evasion Feats."
+    },
+    ".raw/Injury System.md": {
+      "hash": "fccba10cb9920430f8f02e09fab07f6d",
+      "ingested_at": "2026-07-11",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Injury System.md",
+        "wiki/notes/Paladin.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Deepens the existing wiki/notes/Injury System.md page (same in-place-upgrade pattern as the prior five DCS-companion ingests) rather than creating a duplicate source page. No new address allocated; c-000079 (Injury System's existing address) was reused. Also corrected a scope error in the page's own prior text (had implied PC-only; system is universal)."
+    },
+    ".raw/The Dynamic Combat System.md": {
+      "hash": "b4f63a133561a72dd15309415251f7d1",
+      "ingested_at": "2026-07-11",
+      "pages_created": [
+        "wiki/notes/The Dynamic Combat System (Excluded Draft).md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Momentum.md",
+        "wiki/notes/Called Shot.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Source frontmatter is status: excluded (an earlier, superseded 'Version 2.0' draft, not a DCS-companion document). Nothing in it was used to update confirmed page numbers — filed as design history and unverified previews only. Resolves the long-running 'relationship to DCS.md unchecked' flag from prior ingests."
+    },
+    ".raw/Weapon Mastery System.md": {
+      "hash": "786e54bf14050233b74a406bca96c40b",
+      "ingested_at": "2026-07-11",
+      "pages_created": [
+        "wiki/notes/Weapon Mastery System.md",
+        "wiki/notes/Weapon Mastery.md",
+        "wiki/notes/Weapon Skills.md",
+        "wiki/notes/Weapon Mastery Feats.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Monk.md",
+        "wiki/notes/Bender.md",
+        "wiki/notes/Fighter.md",
+        "wiki/notes/Binder.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Largest single document in the cluster. Resolved Focus-vs-Technique-Point (3rd confirming source) and revealed Bender shares Monk's Technique Point mechanic. Also flagged: this source still references 'Summoner' throughout and never mentions 'Binder', despite Classes_Summary confirming that replacement — likely a stale snapshot, not marked excluded."
+    },
+    ".raw/Initiative.md": {
+      "hash": "da6d0c9df44d46f636deaadf9f7278b2",
+      "ingested_at": "2026-07-11",
+      "pages_created": [
+        "wiki/notes/Initiative System.md",
+        "wiki/notes/Initiative.md",
+        "wiki/notes/Seize the Moment.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/The Dynamic Combat System (Excluded Draft).md",
+        "wiki/notes/Paladin.md",
+        "wiki/notes/Bard.md",
+        "wiki/notes/Investigator.md",
+        "wiki/notes/Warlock.md",
+        "wiki/notes/Ranger.md",
+        "wiki/notes/Druid.md",
+        "wiki/notes/Fighter.md",
+        "wiki/notes/Barbarian.md",
+        "wiki/notes/Rogue.md",
+        "wiki/notes/Monk.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Confirms The Dynamic Combat System (Excluded Draft)'s two-phase Initiative preview was accurate — first piece of that draft independently verified rather than superseded. Introduces Seize the Moment, a Focus-based PC reaction with no precedent in any prior source. Did not resolve the still-open Called Shot save-DC formula question."
+    },
+    ".raw/Reaction-based_opportunities.md": {
+      "hash": "f3e0ef2610809965451430d2a91e0eff",
+      "ingested_at": "2026-07-11",
+      "pages_created": [
+        "wiki/notes/Reaction Subclass Features.md",
+        "wiki/notes/Reaction Feats.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Tactical Reactions.md",
+        "wiki/notes/Shields.md",
+        "wiki/notes/Fighter.md",
+        "wiki/notes/Barbarian.md",
+        "wiki/notes/Rogue.md",
+        "wiki/notes/Paladin.md",
+        "wiki/notes/Ranger.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Eighth consecutive DCS-companion source confirmed with zero drift on shared content. Upgraded Tactical Reactions.md in place (no separate source page) with a Standard/Tactical reaction-category split, a full Reaction Economy table, and exact DC formulas for Trap Weapon/Trip-Sweep. Two spin-off pages: Reaction Subclass Features (2nd subclass-system sighting) and Reaction Feats (4th feat-system sighting). Clarified (not contradicted) Shields.md's Great-shield DR wording."
+    },
+    ".raw/Spell Critical.md": {
+      "hash": "f9688af3a207d5525bb377de9be54637",
+      "ingested_at": "2026-07-11",
+      "pages_created": [
+        "wiki/notes/Spell Critical.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Unstable Magic Zones.md",
+        "wiki/notes/Sanity.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "CORRECTED: source's own frontmatter is status: excluded, but the user explicitly instructed this be treated as confirmed canon, not excluded. Page renamed from 'Spell Critical (Excluded Draft).md' to 'Spell Critical.md'. Its Focus Check resolution table is now adopted as fact on Unstable Magic Zones.md; its Fracture Save DC (10+PB) is now adopted as fact on Sanity.md. The Dynamic Combat System (Excluded Draft) was explicitly NOT reclassified - this is source-specific, not a blanket policy change."
+    },
+    ".raw/Eldritch Moons in Combat.md": {
+      "hash": "43ade5d783533fde09d991f7293efcb4",
+      "ingested_at": "2026-07-11",
+      "pages_created": [
+        "wiki/notes/Eldritch Moons in Combat.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Whisper Engine.md",
+        "wiki/notes/Sanity.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Source's own frontmatter is status: excluded (weak provenance - only a bare 'template' tag), but per the same user correction applied to Spell Critical.md, treated as confirmed canon. The Dynamic Combat System (Excluded Draft) was NOT reclassified - source-specific correction only. 12 named Moons with combat Surge Triggers. Second confirmed sighting of an undefined Fracture mechanic (after Spell Critical). New data point toward Whisper Engine's still-open relationship to Whisper Points (rollable Whisper Checks, not just a passive pool)."
+    },
+    ".raw/Sanity & Focus in Combat.md": {
+      "hash": "6d79227f72a025415d0bb8d2628e6b16",
+      "ingested_at": "2026-07-12",
+      "pages_created": [
+        "wiki/notes/Sanity & Focus in Combat.md",
+        "wiki/notes/Fracture Save.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Sanity.md",
+        "wiki/notes/Focus.md",
+        "wiki/notes/Whisper Points.md",
+        "wiki/notes/Momentum.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Third source with status: excluded / tags: [template] shape (after Spell Critical, Eldritch Moons in Combat) - confirmed as canon by the same user correction, verified again rather than assumed. Supplies first Sanity Save formula (1d20+SAN+PROF) and Focus Pool cap (max 3). Surfaces a genuine contradiction: this source's Fracture Save DC (13+Whisper Points) conflicts with Spell Critical's confirmed DC (10+PB) for the same mechanic - both canon, documented as a [!contradiction] on new page Fracture Save.md rather than silently resolved."
+    },
+    ".raw/Fracture Whispers.md": {
+      "hash": "83aa2af3aae3fbfbb1232c064e2b0419",
+      "ingested_at": "2026-07-12",
+      "pages_created": [
+        "wiki/notes/Fracture Whispers.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Fracture Save.md",
+        "wiki/notes/Whisper Points.md",
+        "wiki/notes/Whisper Engine.md",
+        "wiki/notes/Sanity.md",
+        "wiki/notes/Focus.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Fourth and final status: excluded / tags: [template] source (after Spell Critical, Eldritch Moons in Combat, Sanity & Focus in Combat) - treated as canon by 3/3 precedent without re-asking. Cluster payoff document: full Fracture Save roll/outcome/8-effect table, Whisper Point cap formula (1+SAN mod min 1), and resolves the long-standing Whisper Engine/Whisper Points relationship question. Narrows (does not fully resolve) the Fracture Save DC contradiction: this source's 13+Whisper Points formula matches Sanity & Focus in Combat, putting 2-of-4 sources in agreement against Spell Critical's 10+PB."
+    },
+    ".raw/Barbarian.md": {
+      "hash": "d12352cb039a7d621cd36360c1582f77",
+      "ingested_at": "2026-07-12",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Barbarian.md",
+        "wiki/notes/Damage Reduction.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "First of 24 per-class deep-dive ingests. Upgraded Barbarian.md in place (same address c-000060, no new address). Confirmed Momentum interactions and Weapon Mastery crit-progression with zero drift. Surfaced a contradiction: this source's flat level-gated Rage DR conflicts with Damage Reduction.md's confirmed CON-mod-doubled formula, flagged with [!contradiction]. Introduces two new mechanics (Last Stand, Class Reactions) of unknown scope - Barbarian-specific or universal per-class framework, flagged as open question pending the next per-class ingest."
+    },
+    ".raw/Bard.md": {
+      "hash": "1f9a3a2e93c802605c8a483676ea230e",
+      "ingested_at": "2026-07-12",
+      "pages_created": [
+        "wiki/notes/Last Stand.md",
+        "wiki/notes/Class Reactions.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Bard.md",
+        "wiki/notes/Barbarian.md",
+        "wiki/notes/Momentum.md",
+        "wiki/notes/Injury System.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Second per-class deep-dive ingest. Upgraded Bard.md in place (address c-000071 reused). Confirmed Last Stand and Class Reactions as universal per-class mechanics (previously flagged as possibly Barbarian-specific) - spun off into dedicated hub pages Last Stand.md and Class Reactions.md. First explicit spellcaster DC formula in the cluster (8+PB+CHA). New Momentum gain source (Inspirational Momentum) and second Injury System class hook (Soothing Performance)."
+    },
+    ".raw/Apothecary.md": {
+      "hash": "f8a9a986500231494a1f1fb24130b230",
+      "ingested_at": "2026-07-12",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Apothecary.md",
+        "wiki/notes/Momentum.md",
+        "wiki/notes/Injury System.md",
+        "wiki/notes/Corruption.md",
+        "wiki/notes/Class Reactions.md",
+        "wiki/notes/Last Stand.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Third per-class deep-dive ingest, first with the full-detail standard applied from the start. Upgraded Apothecary.md in place (address c-000052 reused). Third confirmation of Last Stand and Class Reactions as universal (3/24). Richest cross-system linking so far: first mechanical Corruption gain triggers (four of them), first Injury System outright-removal class hook (Trauma Specialist), largest Class Reactions set (7), new Called Shot variant (Anatomical Precision, thrown concoctions)."
+    },
+    ".raw/Bender.md": {
+      "hash": "26a678b1ecd7ed2b033ec8130ab44434",
+      "ingested_at": "2026-07-12",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Bender.md",
+        "wiki/notes/Momentum.md",
+        "wiki/notes/Focus.md",
+        "wiki/notes/Corruption.md",
+        "wiki/notes/Sanity.md",
+        "wiki/notes/Bard.md",
+        "wiki/notes/Class Reactions.md",
+        "wiki/notes/Last Stand.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Fourth per-class deep-dive ingest. Upgraded Bender.md in place (address c-000051 reused). Fourth confirmation of Last Stand and Class Reactions. Second independent confirmation of the 8+PB+ability-mod caster DC formula (upgraded to confirmed universal). First confirmed exception to Last Stand's permanent-death clause (Elemental Rebirth). New undefined term Trauma Point. Two new Momentum gain sources. Richest subclass detail seen so far (4 full Disciplines). Notable non-finding: Weapon Mastery System's Bender/Monk Technique Point claim neither confirmed nor contradicted."
+    },
+    ".raw/Binder.md": {
+      "hash": "17e5bbd98989ad0e046aa1d151936091",
+      "ingested_at": "2026-07-12",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Binder.md",
+        "wiki/notes/Weapon Mastery.md",
+        "wiki/notes/Whisper Points.md",
+        "wiki/notes/Focus.md",
+        "wiki/notes/Momentum.md",
+        "wiki/notes/Class Reactions.md",
+        "wiki/notes/Last Stand.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Fifth per-class deep-dive ingest, largest source file this session (47KB). Upgraded Binder.md in place (address c-000057 reused). Fifth confirmation of Last Stand and Class Reactions. Third confirmation of the 8+PB+ability-mod DC formula (Binding Save DC). Resolves old Weapon Mastery gap - Binder likely doesn't participate in that subsystem. First class with zero Momentum mention. Source frontmatter status is 'draft', distinct from 'revised'/'excluded' seen elsewhere - flagged, not treated as excluded."
+    },
+    ".raw/Cleric.md": {
+      "hash": "8265f0a885d10ccea003d88979f2029d",
+      "ingested_at": "2026-07-12",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Cleric.md",
+        "wiki/notes/Last Stand.md",
+        "wiki/notes/Class Reactions.md",
+        "wiki/notes/Called Shot.md",
+        "wiki/notes/Momentum.md",
+        "wiki/notes/Injury System.md",
+        "wiki/notes/Corruption.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Sixth per-class deep-dive ingest (address c-000070 reused). Fourth confirmation of the 8+PB+ability-mod caster DC formula (Spell Save DC). Sixth confirmation of Last Stand (no exception, reaffirms the standard permanent-death clause) and Class Reactions - but Class Reactions gets its second genuine pool exception (Sacred Interposition, once/long rest, not limited by the shared PB pool, same shape as Bender's Last Stand exception). New Momentum interaction on the loss side (Ward of Faith reduces an ally's Momentum loss, the first loss-side rather than gain-side hook). New Called Shot access route (Judgment grants a penalty-free Called Shot via Channel Divinity). Fourth Injury-downgrade class hook (Mercy of the Divine, uniquely can negate a Minor Injury outright). New rougher Corruption threshold (Turn the Profane Expanded, 'typically 8+', GM-adjudicated targeting eligibility, not a character-facing consequence tier - not treated as contradicting the formal 5/10/15/20 table). Confirms the existing Turn Undead enemy-morale hook (from the earlier Bloodied Breaking Points Rally ingest) as the formal ability Turn the Profane. This ingest's wiki page content was written in a prior session turn but the manifest/log/hot-cache/MOC bookkeeping was never completed - closed out now, no re-ingest of source content needed."
+    },
+    ".raw/Druid.md": {
+      "hash": "a7a1a9349f4bebb966e501f5b48908f1",
+      "ingested_at": "2026-07-12",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Druid.md",
+        "wiki/notes/Last Stand.md",
+        "wiki/notes/Class Reactions.md",
+        "wiki/notes/Momentum.md",
+        "wiki/notes/Damage Reduction.md",
+        "wiki/notes/Evasion.md",
+        "wiki/notes/Sanity.md",
+        "wiki/notes/Focus.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Seventh per-class deep-dive ingest (address c-000069 reused). Fifth confirmation of the 8+PB+ability-mod caster DC formula (Spell Save DC). Seventh confirmation of Last Stand (no exception). Class Reactions gets a deeper exception than Cleric's: Druid's three reaction-triggered features (Nature's Snare, Bestial Reflex, Reactive Disruption) each have their own independent budget, none draw from the shared PB pool at all. First class-specific Sanity-recovery hook (Natural Anchor) and first exact formula for the Focus-based concentration check (1d20+WIS, resolving part of the open question from Bender/Binder's unformulated mentions). Full Beast Form DCS integration: its own Evasion formula, DR formula (distinct from and stacking with the existing Circle of the Moon subclass bonus), and a novel Momentum interaction - Wild Shape resets Momentum to +1 rather than granting a gain or loss, the first reset-to-nonzero-value interaction seen. Two new Momentum gain sources (Primal Shift, Nature's Remembrance). No Injury System, Corruption, or Called Shot content in this source beyond a minor Beast-Form-specific DR penalty on Called Shots."
+    },
+    ".raw/Fighter.md": {
+      "hash": "8110c45b4af0cedbe57e2c099c9f7ee1",
+      "ingested_at": "2026-07-12",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Fighter.md",
+        "wiki/notes/Last Stand.md",
+        "wiki/notes/Class Reactions.md",
+        "wiki/notes/Momentum.md",
+        "wiki/notes/Called Shot.md",
+        "wiki/notes/Evasion.md",
+        "wiki/notes/Weapon Mastery.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Eighth per-class deep-dive ingest (address c-000061 reused). Lowest self-rated complexity of any class this session (2/10). Eighth confirmation of Last Stand (no exception) and Class Reactions - and the cleanest, most explicit Class Reactions confirmation yet ('your Proficiency Bonus pool, which refreshes on a short or long rest', no qualifications), a useful counterweight after Cleric's partial and Druid's total departure from the shared-pool pattern. Second confirmed instance of the Momentum reset-to-+1 interaction (Rush of Adrenaline, after Druid's Wild Shape) - upgrades this from a one-off to a real recurring pattern. New Called Shot access route (Surgical Precision, the first hook that can flip a penalty into a net bonus). Weapon Mastery System's Fighter multi-mastery mechanic and 1-crit progression confirmed with zero drift by an independent second source. Two Fighting Styles (Agile Defence, Shield Master) feed directly into Evasion. No Injury System, Corruption, or Sanity/Focus content in this source."
+    },
+    ".raw/Inventor.md": {
+      "hash": "4174fa8407604b74ab37745af240aa93",
+      "ingested_at": "2026-07-12",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Inventor.md",
+        "wiki/notes/Last Stand.md",
+        "wiki/notes/Class Reactions.md",
+        "wiki/notes/Momentum.md",
+        "wiki/notes/Damage Reduction.md",
+        "wiki/notes/Weapon Mastery.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Ninth per-class deep-dive ingest (address c-000012 reused). Sixth confirmation of the 8+PB+ability-mod caster DC formula (Spell Save DC) and the first on an Intelligence-based caster (previous five were WIS/CHA). Ninth confirmation of Last Stand (no exception) and Class Reactions - but Class Reactions unlocks only at 7th level here, later than any other class confirmed so far, worth watching as a possible half-caster pattern. New Damage Reduction class hook (Engineered Guard, +1 DR to all locations in modified armour) and a DR-reduction reaction (Overclock, -2 DR on hit). New Momentum interaction: Infusion Burst's attacker-loses-1-Momentum-on-a-blocked-threshold-hit is the first confirmed flat enemy Momentum loss, distinct from Cleric's ally-loss-mitigation and Bard's enemy-gain-reduction. Weapon Mastery System's Full Martials row (2 crits simple/3 crits martial) confirmed with zero drift - Inventor was already listed there by name. First confirmed Focus-as-saving-throw class (Focus listed as a save proficiency, distinct from the still-open Focus Save/Focus check formula questions)."
+    },
+    ".raw/Investigator.md": {
+      "hash": "db1ebc15f58d94aeda6603f75ba44402",
+      "ingested_at": "2026-07-12",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Investigator.md",
+        "wiki/notes/Last Stand.md",
+        "wiki/notes/Class Reactions.md",
+        "wiki/notes/Momentum.md",
+        "wiki/notes/Called Shot.md",
+        "wiki/notes/Injury System.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Tenth per-class deep-dive ingest (address c-000011 reused). Martial tier (no spellcasting - a Ritualist, not a caster). Tenth confirmation of Last Stand (no exception). Class Reactions confirmed a tenth time but with a third partial pool exception (Predictive Step runs on its own INT-mod-per-long-rest budget, same shape as Cleric's Sacred Interposition, this time on a martial class). Seventh confirmation of the 8+PB+ability-mod formula via Death Throes Denial's CON save DC (8+INT+PB) - first sighting on a non-caster, extending the formula beyond spellcasting entirely. New Called Shot access route (Forensic Called Shot, same shape as Fighter's Surgical Precision but Quarry-gated). Fifth Injury-downgrade class hook (Foreseen Harm) and the first framed as self-only rather than ally-protecting. New Momentum gain source (Exploit Momentum). Confirms the long-standing Exploit Weakness/Exploit Vulnerability naming collision with Rogue is still unresolved - this source uses both names for different Investigator features internally, doesn't address the cross-class collision."
+    },
+    ".raw/Magus.md": {
+      "hash": "a0b6f79025a1287b308ca58b95c1841b",
+      "ingested_at": "2026-07-12",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Magus.md",
+        "wiki/notes/Last Stand.md",
+        "wiki/notes/Class Reactions.md",
+        "wiki/notes/Momentum.md",
+        "wiki/notes/Damage Reduction.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Eleventh per-class deep-dive ingest (address c-000013 reused). Half-caster. Eighth confirmation of the 8+PB+ability-mod caster DC formula (Spell Save DC), second on an Intelligence-based caster after Inventor. Eleventh confirmation of Last Stand (no exception) and Class Reactions - the latter with the heaviest resource-layering yet, every one of the three reactions also spends a spell slot on top of the shared PB pool. New Momentum gain source (Spellstrike, +1/+2 on crit) and a second Momentum-loss-mitigation reaction (Adaptive Mind) matching Cleric's Ward of Faith shape but self-directed rather than ally-directed - the first self-only version of that mechanic. Clarifies (does not contradict) the older DCS-summary's 'Arcane Guard scaling DR' framing on Damage Reduction with a flat +1-DR-per-point-spent value from the deep-dive."
+    },
+    ".raw/Monk.md": {
+      "hash": "0299b7ab254eca5d561e9236debf05ef",
+      "ingested_at": "2026-07-12",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Monk.md",
+        "wiki/notes/Last Stand.md",
+        "wiki/notes/Class Reactions.md",
+        "wiki/notes/Damage Reduction.md",
+        "wiki/notes/Evasion.md",
+        "wiki/notes/Called Shot.md",
+        "wiki/notes/Injury System.md",
+        "wiki/notes/Weapon Mastery.md",
+        "wiki/notes/Momentum.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Twelfth per-class deep-dive ingest (address c-000062 reused), largest cross-link footprint of any class this session (8 hub pages beyond its own). Martial tier. Ninth confirmation of the 8+PB+ability-mod formula (Technique Save DC, second non-caster confirmation after Investigator). Twelfth confirmation of Last Stand (no exception). Class Reactions confirmed a twelfth time but with the cleanest total departure from the shared-pool default yet - all three Monk reactions run purely on Focus, contradicting the source's own boilerplate header claiming the PB pool. New contradiction: Unarmoured Resilience's flat level-gated DR (1/2/3) conflicts with Damage Reduction's existing confirmed '½ DEX mod' formula, same treatment as Barbarian's Rage DR conflict. New Evasion formula (WIS mod, not DEX, from Unarmoured Defence). New Called Shot access route (Deadeye Strike, DEX-mod-scaled). Sixth Injury class hook (Serene Focus), a new effect-suppression shape distinct from downgrade/removal. Flags an unresolved open question: this source's turn-start 'Ki Flow' TP-Momentum link never mentions 'Flow Strike' by name, the on-hit mechanic Weapon Mastery System claims Monk and Bender share identically - may be the same mechanic differently described, or two separate income sources, not resolved."
+    },
+    ".raw/Paladin.md": {
+      "hash": "7478a72ef90b2c8129a03a95888bd32a",
+      "ingested_at": "2026-07-12",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Paladin.md",
+        "wiki/notes/Last Stand.md",
+        "wiki/notes/Class Reactions.md",
+        "wiki/notes/Momentum.md",
+        "wiki/notes/Called Shot.md",
+        "wiki/notes/Damage Reduction.md",
+        "wiki/notes/Weapon Mastery.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Thirteenth per-class deep-dive ingest (address c-000065 reused). Half-caster, but the document never gives a Spellcasting writeup/DC formula despite naming the feature - a notable gap, not a contradiction. Tenth confirmation of the 8+PB+ability-mod formula via Radiant Judgment's CON save DC. Thirteenth confirmation of Last Stand (no exception) - and surfaces an unresolved DC-base split (10+PB+ability vs 12+PB+ability) across multiple classes' Last Stand saves, not previously flagged. Thirteenth confirmation of Class Reactions, cleanly pool-based with no exceptions. New contradiction: Aura of Protection is entirely a saving-throw bonus in this source, conflicting with Damage Reduction's existing 'Aura = CHA mod DR' claim - same treatment as Barbarian's and Monk's DR conflicts. Major cross-class confirmation: Paladin's Ward of Faith and Judgment (via Channel Divinity) are word-for-word identical to Cleric's abilities of the same names - first entire-ability-verbatim-share confirmed between two classes. New Called Shot access route (Holy Precision, CHA-scaled) and new Momentum exception (Righteous Stability, conditional cousin of Monk's Balanced Rhythm). Weapon Mastery's Full Martials row confirmed zero drift a second time."
+    },
+    ".raw/Ranger.md": {
+      "hash": "014db0fb588c50678078fa43a1bdf430",
+      "ingested_at": "2026-07-12",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Ranger.md",
+        "wiki/notes/Damage Reduction.md",
+        "wiki/notes/Evasion.md",
+        "wiki/notes/Momentum.md",
+        "wiki/notes/Weapon Mastery.md",
+        "wiki/notes/Last Stand.md",
+        "wiki/notes/Class Reactions.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Fourteenth per-class deep-dive ingest (address c-000064 reused). Half-caster. Eleventh confirmation of the 8+PB+ability-mod formula (Sovereign Ground's WIS save DC). Fourteenth confirmation of Last Stand (no exception, and no explicit save DC in any of its three options, so no new data point on the DC-base split question) and Class Reactions (clean, no exceptions). Two new contradictions this ingest: Hunter's Mark's DR reduction is a flat -2 in this source, conflicting with Damage Reduction's existing 'Wisdom-modifier' claim (and implying it stacks with Colossus Slayer's own flat -2 rather than restating it); and Favoured Enemy Agility grants advantage on Evasion rolls, not the '+WIS mod' bonus Evasion's page currently claims. New DR class hook (Fleet Guard). Two new Momentum gain sources (Favoured Enemy +2 on hit, Claimed Ground's Territorial Momentum +1 first hit/turn). Weapon Mastery's Full Martials row confirmed zero drift a third time."
+    },
+    ".raw/Reaper.md": {
+      "hash": "77a3f9ca9d1381ff66cf760da94522b9",
+      "ingested_at": "2026-07-12",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Reaper.md",
+        "wiki/notes/Last Stand.md",
+        "wiki/notes/Class Reactions.md",
+        "wiki/notes/Momentum.md",
+        "wiki/notes/Called Shot.md",
+        "wiki/notes/Damage Reduction.md",
+        "wiki/notes/Weapon Mastery.md",
+        "wiki/notes/Corruption.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Fifteenth per-class deep-dive ingest (address c-000050 reused), by far the largest and most complete per-class source this session (1237 lines) - the only one with fully detailed subclasses (three complete Covenants, each with four tiers) rather than a placeholder. Fifteenth confirmation of Last Stand (no exception) - and adds a THIRD Last Stand DC base (plain 8+PB+ability, distinct from the existing 10-base and 12-base patterns). Fifteenth confirmation of Class Reactions, heavily layered with Soul Token costs on every reaction (base and Covenant), the same resource-stacking shape as Magus's spell-slot reactions. New token-conditional DR hook (Death's Resilience), new token-costed Called Shot access route (first resource-pool-costed one, not ability-mod-scaled), new Momentum gain trigger (Soul Shield full-negation), and a documentation-quirk flag (the 'Death's Momentum'/'Momentum of the Grave' naming and level mismatch within the source itself). New Corruption gain triggers (innocent-harvest and self-killed-humanoid ratios) whose Death's Taint tier bands map cleanly onto the existing 5/10/15/20 thresholds rather than contradicting them. New scheduled-mastery-grant detail on Weapon Mastery (+1 weapon at 3rd/7th/11th/15th, layered on the crit-based system). Skipped non-mechanical roleplaying/sample-build/multiclassing sections as out of wiki scope, consistent with prior editorial judgment calls this session."
+    },
+    ".raw/Rogue.md": {
+      "hash": "3a3bdd50d238c95118a9559f84d1cadc",
+      "ingested_at": "2026-07-12",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Rogue.md",
+        "wiki/notes/Momentum.md",
+        "wiki/notes/Evasion.md",
+        "wiki/notes/Called Shot.md",
+        "wiki/notes/Injury System.md",
+        "wiki/notes/Weapon Mastery.md",
+        "wiki/notes/Last Stand.md",
+        "wiki/notes/Class Reactions.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Sixteenth per-class deep-dive ingest (address c-000063 reused). Sixteenth confirmation of Last Stand (no exception; Death's Whisper adds a fourth data point to the 12-base DC group) and Class Reactions (clean, no exceptions). Genuine new Momentum exception: Slippery Escape explicitly overrides the core 'Disengage resets Momentum to 0' rule for Cunning-Action-based Dash/Disengage/Hide - a confirmed class-specific carve-out, not a contradiction to resolve. Two new Momentum gain sources (Cunning Flow's +2-on-Sneak-Attack, Shadow Slip's +1-on-enemy-miss) and a third self-directed Momentum-loss-mitigation instance (Sneak Attack Stability). New Called Shot access route (Perfect Shot, full penalty waiver once/long rest) and confirms Sneak Attack's own flat -2 penalty reduction. New Injury hook (Nerve-Steeled, first Minor Injury per long rest ignores its Momentum penalty specifically). Weapon Mastery's Full Martials row confirmed zero drift a fifth time. Flags (does not resolve) two naming quirks: the long-standing Exploit Weakness/Exploit Vulnerability collision with Investigator remains untouched (this source never uses the term at all), and Rogue's own 6th-level 'Evasion' class feature is confirmed to be the unrelated D&D-legacy save mechanic, not FEARS's Evasion combat system, despite sharing a name."
+    },
+    ".raw/Sangromancer.md": {
+      "hash": "f9c579dd980dafd960ff9225ff6faaf8",
+      "ingested_at": "2026-07-12",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Sangromancer.md",
+        "wiki/notes/Momentum.md",
+        "wiki/notes/Injury System.md",
+        "wiki/notes/Corruption.md",
+        "wiki/notes/Weapon Mastery.md",
+        "wiki/notes/Last Stand.md",
+        "wiki/notes/Class Reactions.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Seventeenth per-class deep-dive ingest (address c-000016 reused). Full caster, HP-as-resource (no spell slots). Twelfth confirmation of the 8+PB+ability-mod caster DC formula, third on an Intelligence-based caster. Seventeenth confirmation of Last Stand (no exception) - and a fourth distinct Last Stand DC shape (10+PB+Vitae-Strain/3, the first scaling off a class resource total rather than an ability modifier). Seventeenth confirmation of Class Reactions, HP-layered on top of the shared PB pool (same resource-stacking shape as Magus/Reaper). Confirms Weapon Mastery's Non-Martials listing by simple omission (no Weapon Mastery feature in the document at all). Introduces Vitae Strain, an explicitly-stated-distinct parallel to Corruption (same six-threshold-boon/curse shape, source itself draws the line rather than requiring editorial inference). Two new Injury hook shapes (Blood Resilience's save-advantage, Safe Bloodletting's self-harm Critical-Injury immunity) and a new Momentum trigger gated by resource-amount-spent rather than action-taken (Sanguine Momentum)."
+    },
+    ".raw/Shaman.md": {
+      "hash": "d5a2e7a042f146bc5395e3b45f867b54",
+      "ingested_at": "2026-07-12",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Shaman.md",
+        "wiki/notes/Momentum.md",
+        "wiki/notes/Damage Reduction.md",
+        "wiki/notes/Weapon Mastery.md",
+        "wiki/notes/Called Shot.md",
+        "wiki/notes/Evasion.md",
+        "wiki/notes/Last Stand.md",
+        "wiki/notes/Class Reactions.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Eighteenth per-class deep-dive ingest (address c-000018 reused). Full caster, Warlock-style pact slots. Thirteenth confirmation of the 8+PB+ability-mod formula (Primal Magic's Spell Save DC, also mirrored by Totem Save DC). Eighteenth confirmation of Last Stand (no exception; two more 10-base DC data points) and Class Reactions (clean, no exceptions, though the source itself has an internal table/heading mismatch for Totemic Shield's level). New Damage Reduction contradiction: Totemic Resilience gives a flat, self-only, non-elemental +1 DR from one of three Totem categories, conflicting with the existing 'Totemic Wards elemental DR to allies' claim - fourth DR contradiction this session. New gap (not a confirming silence): Shaman is listed in Weapon Mastery's Half-Martials table but its own deep-dive never mentions Weapon Mastery at all - unresolved, unlike Sangromancer's consistent silence as a listed Non-Martial. Two new Momentum gain sources (Totemic Rhythm, Spirit-Touched Ground) making Shaman the second class with two independent self-directed triggers. New Called Shot hook granting advantage rather than a penalty reduction (Ancestral Precision) and two new alternate Evasion DC formulas tied to Sacred Focus/Totem choice."
+    },
+    ".raw/Sorcerer.md": {
+      "hash": "52adebf7fe3c99f38bd11f54e83b6938",
+      "ingested_at": "2026-07-12",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Sorcerer.md",
+        "wiki/notes/Last Stand.md",
+        "wiki/notes/Class Reactions.md",
+        "wiki/notes/Momentum.md",
+        "wiki/notes/Weapon Mastery.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Nineteenth per-class deep-dive ingest (address c-000067 reused). Full caster, sorcery-point resource economy. The most structurally divergent per-class source this session: avatar-image header instead of narrative quote, explicit 'Sorcerers do not gain Weapon Mastery' statement (strongest Non-Martials confirmation yet, not an inferred silence), a Universal Conversion Rules table for adapting any 5E origin, a Momentum-trigger-by-origin-theme default table, and - most significantly - NO Last Stand section at all, the first per-class source to omit it entirely (Last Stand's confirmed count stays at 18/24, not 19). Class Reactions are present in substance but never consolidated under one heading - scattered through Feature Descriptions instead - and two of the four reactions (Arcane Deflection, Metaflux Veil) aren't stated as pool-users in their own text despite the source's own Resource Awareness table claiming they are, an internal inconsistency. Fourteenth confirmation of the 8+PB+ability-mod formula. Two new Momentum sources (Draconic Momentum, Avatar of Chaos's flat +3/turn - the largest per-turn grant seen)."
+    },
+    ".raw/Tattooist.md": {
+      "hash": "cf07fc01e6d6ce2f612a7445d49c869a",
+      "ingested_at": "2026-07-12",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Tattooist.md",
+        "wiki/notes/Weapon Mastery.md",
+        "wiki/notes/Momentum.md",
+        "wiki/notes/Damage Reduction.md",
+        "wiki/notes/Called Shot.md",
+        "wiki/notes/Injury System.md",
+        "wiki/notes/Evasion.md",
+        "wiki/notes/Last Stand.md",
+        "wiki/notes/Class Reactions.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Twentieth per-class deep-dive ingest (address c-000020 reused), back to standard format after Sorcerer's divergence. Half-caster. Fifteenth confirmation of the 8+PB+ability-mod formula (Spellcasting's Spell Save DC) and the first on Constitution. Nineteenth class confirming Last Stand (of 20 ingested - Sorcerer remains the sole non-confirming source) and twentieth confirming Class Reactions, this time spellbanger-layered (fourth class this session with resource-layered reactions, after Magus/Reaper/Sangromancer). New contradiction, stronger than a silent gap: the source explicitly states 'Tattooists do not gain Weapon Mastery,' directly contradicting the existing Half-Martials table entry for Tattooist (unlike Shaman's mere silence). New clean DR hook (Inscribed Ward, mapped onto DCS body locations). New Injury hook (Inked Resilience) combining a tier-downgrade with a Momentum-penalty-ignore in one feature for the first time. Two new Momentum gain sources. Novel Evasion interaction: Inkguard retroactively converts a confirmed hit into a miss, unlike any other class's defensive reaction."
+    },
+    ".raw/Warden.md": {
+      "hash": "f5ac48d873ff04796d5539ecb6a84810",
+      "ingested_at": "2026-07-12",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Warden.md",
+        "wiki/notes/Momentum.md",
+        "wiki/notes/Damage Reduction.md",
+        "wiki/notes/Injury System.md",
+        "wiki/notes/Called Shot.md",
+        "wiki/notes/Weapon Mastery.md",
+        "wiki/notes/Last Stand.md",
+        "wiki/notes/Class Reactions.md",
+        "wiki/notes/Evasion.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Twenty-first per-class deep-dive ingest (address c-000049 reused), full detail for all four Disciplines (Guardian/Fanatic/Sentinel/Apex Predator). Half-caster. Sixteenth confirmation of the 8+PB+ability-mod formula (Source Magic's Spell Save DC). Twentieth class confirming Last Stand (of 21 ingested) - and a new gap: The Earth Remembers names save types (DEX/CON) for all five Prime Element variants but never gives a DC formula for any of them, the first Last Stand option in this cluster to do this. Twenty-first class confirming Class Reactions cleanly, though Primal Retribution costs 2 pool uses (matching Sangromancer's Blood Transfusion shape, not the more common 1-use cost). Sixth zero-drift confirmation of Weapon Mastery's Full Martials row, though Warden's own mastery grant lands at 3rd level rather than 1st - latest of any Full Martial. The richest single class for Momentum interactions this session: four innate triggers plus one per Discipline. New Injury hook (Glacial Endurance) that prevents an Injury save from triggering at all rather than modifying its outcome after the fact - a new shape distinct from all ten prior hooks. Three new Damage Reduction sources (Stone Skin, Unyielding Terrain, Sentinel's Anchor) and a new Called Shot penalty-reduction hook gated to a marked Prey target."
+    },
+    ".raw/Warlock.md": {
+      "hash": "17f28f269b48e95100a65d43ca2c7baf",
+      "ingested_at": "2026-07-12",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Warlock.md",
+        "wiki/notes/Last Stand.md",
+        "wiki/notes/Class Reactions.md",
+        "wiki/notes/Momentum.md",
+        "wiki/notes/Called Shot.md",
+        "wiki/notes/Injury System.md",
+        "wiki/notes/Weapon Mastery.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Twenty-second per-class deep-dive ingest (address c-000068 reused), back to standard format. Full caster, Pact Magic (all-slots-highest-level, short-rest recovery). Seventeenth confirmation of the 8+PB+ability-mod formula (Pact Magic's Spell Save DC). Twenty-first class confirming Last Stand (of 22 ingested - Sorcerer remains the sole non-confirming source) and twenty-second confirming Class Reactions, both cleanly with no exceptions. Weapon Mastery confirmed absent a second time by consistent silence (matching its existing Non-Martials listing; this generic Patron document doesn't touch the separately-documented Hexblade exception since it never names that subclass). Twelfth Injury hook (Eldritch Resilience Injury Downgrade, standard tier-downgrade shape) - notable mainly for reusing the 'Eldritch Resilience' feature name already used for an unrelated 9th-level suite in the same document, a naming quirk rather than a new mechanic. New Called Shot access route (Chaos Shot invocation) and a new Momentum shape (Darkness Veil grants +1 Momentum to the protected target on a resulting miss, not to the caster and not as an attacker penalty)."
+    },
+    ".raw/Witch.md": {
+      "hash": "78433933d6fc2bb308557d1db3b4f376",
+      "ingested_at": "2026-07-12",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Witch.md",
+        "wiki/notes/Last Stand.md",
+        "wiki/notes/Class Reactions.md",
+        "wiki/notes/Momentum.md",
+        "wiki/notes/Weapon Mastery.md",
+        "wiki/notes/Damage Reduction.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Twenty-third per-class deep-dive ingest (address c-000022 reused). Full caster, hex/curse control specialist. Eighteenth confirmation of the 8+PB+ability-mod formula (Spellcasting's Spell Save DC). Twenty-second class confirming Last Stand (of 23 ingested - Sorcerer remains the sole non-confirming source) and twenty-third confirming Class Reactions, both cleanly (Hex Ward and Hex-Turn are near-identical CHA-save redirect reactions, distinguished only by trigger scope). Weapon Mastery confirmed absent a third time by consistent silence. New Momentum gain source (Hex Momentum, enemy-fails-a-save trigger). Notable non-contradiction: the existing Damage Reduction page's 'Hex of Frailty' claim is neither confirmed nor contradicted here - the deep-dive never mentions it, but also never details Coven-specific features where it may live, so this is flagged as an open unconfirmed claim rather than a resolved conflict, distinct from this session's several outright DR contradictions (Barbarian/Monk/Paladin/Ranger/Shaman)."
+    },
+    ".raw/Wizard.md": {
+      "hash": "de3a0a2b81a4131cf0b30c9702d360fb",
+      "ingested_at": "2026-07-12",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Wizard.md",
+        "wiki/notes/Last Stand.md",
+        "wiki/notes/Class Reactions.md",
+        "wiki/notes/Momentum.md",
+        "wiki/notes/Weapon Mastery.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Twenty-fourth and FINAL per-class deep-dive ingest (address c-000066 reused) - completes the full 24-class FEARS per-class deep-dive pass. Full caster. Nineteenth confirmation of the 8+PB+ability-mod formula (Spellcasting's Spell Save DC). Twenty-third class confirming Last Stand (of 24 ingested - Sorcerer remains the sole non-confirming source) - Null Field's plain 8+PB+INT DC is the SECOND confirmed instance of that base after Reaper, upgrading it from a one-off to a real minority pattern. Twenty-fourth and final class confirming Class Reactions - Counterspell Instinct is a fourth distinct pool-bypass exception shape (after Cleric/Investigator/Monk), notable as the only one explained in-text by a named feature (Magic Sense) rather than stated as a bare rule. Weapon Mastery confirmed absent explicitly, twice over in the same document, matching Sorcerer's shape. New Momentum gain source (Arcane Flow) with a notable copy-paste documentation error - the feature text says 'cast a Bender spell' where the class's own intro says just 'a spell,' an apparent leftover from reusing another class's template. With this ingest, all 24 FEARS classes have now been through a full per-class deep-dive pass."
+    }
+  },
   "address_map": {
-    "wiki/concepts/DragonScale Memory.md": "c-000001"
+    "wiki/concepts/DragonScale Memory.md": "c-000001",
+    "wiki/notes/Welcome to FEARS.md": "c-000003",
+    "wiki/notes/FEARS Combat System.md": "c-000004",
+    "wiki/notes/Whisper Points.md": "c-000005",
+    "wiki/notes/Dynamic Action Economy.md": "c-000006",
+    "wiki/notes/Unstable Magic Zones.md": "c-000007",
+    "wiki/notes/Translation Matrix.md": "c-000008",
+    "wiki/notes/Consequence Engine.md": "c-000009",
+    "wiki/notes/Daldir Lunadreamer.md": "c-000010",
+    "wiki/notes/Investigator.md": "c-000011",
+    "wiki/notes/Inventor.md": "c-000012",
+    "wiki/notes/Magus.md": "c-000013",
+    "wiki/notes/Psion.md": "c-000014",
+    "wiki/notes/Runesmith.md": "c-000015",
+    "wiki/notes/Sangromancer.md": "c-000016",
+    "wiki/notes/Shadowbinder.md": "c-000017",
+    "wiki/notes/Shaman.md": "c-000018",
+    "wiki/notes/Tamer.md": "c-000019",
+    "wiki/notes/Tattooist.md": "c-000020",
+    "wiki/notes/Thaumaturge.md": "c-000021",
+    "wiki/notes/Witch.md": "c-000022",
+    "wiki/notes/A World that Watches.md": "c-000023",
+    "wiki/notes/Dór-o Estel.md": "c-000024",
+    "wiki/notes/Disposition.md": "c-000025",
+    "wiki/notes/Wanted Score.md": "c-000026",
+    "wiki/notes/Reputation.md": "c-000027",
+    "wiki/notes/Black Market.md": "c-000028",
+    "wiki/notes/Hideouts.md": "c-000029",
+    "wiki/notes/Sanity.md": "c-000030",
+    "wiki/notes/Focus.md": "c-000031",
+    "wiki/notes/Corruption.md": "c-000032",
+    "wiki/notes/Luck.md": "c-000033",
+    "wiki/notes/Memory.md": "c-000034",
+    "wiki/notes/Occult.md": "c-000035",
+    "wiki/notes/Streetwise.md": "c-000036",
+    "wiki/notes/Whisper Engine.md": "c-000037",
+    "wiki/notes/FEARS Character Framework.md": "c-000038",
+    "wiki/notes/FEARS Character Sheet.md": "c-000039",
+    "wiki/notes/Mental State.md": "c-000040",
+    "wiki/notes/Called Shot.md": "c-000041",
+    "wiki/notes/Four Threads of the Mind.md": "c-000042",
+    "wiki/notes/Archivists of the Shattered Loom.md": "c-000043",
+    "wiki/notes/The Weave.md": "c-000044",
+    "wiki/notes/Burned out.md": "c-000045",
+    "wiki/notes/Broken.md": "c-000046",
+    "wiki/notes/Narrative Identity.md": "c-000047",
+    "wiki/notes/Narrative Identity Framework.md": "c-000048",
+    "wiki/notes/Warden.md": "c-000049",
+    "wiki/notes/Reaper.md": "c-000050",
+    "wiki/notes/Bender.md": "c-000051",
+    "wiki/notes/Apothecary.md": "c-000052",
+    "wiki/notes/Spirit Debt.md": "c-000053",
+    "wiki/notes/Territory Bond.md": "c-000054",
+    "wiki/notes/Classes_Summary.md": "c-000055",
+    "wiki/notes/FEARS Class Roster.md": "c-000056",
+    "wiki/notes/Binder.md": "c-000057",
+    "wiki/notes/Class_breakdown.md": "c-000058",
+    "wiki/notes/FEARS Class Format.md": "c-000059",
+    "wiki/notes/Barbarian.md": "c-000060",
+    "wiki/notes/Fighter.md": "c-000061",
+    "wiki/notes/Monk.md": "c-000062",
+    "wiki/notes/Rogue.md": "c-000063",
+    "wiki/notes/Ranger.md": "c-000064",
+    "wiki/notes/Paladin.md": "c-000065",
+    "wiki/notes/Wizard.md": "c-000066",
+    "wiki/notes/Sorcerer.md": "c-000067",
+    "wiki/notes/Warlock.md": "c-000068",
+    "wiki/notes/Druid.md": "c-000069",
+    "wiki/notes/Cleric.md": "c-000070",
+    "wiki/notes/Bard.md": "c-000071",
+    "wiki/notes/Dynamic Combat System (DCS).md": "c-000072",
+    "wiki/notes/Evasion.md": "c-000073",
+    "wiki/notes/Damage Reduction.md": "c-000074",
+    "wiki/notes/Shields.md": "c-000075",
+    "wiki/notes/Tactical Reactions.md": "c-000076",
+    "wiki/notes/Momentum.md": "c-000077",
+    "wiki/notes/Combat Flow.md": "c-000078",
+    "wiki/notes/Injury System.md": "c-000079",
+    "wiki/notes/Bloodied Breaking Points Rally.md": "c-000080",
+    "wiki/notes/Bloodied and Bruised.md": "c-000081",
+    "wiki/notes/Breaking Points.md": "c-000082",
+    "wiki/notes/Enemy Rally.md": "c-000083",
+    "wiki/notes/Called Shot Subclass Features.md": "c-000084",
+    "wiki/notes/Called Shot Feats.md": "c-000085",
+    "wiki/notes/Evasion Feats.md": "c-000086",
+    "wiki/notes/The Dynamic Combat System (Excluded Draft).md": "c-000087",
+    "wiki/notes/Weapon Mastery System.md": "c-000088",
+    "wiki/notes/Weapon Mastery.md": "c-000089",
+    "wiki/notes/Weapon Skills.md": "c-000090",
+    "wiki/notes/Weapon Mastery Feats.md": "c-000091",
+    "wiki/notes/Initiative System.md": "c-000092",
+    "wiki/notes/Initiative.md": "c-000093",
+    "wiki/notes/Seize the Moment.md": "c-000094",
+    "wiki/notes/Reaction Subclass Features.md": "c-000095",
+    "wiki/notes/Reaction Feats.md": "c-000096",
+    "wiki/notes/Spell Critical.md": "c-000097",
+    "wiki/notes/Eldritch Moons in Combat.md": "c-000098",
+    "wiki/notes/Sanity & Focus in Combat.md": "c-000099",
+    "wiki/notes/Fracture Save.md": "c-000100",
+    "wiki/notes/Fracture Whispers.md": "c-000101",
+    "wiki/notes/Last Stand.md": "c-000102",
+    "wiki/notes/Class Reactions.md": "c-000103"
   }
 }

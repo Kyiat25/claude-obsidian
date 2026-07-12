@@ -2,10 +2,14 @@
 type: reference
 title: "Transport Fallback Decision Tree"
 status: evergreen
+tags:
+  - reference
+  - transport
 related:
-  - "[[wiki-cli]]"
+  - "skills/wiki-cli/SKILL.md"
   - "[[mcp-setup]]"
-updated: 2026-05-17
+created: "2026-05-17"
+updated: "2026-05-17"
 ---
 
 # Transport Fallback Decision Tree
