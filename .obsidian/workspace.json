@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a31de1b302cdc5cf",
+            "id": "9e67c7ced95c3c42",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "wiki/mocs/FEARS MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FEARS MOC"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "7092b65be1e76349",
@@ -183,9 +187,55 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-memos:Thino": false,
+      "obsidian-memos:Thino Super": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a31de1b302cdc5cf",
-  "lastOpenFiles": []
+  "active": "9e67c7ced95c3c42",
+  "lastOpenFiles": [
+    "wiki/notes/World Trees.md.tmp.36452.4614d1b41a03",
+    "wiki/notes/World Trees.md.tmp.36452.f2de39ba9cea",
+    "wiki/notes/The Threadbearer Crisis.md",
+    "wiki/notes/The Threadbearer Crisis.md.tmp.36452.c55e48fdfb36",
+    "wiki/notes/Aeravae.md",
+    "wiki/notes/Aeravae.md.tmp.36452.b4e82032eadc",
+    "wiki/notes/Ashkarra.md",
+    "wiki/notes/Ashkarra.md.tmp.36452.1e19267f1676",
+    "wiki/notes/Loom-Cities.md",
+    "wiki/notes/Loom-Cities.md.tmp.36452.0bdc470cd3b1",
+    "wiki/notes/World Anchors and Thread System.md",
+    "wiki/notes/World Anchors and Thread System.md.tmp.36452.c287fafd280c",
+    "wiki/log.md.tmp.36452.9c059a629470",
+    "wiki/hot.md.tmp.36452.0742237ef208",
+    "wiki/hot.md.tmp.36452.9f5ad86e0e0d",
+    "wiki/index.md.tmp.36452.97014a0191d9",
+    "wiki/notes/Twins of Creation.md",
+    "wiki/notes/World Trees.md",
+    "wiki/notes/Threadbearers.md",
+    "wiki/notes/Loom-Wardens.md",
+    "wiki/notes/Hidden Cosmology Thread System.md",
+    "wiki/notes/Weapon Mastery System.md",
+    "wiki/notes/The Restorer.md",
+    "wiki/notes/The Whispering Dark.md",
+    "wiki/notes/Aeloria.md",
+    "wiki/notes/Astralor.md",
+    "wiki/notes/How the Five Layers Shape the Creation World.md",
+    "wiki/notes/Outlander.md",
+    "wiki/notes/Urchin.md",
+    "wiki/notes/Sailor.md",
+    "wiki/meta/lint-report-2026-07-12-post-backgrounds.md",
+    "wiki/notes/Corruption Warden.md",
+    "wiki/notes/Fracture Scout.md",
+    "wiki/notes/Pattern Keeper.md",
+    "wiki/notes/Pilgrim.md",
+    "wiki/notes/Inquisitor.md",
+    "wiki/Wiki Map.canvas",
+    "assets/social-preview.png",
+    "assets/diagrams/vault-flow.svg",
+    "assets/diagrams/multi-writer-locking.svg",
+    "assets/diagrams/hybrid-retrieval.svg",
+    "wiki/canvases/welcome.canvas"
+  ]
 }
