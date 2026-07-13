@@ -3,7 +3,7 @@ type: note
 title: "The Threadbearer Crisis"
 address: c-000183
 created: "2026-07-12"
-updated: "2026-07-12"
+updated: "2026-07-13"
 tags:
   - fears
   - ttrpg
@@ -18,11 +18,14 @@ mocs:
   - "[[FEARS MOC]]"
 related:
   - "[[World Anchors and Thread System]]"
+  - "[[World Anchors and the Loom-City System]]"
   - "[[Threadbearers]]"
   - "[[Loom-Cities]]"
   - "[[Aeravae]]"
+  - "[[Vel'Zyren]]"
 sources:
   - ".raw/World Anchors and Thread System.md"
+  - ".raw/World Anchors and the Loom-City System.md"
 ---
 
 # The Threadbearer Crisis
@@ -32,7 +35,10 @@ sources:
 
 ## What happened
 
-A coordinated Drow assassination campaign has killed **four of the five Threadbearers**. Only the Threadbearer of [[Loom-Cities|Kel Varyan]] survives. The theological motive is explicit on [[World Anchors and Thread System]]'s theology comparison table: the Ashen Web (drow) treats the Weave as prey and their goddess Vel'Zyren as its predator, and treats Threadbearer assassination as strategic warfare, not random terrorism.
+A coordinated Drow assassination campaign has killed **four of the five Threadbearers**, orchestrated in service of [[Vel'Zyren]]'s Ashen Web theology, which treats the Weave as prey and Threadbearer assassination as strategic warfare rather than random terrorism.
+
+> [!contradiction] Which Loom-City's Threadbearer is the sole survivor?
+> [[World Anchors and Thread System]] states only **Kel Varyan**'s Threadbearer survives. [[World Anchors and the Loom-City System]] — an independent, near-duplicate draft of this same crisis — instead states "only Aeravae's hybrid system, more resistant to corruption through its living World Tree component, maintains full stability," implying Aeravae is the untouched Anchor. Both sources otherwise agree on every other detail (four dimmed Anchors, four dead Threadbearers, ongoing three-way race). This page defaults to the Kel Varyan reading below since it was ingested first, but a GM should feel free to swap in Aeravae — its narrative role as the setting's cooperative-hybrid solution arguably makes it the more thematically satisfying "the one system that holds" candidate anyway. Not resolved here, flagged the same as every other cross-source conflict in this cluster.
 
 ## Immediate consequences
 
@@ -53,7 +59,9 @@ This is presented as ready-made campaign-hook material: PCs could be protectors,
 ## See also
 
 - [[World Anchors and Thread System]]
+- [[World Anchors and the Loom-City System]]
 - [[Threadbearers]]
 - [[Loom-Cities]]
 - [[Aeravae]]
+- [[Vel'Zyren]]
 - [[FEARS MOC]]

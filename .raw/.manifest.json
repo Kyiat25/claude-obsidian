@@ -1166,6 +1166,263 @@
         "wiki/log.md"
       ],
       "note": "Fourth cosmology source, and the first written in a mortal/scholarly register rather than mythic DM-secret register -- almost certainly the exact 'World Anchors document' Hidden Cosmology Thread System cited as its own Tier One baseline. Introduces five named Loom-Cities (Kel Varyan, Veltharyn, Thar Vornhal, Aeravae, Selveran) plus three regions explicitly outside the Anchor system (Corvessa, Talanthar, the Underdark/Drow). Elevates the Ashkarra Catastrophe from a brief case study into the setting's central historical trauma (a full Loom-City lost, a World Anchor permanently destroyed) and gives Aeravae's founding as its direct, cooperative answer (the Echo-Cenote, a unique hybrid Anchor/World Tree). Massively expands Threadbearer mechanics (the Beaming, death/succession, cultural variance) and surfaces a live campaign hook: four of five Threadbearers assassinated by the Drow, four Anchors dimmed, a three-way race underway over each new manifestation -- captured on its own page, The Threadbearer Crisis. Produces a new, major contradiction: states flatly that World Trees were planted by Vatharun (an Earth Pantheon deity), directly undercutting World Trees.md's explicit 'deliberately unexplained, even to the DM' framing from Hidden Cosmology Thread System -- flagged with [!contradiction] rather than resolved, same treatment as the standing three-way knowledge-hierarchy conflict on The Weave."
+    },
+    ".raw/Creation World.md": {
+      "hash": "86756cf82ccabaf26ac422f33d54756c",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/notes/Creation World.md",
+        "wiki/notes/Divine Sparks.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/The Weave.md",
+        "wiki/notes/Astralor.md",
+        "wiki/notes/Aeloria.md",
+        "wiki/notes/The Whispering Dark.md",
+        "wiki/notes/The Restorer.md",
+        "wiki/notes/How the Five Layers Shape the Creation World.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Fifth cosmology source, and almost certainly the narrative root How the Five Layers Shape the Creation World partially systematizes -- same four Primal Forces, same forge/loom framing, same 'none of them realize they're not alone' capstone, but with no Layer/Glyph taxonomy of its own. Independently corroborates Twins of Creation's specific claim (not Hidden Cosmology Thread System's) that Aeloria does not know The Restorer exists -- now 2-of-4 sources agreeing on that specific point, still documented as unresolved rather than treated as a tiebreaker. Introduces Divine Sparks, a wholly new concept: unintended crystallizations of potential divinity, born from the collision of all four Primal Forces at once, that became the origin point of the first gods. Narrows the uningested cosmology cluster from 10 to 9 files."
+    },
+    ".raw/Guide to the Eldritch_Forces.md": {
+      "hash": "4d4701d6e1cf296331b2dd732087608e",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/notes/Guide to the Eldritch Forces.md",
+        "wiki/notes/Nhal'Zereth.md",
+        "wiki/notes/Ith'Quess.md",
+        "wiki/notes/Vael'Akir.md",
+        "wiki/notes/Xey'Tazun.md",
+        "wiki/notes/Ul'Naresh.md",
+        "wiki/notes/Zhurr'Kael.md",
+        "wiki/notes/Esh'Tarah.md",
+        "wiki/notes/Mirag'Nael.md",
+        "wiki/notes/Vezherak.md",
+        "wiki/notes/Eldritch Moons.md",
+        "wiki/notes/Howling Moon.md",
+        "wiki/notes/Shattered Moon.md",
+        "wiki/notes/Scorching Moon.md",
+        "wiki/notes/Vacuous Moon.md",
+        "wiki/notes/Glowering Moon.md",
+        "wiki/notes/Glacial Moon.md",
+        "wiki/notes/Slumbering Moon.md",
+        "wiki/notes/Yellow Crown.md",
+        "wiki/notes/Creeping Tarlight.md",
+        "wiki/notes/Krakenlight.md",
+        "wiki/notes/Sanguine Eclipse.md",
+        "wiki/notes/Blood Moon of Rebirth.md",
+        "wiki/notes/Weeping Waxing.md",
+        "wiki/notes/False Dawn.md",
+        "wiki/notes/Eldritch Spirits.md",
+        "wiki/notes/The Faceless Choir.md",
+        "wiki/notes/The Writhe-Twin.md",
+        "wiki/notes/The Echo of the Empty Name.md",
+        "wiki/notes/Vathryn, the Hollowed Child.md",
+        "wiki/notes/The Shuddering Cradle.md",
+        "wiki/notes/Mother-Shell Elessh.md",
+        "wiki/notes/Eshari's Mirror.md",
+        "wiki/notes/The Pane-Creep.md",
+        "wiki/notes/Velai, the Remembered Stranger.md",
+        "wiki/notes/Ulzen, the Sleepless Host.md",
+        "wiki/notes/The Quilt-Worm.md",
+        "wiki/notes/Marrowbell.md",
+        "wiki/notes/The Ink-Root.md",
+        "wiki/notes/The Glyph Maw.md",
+        "wiki/notes/The Bonechain.md",
+        "wiki/notes/The Null Reflection.md",
+        "wiki/notes/Earth Pantheon.md",
+        "wiki/notes/Spirit Pantheon.md",
+        "wiki/notes/Fire Pantheon.md",
+        "wiki/notes/Water Pantheon.md",
+        "wiki/notes/Air Pantheon.md"
+      ],
+      "pages_updated": [
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Sixth cosmology source (2026-07-13 wave) and by far the largest single ingest of this vault: a `status: complete` master Eldritch campaign guide spanning a three-tier cosmic hierarchy (Gods/Spirits/Moons), all downstream of The Whispering Dark first touching the Weave. Produced 9 full Eldritch God pages, 14 Eldritch Moon pages (+ hub, flagging a 12-vs-14 chronological-table discrepancy), 15 Eldritch Spirit pages (+ hub, 5-category tier system), The Null Reflection (the anti-reality plane distinct from Feywild/Shadowfell), and 5 elemental-pantheon hub pages (Earth/Spirit/Fire/Water/Air) cataloging previously-unhomed recurring deity names (Vatharun, Thamur, Gaeldros, Orivak, Aelys, Nyzara, Kyren, Vaeldros, Pyrris, Zerah, Vaelora, Astria, Zephir, Thirian). Its own Ultimate Stakes section converges entirely on the separately-ingested Hollow Thread material."
+    },
+    ".raw/The Hollow Thread.md": {
+      "hash": "6230666de7db0e5137d9067a99efca49",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/notes/The Hollow Thread.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Ashkarra.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "The setting's designated apocalypse option: a leyline corrupted by The Whispering Dark into carrying unbeing rather than magic, sealed beneath mountains by a four-phase Earth Pantheon ritual and actively sought by both the Eldritch Gods (total unmaking) and Vel'Zyren (a controlled breach to rewrite the Weave under her own authorship). Directly elaborates Ashkarra's fall as a near-catastrophic weakening of this specific seal (geographic proximity + Thread stagnation + World Tree severing + divine hubris compounding at once), updated onto Ashkarra's own page. Introduces the Grand Equation for containment strength and a four-option, no-correct-answer campaign endgame."
+    },
+    ".raw/The Lie of Godhood.md": {
+      "hash": "35ee07f23d33595b6841575b846d9bec",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/notes/The Lie of Godhood.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Divine Sparks.md",
+        "wiki/notes/Astralor.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "A `wip`, essay-register source on ascension mechanics. Substantially deepens Divine Sparks (four origin types -- Primal/Living/Residual/False -- the Mythalix vessel, the Rite of Reckoning, the War of Ascendants, the Glyph of Sovereignty). Produces a major new contradiction: reframes Astralor as 'not a god, but the Law of Becoming... a pattern, not a person,' directly conflicting with every other cosmology source's treatment of Astralor as a personified Primal Force and Aeloria's literal sibling. Flagged with [!contradiction] on both Divine Sparks and Astralor's own pages, not resolved."
+    },
+    ".raw/Three Pillars of Magical Flow.md": {
+      "hash": "0bd3451c1e703686e8fb7eba9a071eca",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/notes/Three Pillars of Magical Flow.md",
+        "wiki/notes/Leylines.md",
+        "wiki/notes/Wells of Power.md",
+        "wiki/notes/Astral Conduits.md"
+      ],
+      "pages_updated": [
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Structures Dor-o Estel's magical infrastructure into three named systems -- Leylines (veins), Wells of Power (reservoirs), Astral Conduits (highways) -- each now with a dedicated page. Gives the Earth Pantheon's view of all three as containment infrastructure for something it calls 'the Nameless One Below' (a clear reference to The Hollow Thread under a different name), and gives Vel'Zyren's view of them as 'the blocks of the web she requires to transcend again.' Reframes the Three Pillars as Intent/Form/Resonance, mapped onto Personal/Form/Universal Glyphs respectively."
+    },
+    ".raw/Weave and Magic.md": {
+      "hash": "be890f34772a0f2a6065a0e0c76f8e04",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/notes/Weave and Magic.md",
+        "wiki/notes/Primal Glyphs.md",
+        "wiki/notes/Universal Glyphs.md",
+        "wiki/notes/Elemental Glyphs.md",
+        "wiki/notes/Form Glyphs.md",
+        "wiki/notes/Personal Glyphs.md",
+        "wiki/notes/Glyph of Severance.md"
+      ],
+      "pages_updated": [
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Restates and lightly extends How the Five Layers Shape the Creation World's five-Glyph-layer cosmology with no material contradiction, adding the Triadic Reflection framing (Material Plane / Luminous Echo / Umbral Veil) and introducing the Glyph of Severance (the Unmaker's Mark) -- a Glyph so dangerous even the gods erased it. Five new Glyph-layer hub pages created (Primal/Universal/Elemental/Form/Personal), consolidating content also drawn from Weave of Creation."
+    },
+    ".raw/Weave of Creation.md": {
+      "hash": "76cb1a1b7e66a4457deb66c8d2838f05",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/notes/Weave of Creation.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Leylines.md",
+        "wiki/notes/Form Glyphs.md",
+        "wiki/notes/Luminous Echo.md",
+        "wiki/notes/Umbral Veil.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Self-described 'Definitive Cosmic Structure' / 'Grand Synthesis' -- the most systematized single leyline-classification document in this cluster. Expands Form Glyphs from 5 to 9 named archetypes (adding Draconic/Undead/Fae/Construct), introduces the Abyssal Anchors (the Chained Depths / Hells and the Howling Maw / Abyss) as external threats to leyline control distinct from internal Eldritch corruption, and supplies most of the leyline-origin-myth detail underlying the new Leylines page."
+    },
+    ".raw/Luminous Echo.md": {
+      "hash": "5a064c6f16b7721115f876103438b353",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/notes/Luminous Echo.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Personal Glyphs.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Full treatment of the Feywild as 'the Weave's boundless dream' -- the Laws of Reflection/Belief/Exaggeration/Recurrence, the Fae as literal extensions of leylines rather than separate beings, and the Unstable Heart as the source of all Wild Magic. Supplies the Feywild column of Personal Glyphs' planar-variance table."
+    },
+    ".raw/Umbral Veil.md": {
+      "hash": "4cc06379ad12acfce3305322f80afd8a",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/notes/Umbral Veil.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Personal Glyphs.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Full treatment of the Shadowfell as the Weave's 'fading memory' -- the Laws of Fracture/Silence/Reversal/Recurrence(Inverted), and The Hollow at its center where even memory fades. Supplies the Shadowfell column of Personal Glyphs' planar-variance table; deliberately mirrors and inverts Luminous Echo's structure (amplification vs. burden)."
+    },
+    ".raw/Veiled Star.md": {
+      "hash": "e00f6619bf1304b050075fdb2d46691f",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/notes/Veiled Star.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Ashkarra.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Source frontmatter reads `status: excluded`, `tags: [template]` -- same weak-provenance shape as several earlier sources this session that were individually corrected to canon by explicit user instruction. No such correction given here, so filed at confidence: low rather than upgraded by inference. Introduces the Veiled Star / Frame That Whittles the Weave -- restraint on the four Primal Forces, framed as the reason Ashkarra's Third Thread failure was a catastrophe of too much pattern rather than too little."
+    },
+    ".raw/Creations Misunderstanding.md": {
+      "hash": "767a435213a418ef999164e77b847edb",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/notes/Creations Misunderstanding.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/The Weave.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Sixth-ingested cosmology source overall (fifth in the Astralor/Aeloria/Whispering-Dark/Restorer sub-cluster), states the knowledge-hierarchy question most starkly ('The Silent War That No One Understands'). Independently confirms the same specific pairing already given by Twins of Creation and Creation World (Aeloria unaware of the Restorer; the Whispering Dark aware but unable to communicate it), making it 3-of-5 sources agreeing against Hidden Cosmology Thread System's lone dissent -- still documented as unresolved on The Weave rather than settled by count."
+    },
+    ".raw/World Anchors and the Loom-City System.md": {
+      "hash": "4746972bdb8ccff39df496e64b51e386",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/notes/World Anchors and the Loom-City System.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Ashkarra.md",
+        "wiki/notes/The Threadbearer Crisis.md",
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "A near-duplicate parallel draft of World Anchors and Thread System, covering the same Loom-City/Ashkarra/Aeravae/Threadbearer material in largely identical prose. Names the Day of Twelve Shadows explicitly as the alignment of all twelve Eldritch Moons during Ashkarra's fall (tying the Thread-mechanical catastrophe directly to the separately-ingested Eldritch Moons material), and adds a Second Age historical precedent for the current Threadbearer crisis. Produces one new contradiction: states Aeravae's Anchor (not Kel Varyan's) is the sole survivor of the current assassination wave -- flagged on Ashkarra and The Threadbearer Crisis, not resolved."
+    },
+    ".raw/Eldritch Zones and Manifestations.md": {
+      "hash": "df08cfa332226462f597ed6d25936d7b",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/notes/Eldritch Zones and Manifestations.md"
+      ],
+      "pages_updated": [
+        "wiki/mocs/FEARS MOC.md",
+        "wiki/index.md",
+        "wiki/hot.md",
+        "wiki/log.md"
+      ],
+      "note": "Source frontmatter reads `status: revision-needed`. Ties Eldritch influence directly to the existing Unstable Magic Zones framework with concrete DM-facing trigger tables per zone type, a parallel Sanity Corruption Score (5/10/15/20 thresholds, not merged with the vault's existing Corruption track -- flagged as deliberately parallel, same treatment as Sangromancer's Vitae Strain), and a distinct roster of corrupted-beast names (Null-Stags, Hollow Vultures, Glyphpuppets, Fray-Beasts, Surgeborn, Thought-Flayers) not found in Guide to the Eldritch Forces' own per-god corruption lists."
     }
   },
   "address_map": {
@@ -1350,6 +1607,76 @@
     "wiki/notes/Loom-Cities.md": "c-000180",
     "wiki/notes/Ashkarra.md": "c-000181",
     "wiki/notes/Aeravae.md": "c-000182",
-    "wiki/notes/The Threadbearer Crisis.md": "c-000183"
+    "wiki/notes/The Threadbearer Crisis.md": "c-000183",
+    "wiki/notes/Creation World.md": "c-000184",
+    "wiki/notes/Divine Sparks.md": "c-000185",
+    "wiki/notes/Nhal'Zereth.md": "c-000186",
+    "wiki/notes/Ith'Quess.md": "c-000187",
+    "wiki/notes/Vael'Akir.md": "c-000188",
+    "wiki/notes/Xey'Tazun.md": "c-000189",
+    "wiki/notes/Ul'Naresh.md": "c-000190",
+    "wiki/notes/Zhurr'Kael.md": "c-000191",
+    "wiki/notes/Esh'Tarah.md": "c-000192",
+    "wiki/notes/Mirag'Nael.md": "c-000193",
+    "wiki/notes/Vezherak.md": "c-000194",
+    "wiki/notes/Guide to the Eldritch Forces.md": "c-000195",
+    "wiki/notes/Howling Moon.md": "c-000196",
+    "wiki/notes/Shattered Moon.md": "c-000197",
+    "wiki/notes/Scorching Moon.md": "c-000198",
+    "wiki/notes/Vacuous Moon.md": "c-000199",
+    "wiki/notes/Glowering Moon.md": "c-000200",
+    "wiki/notes/Glacial Moon.md": "c-000201",
+    "wiki/notes/Slumbering Moon.md": "c-000202",
+    "wiki/notes/Yellow Crown.md": "c-000203",
+    "wiki/notes/Creeping Tarlight.md": "c-000204",
+    "wiki/notes/Krakenlight.md": "c-000205",
+    "wiki/notes/Sanguine Eclipse.md": "c-000206",
+    "wiki/notes/Blood Moon of Rebirth.md": "c-000207",
+    "wiki/notes/Weeping Waxing.md": "c-000208",
+    "wiki/notes/False Dawn.md": "c-000209",
+    "wiki/notes/Eldritch Moons.md": "c-000210",
+    "wiki/notes/The Faceless Choir.md": "c-000211",
+    "wiki/notes/The Writhe-Twin.md": "c-000212",
+    "wiki/notes/The Echo of the Empty Name.md": "c-000213",
+    "wiki/notes/Vathryn, the Hollowed Child.md": "c-000214",
+    "wiki/notes/The Shuddering Cradle.md": "c-000215",
+    "wiki/notes/Mother-Shell Elessh.md": "c-000216",
+    "wiki/notes/Eshari's Mirror.md": "c-000217",
+    "wiki/notes/The Pane-Creep.md": "c-000218",
+    "wiki/notes/Velai, the Remembered Stranger.md": "c-000219",
+    "wiki/notes/Ulzen, the Sleepless Host.md": "c-000220",
+    "wiki/notes/The Quilt-Worm.md": "c-000221",
+    "wiki/notes/Marrowbell.md": "c-000222",
+    "wiki/notes/The Ink-Root.md": "c-000223",
+    "wiki/notes/The Glyph Maw.md": "c-000224",
+    "wiki/notes/The Bonechain.md": "c-000225",
+    "wiki/notes/Eldritch Spirits.md": "c-000226",
+    "wiki/notes/The Null Reflection.md": "c-000227",
+    "wiki/notes/The Hollow Thread.md": "c-000228",
+    "wiki/notes/Vel'Zyren.md": "c-000229",
+    "wiki/notes/Veiled Star.md": "c-000230",
+    "wiki/notes/Primal Glyphs.md": "c-000231",
+    "wiki/notes/Universal Glyphs.md": "c-000232",
+    "wiki/notes/Elemental Glyphs.md": "c-000233",
+    "wiki/notes/Form Glyphs.md": "c-000234",
+    "wiki/notes/Personal Glyphs.md": "c-000235",
+    "wiki/notes/Glyph of Severance.md": "c-000236",
+    "wiki/notes/Luminous Echo.md": "c-000237",
+    "wiki/notes/Umbral Veil.md": "c-000238",
+    "wiki/notes/Leylines.md": "c-000239",
+    "wiki/notes/Wells of Power.md": "c-000240",
+    "wiki/notes/Astral Conduits.md": "c-000241",
+    "wiki/notes/Three Pillars of Magical Flow.md": "c-000242",
+    "wiki/notes/Weave and Magic.md": "c-000243",
+    "wiki/notes/Weave of Creation.md": "c-000244",
+    "wiki/notes/Creations Misunderstanding.md": "c-000245",
+    "wiki/notes/Earth Pantheon.md": "c-000246",
+    "wiki/notes/Spirit Pantheon.md": "c-000247",
+    "wiki/notes/Fire Pantheon.md": "c-000248",
+    "wiki/notes/Water Pantheon.md": "c-000249",
+    "wiki/notes/Air Pantheon.md": "c-000250",
+    "wiki/notes/The Lie of Godhood.md": "c-000251",
+    "wiki/notes/World Anchors and the Loom-City System.md": "c-000252",
+    "wiki/notes/Eldritch Zones and Manifestations.md": "c-000253"
   }
 }

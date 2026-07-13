@@ -3,7 +3,7 @@ type: entity
 title: "The Restorer"
 address: c-000173
 created: "2026-07-12"
-updated: "2026-07-12"
+updated: "2026-07-13"
 tags:
   - fears
   - ttrpg
@@ -20,15 +20,18 @@ related:
   - "[[How the Five Layers Shape the Creation World]]"
   - "[[Hidden Cosmology Thread System]]"
   - "[[Twins of Creation]]"
+  - "[[Creation World]]"
   - "[[Astralor]]"
   - "[[Aeloria]]"
   - "[[The Whispering Dark]]"
   - "[[Threadbearers]]"
+  - "[[Divine Sparks]]"
   - "[[Dór-o Estel]]"
 sources:
   - ".raw/How the Five Layers Shape the Creation World.md"
   - ".raw/Hidden Cosmology Thread System.md"
   - ".raw/Twins of Creation.md"
+  - ".raw/Creation World.md"
 confidence: medium
 ---
 
@@ -51,6 +54,10 @@ What [[The Whispering Dark]] erases is never truly gone — The Restorer's Wheel
 
 The Fourth Law (Form Glyphs) states The Restorer "cannot rewrite them entirely" — the five recurring life-patterns persist beyond even The Restorer's reforging, on the same terms that they persist beyond Astralor's erasure attempts and The Whispering Dark's culling.
 
+## Divine Sparks
+
+Per [[Creation World]], the Restorer unintentionally contributed to the creation of **[[Divine Sparks]]** — pulling fragments of unresolved divinity from the void, refusing to let their stories end, alongside contributions from the other three Primal Forces. This is consistent with the Restorer's established domain (nothing lost is ever truly gone) rather than a new function.
+
 ## Relationship to The Whispering Dark
 
 Functions as the explicit destruction/restoration counterpart to [[The Whispering Dark]] — one culls, the other reclaims what's culled. [[Twins of Creation]] revises the "neither aware of the other" framing from the earlier sources: the Whispering Dark specifically knows the Restorer exists (though it "cannot explain this to anyone"), even if the reverse isn't stated. The pairing reads less like two symmetric, mutually-unaware forces and more like a hierarchy the Restorer sits atop, aware of everything, observed-but-unexplainable by the Dark, and entirely unknown to the Twins.
@@ -60,9 +67,11 @@ Functions as the explicit destruction/restoration counterpart to [[The Whisperin
 - [[How the Five Layers Shape the Creation World]]
 - [[Hidden Cosmology Thread System]]
 - [[Twins of Creation]]
+- [[Creation World]]
 - [[Astralor]]
 - [[Aeloria]]
 - [[The Whispering Dark]]
 - [[Threadbearers]]
+- [[Divine Sparks]]
 - [[Dór-o Estel]]
 - [[FEARS MOC]]

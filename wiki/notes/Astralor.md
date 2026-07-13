@@ -3,7 +3,7 @@ type: entity
 title: "Astralor"
 address: c-000170
 created: "2026-07-12"
-updated: "2026-07-12"
+updated: "2026-07-13"
 tags:
   - fears
   - ttrpg
@@ -20,17 +20,20 @@ related:
   - "[[How the Five Layers Shape the Creation World]]"
   - "[[Hidden Cosmology Thread System]]"
   - "[[Twins of Creation]]"
+  - "[[Creation World]]"
   - "[[Aeloria]]"
   - "[[The Whispering Dark]]"
   - "[[The Restorer]]"
   - "[[Glyph of Will]]"
   - "[[Threadbearers]]"
   - "[[World Trees]]"
+  - "[[Divine Sparks]]"
   - "[[Dór-o Estel]]"
 sources:
   - ".raw/How the Five Layers Shape the Creation World.md"
   - ".raw/Hidden Cosmology Thread System.md"
   - ".raw/Twins of Creation.md"
+  - ".raw/Creation World.md"
 confidence: medium
 ---
 
@@ -54,6 +57,13 @@ The Creation World is described as Astralor's proving ground: here, he forges re
 
 The Fourth Law (Form Glyphs) states that even when Astralor tries to erase certain concepts from a new cycle, they always return anyway — his will over the Forge is not absolute against the Form Glyphs' pattern of recurrence (Mortals, Beasts, Titans, Spirits, Aberrations). [[Twins of Creation]] gives the cosmic reason why: it's [[The Restorer]] quietly returning what he discards, a force he doesn't know exists.
 
+## Divine Sparks
+
+[[Creation World]] adds a detail no other source mentions: Astralor unintentionally forged **[[Divine Sparks]]** — raw fragments of unresolved divinity — whenever iterations of perfection collapsed into unresolved creation. Neither he nor [[Aeloria]], [[The Whispering Dark]], or [[The Restorer]] intended this; together they accidentally created the origin material for the first gods. Astralor has no more awareness of this than he does of the Restorer's existence.
+
+> [!contradiction] Is Astralor a person, or an impersonal cosmic Law?
+> [[The Lie of Godhood]] states flatly that Astralor is "not a god, but the Law of Becoming... a pattern, not a person," the impersonal force shaping the Divine Rank System that governs mortal ascension to godhood — no god knows of Astralor before ascending, and even afterward only feels "the inescapable weight of the structure," never Astralor as a character. This directly contradicts every other source in this cluster, all of which give Astralor personality, memory, and a literal sibling ([[Aeloria]]). Flagged, not resolved — see [[Divine Sparks]] for the fuller writeup of this specific source and its unusual essay-like register.
+
 ## Open questions
 
 - Whether Astralor has any awareness of the Final Truth that all five Layers are secretly one design — no source directly confirms or denies this for Astralor specifically; every source agrees he's unaware of at least [[The Restorer]], and [[Twins of Creation]] adds that he's also unaware [[Aeloria]] is his active silent partner rather than a passive parallel force.
@@ -65,10 +75,13 @@ The Fourth Law (Form Glyphs) states that even when Astralor tries to erase certa
 - [[How the Five Layers Shape the Creation World]]
 - [[Hidden Cosmology Thread System]]
 - [[Twins of Creation]]
+- [[Creation World]]
+- [[The Lie of Godhood]]
 - [[Aeloria]]
 - [[The Whispering Dark]]
 - [[The Restorer]]
 - [[Threadbearers]]
 - [[World Trees]]
+- [[Divine Sparks]]
 - [[Dór-o Estel]]
 - [[FEARS MOC]]

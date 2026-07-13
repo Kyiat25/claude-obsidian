@@ -3,7 +3,7 @@ type: entity
 title: "The Whispering Dark"
 address: c-000172
 created: "2026-07-12"
-updated: "2026-07-12"
+updated: "2026-07-13"
 tags:
   - fears
   - ttrpg
@@ -20,15 +20,18 @@ related:
   - "[[How the Five Layers Shape the Creation World]]"
   - "[[Hidden Cosmology Thread System]]"
   - "[[Twins of Creation]]"
+  - "[[Creation World]]"
   - "[[Astralor]]"
   - "[[Aeloria]]"
   - "[[The Restorer]]"
   - "[[Threadbearers]]"
+  - "[[Divine Sparks]]"
   - "[[Dór-o Estel]]"
 sources:
   - ".raw/How the Five Layers Shape the Creation World.md"
   - ".raw/Hidden Cosmology Thread System.md"
   - ".raw/Twins of Creation.md"
+  - ".raw/Creation World.md"
 confidence: medium
 ---
 
@@ -59,6 +62,10 @@ The Fourth Law (Form Glyphs) states explicitly that The Whispering Dark "cannot 
 
 Per [[Twins of Creation]], the Whispering Dark occupies a strange middle position in the cosmology's knowledge hierarchy: more aware than [[Astralor]] or [[Aeloria]] (who know nothing of [[The Restorer]] at all), but seemingly unable to act on or share that awareness — contrasted with the Restorer, described as "the only force that sees the entire pattern" and unconstrained in its function even if it "does not interfere, does not challenge, does not care."
 
+## Divine Sparks
+
+Per [[Creation World]], the Whispering Dark unintentionally contributed to the creation of **[[Divine Sparks]]** — it rejected fragments of unresolved divinity but could not unmake them fully, letting them persist as raw godhood material alongside contributions from the other three Primal Forces.
+
 ## Naming/tone note
 
 The only Primal Force named with an ominous, non-craft-based title (compare Astralor's Forge, Aeloria's Loom, The Restorer's Wheel — all constructive metaphors). Worth watching whether future sources treat The Whispering Dark as more antagonistic or dangerous than the other three, or whether "erasing what shouldn't exist" is framed as neutral/necessary rather than villainous.
@@ -68,9 +75,11 @@ The only Primal Force named with an ominous, non-craft-based title (compare Astr
 - [[How the Five Layers Shape the Creation World]]
 - [[Hidden Cosmology Thread System]]
 - [[Twins of Creation]]
+- [[Creation World]]
 - [[Astralor]]
 - [[Aeloria]]
 - [[The Restorer]]
 - [[Threadbearers]]
+- [[Divine Sparks]]
 - [[Dór-o Estel]]
 - [[FEARS MOC]]

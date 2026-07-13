@@ -3,7 +3,7 @@ type: source
 title: "How the Five Layers Shape the Creation World"
 address: c-000169
 created: "2026-07-12"
-updated: "2026-07-12"
+updated: "2026-07-13"
 tags:
   - fears
   - ttrpg
@@ -88,14 +88,18 @@ The source's explicit dramatic irony, stated as its capstone: the Primal Forces 
 
 Closing line teases a tenth, forbidden Glyph — the **Severance Glyph** — waiting "beyond the cycle, where no god dares look," explicitly set up as the thing that eventually "breaks the cycle." No further detail given in this source. Flagged as an open narrative hook, not a documented mechanic.
 
+## Relationship to Creation World
+
+[[Creation World]] (ingested later) reads as the likely narrative root this page's Primal Force table draws from — same four forces, same forge/loom framing, same "none of them realize they're not alone" capstone — but with no Layer/Glyph taxonomy of its own. It also introduces [[Divine Sparks]], a concept absent from this page entirely.
+
 ## Gap: a much larger uningested cosmology cluster exists
 
-Checking `.raw/` while ingesting this file surfaced considerably more related lore than expected — none of it ingested yet:
+Checking `.raw/` while ingesting this file surfaced considerably more related lore than expected. Since then, [[Hidden Cosmology Thread System]], [[Twins of Creation]], [[World Anchors and Thread System]], and [[Creation World]] have all been ingested — the remaining gap:
 
-- **Directly adjacent** (same Creation World/Weave cluster): `Creation World.md`, `Creations Misunderstanding.md`, `Twins of Creation.md`, `Weave and Magic.md`, `Weave of Creation.md`
-- **Broader cosmology/Eldritch cluster** (connects to [[Corruption]], [[Eldritch Moons in Combat]], and the "Threads"/"Loom-Cities" concepts [[FEARS Advanced Backgrounds]] flagged as too thin for their own pages): `Eldritch Zones and Manifestations.md`, `Guide to the Eldritch_Forces.md`, `Luminous Echo.md`, `The Hollow Thread.md`, `The Lie of Godhood.md`, `Three Pillars of Magical Flow.md`, `Umbral Veil.md`, `Veiled Star.md`, `World Anchors and Thread System.md`, `World Anchors and the Loom-City System.md`
+- **Directly adjacent** (same Creation World/Weave cluster): `Creations Misunderstanding.md`, `Weave and Magic.md`, `Weave of Creation.md`
+- **Broader cosmology/Eldritch cluster** (connects to [[Corruption]], [[Eldritch Moons in Combat]], and the "Threads"/"Loom-Cities" concepts [[FEARS Advanced Backgrounds]] flagged as too thin for their own pages): `Eldritch Zones and Manifestations.md`, `Guide to the Eldritch_Forces.md`, `Luminous Echo.md`, `The Hollow Thread.md`, `The Lie of Godhood.md`, `Three Pillars of Magical Flow.md`, `Umbral Veil.md`, `Veiled Star.md`, `World Anchors and the Loom-City System.md` (distinct from the already-ingested `World Anchors and Thread System.md`)
 
-That's 15 more source files in this domain alone. This page covers only the one file requested — the wider cluster is a substantial follow-up ingest, not attempted here.
+10 source files remain in this domain, down from 15 at the start of this cluster.
 
 ## See also
 
