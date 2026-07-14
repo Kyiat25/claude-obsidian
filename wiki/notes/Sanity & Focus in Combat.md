@@ -78,9 +78,9 @@ Losing Sanity can cause Focus loss, especially during eldritch or psychic events
 
 Combat Flow (Sanity saves and Focus use interrupt turns/reactions), Reaction System ([[Focus]] is the main currency to trigger [[Tactical Reactions|Reactions]]), Fracture System (builds over time with Sanity failures), [[Whisper Engine]] (Whisper Points gained when Sanity breaks under eldritch stress — the Memory Glyph backlash row above is a concrete instance of this).
 
-## Fracture Save formula conflict
+## Fracture Save formula — resolved as a distinct variant, not a conflict
 
-This source states the [[Fracture Save]] DC as `13 + number of Whisper Points`. [[Spell Critical]] separately confirmed it as `10 + PB`. Both sources are now confirmed canon and the two formulas do not match — a genuine contradiction, not a drafting nuance, flagged and documented on [[Fracture Save]] rather than silently picked between.
+This source states the (Whisper Point-driven) [[Fracture Save]] DC as `13 + number of Whisper Points`. [[Spell Critical]] separately gives `10 + PB` for its own narrower, Fear-Effect-triggered variant. Both are confirmed canon; previously flagged as a genuine contradiction. **Resolved by user ruling**: they're two different mechanics sharing a name — one witnessed via a Spell Critical, one driven by a character's own Whisper Point accumulation — not one formula stated two ways. Full breakdown on [[Fracture Save]].
 
 ## See also
 

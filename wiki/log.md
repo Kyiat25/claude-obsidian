@@ -25,6 +25,12 @@ Parse recent entries: `grep "^## \[" wiki/log.md | head -10`
 
 ---
 
+## [2026-07-14] ruling | Fracture Save DC "conflict" resolved — two distinct mechanics, not one disputed formula
+- Trigger: surfaced in a full 24-class + shared-chassis audit as the top HIGH-severity contradiction — [[Spell Critical]] gives the Fracture Save DC as `10 + PB`, while [[Sanity & Focus in Combat]] and [[Fracture Whispers]] both independently give `13 + Whisper Points`, all three confirmed canon. User's ruling: "They are two different things one is when seeing a spell critical and the other is the use of whisper points."
+- **Resolved**: "Fracture Save" names two mechanics sharing a label — the **Whisper Fracture Save** (general-purpose, DC `13 + Whisper Points`, self-driven by a character's own accumulated Whisper Points, per [[Sanity & Focus in Combat]]/[[Fracture Whispers]]) and the **Spell Critical Fracture Save** (narrow, DC `10 + PB`, triggered when a creature already Frightened by a caster's Spell Critical fails its follow-up save, scaled to the caster's own PB). Not a contradiction requiring a pick-one ruling.
+- **Pages updated**: [[Fracture Save]] (restructured into the two named variants, `contradiction` tag removed, `[!contradiction]` callout replaced with `[!resolved]`), [[Spell Critical]], [[Sanity & Focus in Combat]], [[Fracture Whispers]] (each cross-reference updated to point at the resolution instead of the open conflict).
+- Note: this closes the highest-severity item on the class-system audit's contradiction ledger; the other three HIGH items from that audit (Called Shot's missing DC formula, the Rogue/Investigator "Exploit Weakness"/"Exploit Vulnerability" naming collision, and Warden/Ranger's missing Last Stand DCs) remain open.
+
 ## [2026-07-13] ingest | Final cosmology/Eldritch wave — 12 sources, 68 pages
 - Sources: `.raw/Guide to the Eldritch_Forces.md`, `.raw/The Hollow Thread.md`, `.raw/The Lie of Godhood.md`, `.raw/Three Pillars of Magical Flow.md`, `.raw/Weave and Magic.md`, `.raw/Weave of Creation.md`, `.raw/Luminous Echo.md`, `.raw/Umbral Veil.md`, `.raw/Veiled Star.md`, `.raw/Creations Misunderstanding.md`, `.raw/World Anchors and the Loom-City System.md`, `.raw/Eldritch Zones and Manifestations.md`
 - Summary: closes out the entire remaining `.raw/` cosmology backlog in a single pass, at the user's explicit request to ingest all non-ingested files. The largest single ingest this vault has performed by page count.

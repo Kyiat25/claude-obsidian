@@ -57,9 +57,9 @@ Described here as "a mechanical measure of how close a character is to mental in
 
 **Whisper Point Cap = `1 + Sanity Modifier` (minimum 1)**. Reaching the cap immediately triggers a Fracture Save.
 
-## Fracture Save (confirms and extends Fracture Save)
+## Fracture Save (confirms and extends the Whisper Fracture Save)
 
-`DC = 13 + Whisper Points` at the time of the roll — matches [[Sanity & Focus in Combat]]'s formula exactly. Roll: `1d20 + Constitution Modifier + Sanity Modifier` (the first full roll formula given for this save). Success: regain 1 Sanity and purge a Whisper Point. Failure: gain a Fracture Condition, rolled on the table below. Full writeup and the still-unresolved conflict with [[Spell Critical]]'s `10 + PB` formula on [[Fracture Save]].
+`DC = 13 + Whisper Points` at the time of the roll — matches [[Sanity & Focus in Combat]]'s formula exactly. Roll: `1d20 + Constitution Modifier + Sanity Modifier` (the first full roll formula given for this save). Success: regain 1 Sanity and purge a Whisper Point. Failure: gain a Fracture Condition, rolled on the table below. Previously flagged against [[Spell Critical]]'s `10 + PB` formula as an unresolved conflict — resolved by user ruling as two distinct mechanics (this one, driven by Whisper Point accumulation, versus Spell Critical's narrower Fear-Effect-triggered variant), not one formula in dispute. Full breakdown on [[Fracture Save]].
 
 ## Fracture Table (d8)
 
