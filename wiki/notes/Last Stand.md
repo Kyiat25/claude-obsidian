@@ -77,7 +77,13 @@ A universal per-class capstone mechanic — first sighted on [[Barbarian]]'s dee
 
 ## DC-base: resolved as `10+PB+ability`
 
-The canonical Last Stand save DC is **`10+PB+ability`** ([[Cleric]]'s Heaven's Gate, [[Apothecary]]'s Chemical Martyrdom, [[Inventor]]'s Null Field/Proximity Network, and now [[Sorcerer]]'s Arcane Cataclysm). Four classes' deep-dives had used `12+PB+ability` instead ([[Barbarian]]'s Last Laugh, [[Monk]]'s Empty Sun Technique, [[Paladin]]'s True Smite and Turn Fate, [[Rogue]]'s Death's Whisper — the prose previously misattributed "Last Laugh" to [[Bender]]; it's actually [[Barbarian]]'s), and [[Reaper]]'s three options had used a third base, plain `8+PB+ability`. **Ruled: all of these are transcription errors** — corrected to `10+PB+ability` in the tables below and on each class's own page. [[Ranger]]'s three options still state no explicit save DC at all, so they don't add a data point either way.
+The canonical Last Stand save DC is **`10+PB+ability`** ([[Cleric]]'s Heaven's Gate, [[Apothecary]]'s Chemical Martyrdom, [[Inventor]]'s Null Field/Proximity Network, and now [[Sorcerer]]'s Arcane Cataclysm). Four classes' deep-dives had used `12+PB+ability` instead ([[Barbarian]]'s Last Laugh, [[Monk]]'s Empty Sun Technique, [[Paladin]]'s True Smite and Turn Fate, [[Rogue]]'s Death's Whisper — the prose previously misattributed "Last Laugh" to [[Bender]]; it's actually [[Barbarian]]'s), and [[Reaper]]'s three options had used a third base, plain `8+PB+ability`. **Ruled: all of these are transcription errors** — corrected to `10+PB+ability` in the tables below and on each class's own page.
+
+> [!resolved] Warden's genuine gap, closed
+> [[Warden]]'s The Earth Remembers named a save type (DEX or CON, per Prime Element) on all five variants but gave no DC anywhere. **Resolved by user ruling**: `10+PB+WIS`, matching Warden's own confirmed spellcasting DC and the canonical shape above.
+
+> [!note] Ranger — not a gap, no save exists
+> [[Ranger]]'s three Last Stand options were previously flagged alongside Warden's as "missing a DC," but on inspection none of them include a target saving throw at all — Hunter's Reckoning auto-hits/auto-crits, Call of the Wild summons creatures, Ghost of the Vale is pure buffs/auto-effects. There's no save to attach a DC to. **Ruled: not a gap** — Ranger's capstone kit simply doesn't use save-or-suffer effects, unlike most of the roster.
 
 ## Shared rules (confirmed identical across three sightings, with one confirmed exception)
 
@@ -218,7 +224,7 @@ Thirteenth class confirming Last Stand as universal; all three options reaffirm 
 | Call of the Wild | Summon 3 creatures (Beasts ≤CR4, Elementals ≤CR3, or Fey ≤CR3) within 30 ft for 5 minutes, immune to charm/fear/magical control |
 | Ghost of the Vale | 5 minutes as a spectral guide: allies within 100 ft gain invisibility while not attacking/casting, plus advantage on Stealth/DEX saves; enemies within 30 ft disadvantaged on Perception/ranged attacks; flies 60 ft, passes through barriers |
 
-Fourteenth class confirming Last Stand as universal; all three options reaffirm the standard permanent-death clause (no exception — Bender remains the lone confirmed exception). No explicit save DC anywhere in Ranger's options.
+Fourteenth class confirming Last Stand as universal; all three options reaffirm the standard permanent-death clause (no exception — Bender remains the lone confirmed exception). No explicit save DC anywhere in Ranger's options — **resolved by user ruling as not a gap**: none of the three call for a target saving throw at all (auto-hit, summon, buff/aura effects only), so there's nothing to attach a DC to.
 
 ### [[Reaper]]
 
@@ -280,15 +286,15 @@ Gap closed post-ingest (see the resolved note near the top of this page) rather 
 
 All three options reaffirm the standard permanent-death clause (no exception — Bender remains the lone confirmed exception). Ink of Defiance's DC (`10+PB+CON`) adds another data point to the `10+PB+ability` group.
 
-### [[Warden]] — a save named with no DC given
+### [[Warden]] — DC gap resolved
 
 | Option | Effect |
 |---|---|
-| The Earth Remembers | 60 ft terrain transformation matching the Prime Element (e.g. Earthen Bulwark: DEX save or 8d10 bludgeoning + prone; Unrelenting Storm: DEX save for half of 8d10 lightning, then 3d10/round for 1 minute) — **no DC formula given for any element's save** |
+| The Earth Remembers | 60 ft terrain transformation matching the Prime Element (e.g. Earthen Bulwark: DEX save, DC 10+PB+WIS, or 8d10 bludgeoning + prone; Unrelenting Storm: DEX save, DC 10+PB+WIS, for half of 8d10 lightning, then 3d10/round for 1 minute) |
 | Hold the Line | Stays at 0 HP for 1 minute, immune to HP-damage death; allies within 30 ft gain +3 DR (stacking); each death-save success bursts 2d10 Prime Element damage to enemies within 10 ft; dies when the minute ends or a third death save fails |
 | The Storm Breaks | 3 rounds as a raw elemental vessel: Elemental Presence radius 60 ft dealing 3d10; attacks auto-hit and auto-max; immune to all damage; can't be moved/charmed/frightened/controlled |
 
-All three options reaffirm the standard permanent-death clause (no exception — Bender remains the lone confirmed exception). **The Earth Remembers is the first Last Stand option in this cluster to name a saving throw type without ever giving its DC formula**, on any of its five element variants — every other class's save-based option has used one of the `8/10/12+PB+ability` shapes.
+All three options reaffirm the standard permanent-death clause (no exception — Bender remains the lone confirmed exception). The Earth Remembers previously named a saving throw type without ever giving its DC, on any of its five element variants — **resolved by user ruling** to `10+PB+WIS`, matching Warden's own confirmed spellcasting DC and the canonical `10+PB+ability` shape used everywhere else in the roster.
 
 ### [[Warlock]]
 
