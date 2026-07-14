@@ -31,6 +31,7 @@ sources:
   - "[[Dynamic Combat System (DCS)]]"
   - "[[Weapon Mastery System]]"
   - ".raw/Fighter.md"
+  - ".raw/Class_Lore_Compendiums_DorOEstel_UPDATED.md"
 confidence: high
 ---
 
@@ -157,6 +158,14 @@ Explicitly draws from the **Proficiency Bonus pool**, refreshing on short or lon
 | Defensive Counter | 2nd | A creature makes a melee attack against the Fighter | Miss: one melee attack, weapon damage + PB + STR/DEX mod on hit. Hit: reduce damage by PB, then make one melee attack |
 | Guarded Riposte | 3rd | A creature makes a melee attack against the Fighter | Miss: one weapon attack with advantage, +PB+ability mod damage on hit, target disadvantaged on its next attack. Hit: one weapon attack, +PB damage on hit, target disadvantaged on its next attack |
 | Tactical Masterstroke | 11th | An ally within 30 ft misses an attack | Grant a reroll with advantage; if it still misses, the Fighter may make one weapon attack against the same target |
+
+## Mythology & Cultural Lore (from the Class Lore Compendium)
+
+*"The Tested Blade: Those Who Perfect Violence."* Fighters are the most honest class — no magic, no divine favor, no cosmic significance, just skill and discipline, proof that mortals can achieve mastery through pure effort in a world of gods and glyphs. The Second Age's **Kara Ironbreaker**, a human fighter, single-handedly killed a lesser deity through superior tactics alone, inspiring the **Mortal Pride** movement's belief that mortals need neither gods nor magic. Ashkarra's Fall devastated fighter culture specifically — the dragonborn empire's millions of professional soldiers died or scattered with the city, and entire martial traditions were lost.
+
+**Source of Power (DM truth, deliberately left ambiguous):** Fighters have no confirmed special power source — they're mortals who trained extraordinarily hard, which makes them simultaneously the weakest class (no magic, no supernatural gifts) and the strongest (no dependencies, no failure conditions, pure reliability). But legendary fighters perform "impossible" feats, demonstrate precognition-like combat sense, and develop a "presence" that seems to bend probability — suggesting some unknowingly access the [[Personal Glyphs]] through sheer discipline, rewriting their own personal reality until they exceed what biology should allow. If true, fighters are the only class that grants *itself* power.
+
+**Legendary figures:** **Kara Ironbreaker** (Second Age) — killed a lesser deity with tactics alone. Core philosophy, attributed to Commander Graven of the Kel Varyan Imperial Marines: *"A wizard studies glyphs. A cleric prays. A druid communes. I swing sword... My sword works anywhere. Leyline-dense or leyline-dead. Fire Thread or Spirit Thread. Divine favor or divine silence. Reality stable or reality unraveling. Doesn't matter. Blade still cuts."*
 
 ## See also
 

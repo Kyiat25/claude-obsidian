@@ -12,7 +12,7 @@ tags:
   - dm-only
 status: developing
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 entity_type: phenomenon
 role: "Eldritch Moon — dream/wake merge"
 first_mentioned: "[[Guide to the Eldritch Forces]]"
@@ -23,6 +23,7 @@ related:
   - "[[The Null Reflection]]"
 sources:
   - ".raw/Guide to the Eldritch_Forces.md"
+  - ".raw/Eldritch Moons.md"
 confidence: medium
 ---
 
@@ -45,6 +46,10 @@ The veil between waking and sleeping thins; the world becomes dream-adjacent. [[
 ## Madness
 
 Short-term: confusion between dream and real memories. Long-term: belief one is currently dreaming. Indefinite: the compulsion to "wake up" by killing or destroying something.
+
+## Glyph interactions and resistance
+
+Dream glyphs (prophecy, sleep-magic, fate-threads) oscillate or spontaneously duplicate; Spirit glyphs guiding souls may redirect toward Null Reflection doorways; teleportation and plane shift have a 15% chance of routing through a dreamscape shard, causing brief misplacement. The Echoed Mother becomes overwhelmed, weaving rebirths from dreams rather than truth; [[Vaelora]] is said to weep black foam under this moon, remembering the ocean's first sleep; the Restbringer retreats entirely, and some who die "dream their way back" no longer resembling who they were.
 
 ## Campaign use
 

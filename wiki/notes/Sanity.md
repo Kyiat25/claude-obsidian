@@ -38,6 +38,7 @@ sources:
   - "[[Sanity & Focus in Combat]]"
   - "[[Fracture Whispers]]"
   - "[[Bender]]"
+  - ".raw/Sanity.md"
 ---
 
 # Sanity
@@ -73,6 +74,10 @@ A **Fracture Save** exists, tied to major Sanity loss, beyond the "fracture Focu
 ## New unconfirmed term: Trauma Point (from Bender)
 
 [[Bender]]'s Primordial Form feature requires a Sanity check (DC 12) on activation; failure grants 1 **Trauma Point** with the "Elemental Obsession" trauma type — the first sighting of "Trauma Point" as a mechanic anywhere in this cluster. Not stated to be the same thing as [[Corruption]] or the still-open [[Fracture Save]]/Fracture Effect system, so not assumed identical to either. No other source defines it yet.
+
+## Threshold table and generation (from a dedicated `Sanity.md` player-guide source)
+
+A separate, previously-untracked standalone source gives Sanity a full generation formula (point buy: `10 + spellcasting modifier + CON modifier`, or CHA if no spellcasting modifier; rolled 8-20) and a 5-tier threshold table distinct from the [[Mental State]] tracker's Stable/Frayed/Deranged/Broken stages: **13-20 Stable** (no effect), **9-12 Frayed** (disadvantage on Sanity saves vs. illusions/mental stress), **5-8 Unraveling** (disadvantage on all Sanity checks/saves), **1-4 Deranged** (gain 1 Mental Trauma, rolled on a d6 table: Delusions, Paranoia, Hallucinations, Obsession, Split Identity, or Recurring Visions — persistent until resolved through recovery + roleplay), **0 Broken** (immediate insanity/DM-fiat consequence). Save DC guideline: `8 + CR or Event Rating` (Frightening Scene 10-12, Glyph Exposure 13-15, Eldritch Moonlight 16-18, direct Eldritch contact 20+) — a looser, event-based alternative to [[Sanity & Focus in Combat]]'s fixed combat-trigger table. Recovery options include a Short Rest + ally support (+1), Long Rest (+1d4, safe environment required), Calm Emotions (suppresses Frayed/Unraveling effects), and Greater Restoration (removes 1 trauma or restores 1d4 permanent Sanity).
 
 ## See also
 

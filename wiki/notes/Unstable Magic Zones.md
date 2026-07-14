@@ -32,10 +32,10 @@ FEARS treats magic as "an unpredictable, volatile current that ebbs and surges w
 
 A natural 20 on a spell is a **Critical Spell Hit** — raw, untethered magic capable of reshaping the battlefield or the world. Four possible outcomes, per [[Spell Critical]]'s Focus Check resolution table (superseding this page's earlier "no table or DC governs it" framing):
 
-- **Enhanced Arcane Rift** (Focus Check nat 20) — amplifies all spells of that school, surges unpredictably
-- **Arcane Rift** (Focus Check success) — expands, enhancing magic of a certain school, destabilizing oppositional schools
-- **Wild Magic Zone** (Focus Check failure) — spirals out, every spellcaster nearby risks losing control
-- **Dead Magic Zone** (Focus Check nat 1) — collapses, snuffing out all arcane energy in the area
+- **[[Arcane Rift]] → Enhanced Arcane Rift** (Focus Check nat 20) — amplifies all spells of that school, surges unpredictably; see [[Arcane Rift]] for both tiers' full mechanics (spell-level amplification, crit range shifts, instability thresholds)
+- **[[Arcane Rift]]** (Focus Check success) — expands, enhancing magic of a certain school, destabilizing oppositional schools
+- **[[Wild Magic Zone]]** (Focus Check failure) — spirals out, every spellcaster nearby risks losing control; see [[Wild Magic Zone]] for the full Focus Save mechanic
+- **[[Dead Magic Zone]]** (Focus Check nat 1) — collapses, snuffing out all arcane energy in the area; see [[Dead Magic Zone]] for the full magic-suppression and forced-casting mechanics
 
 ## Resolution mechanic (from Spell Critical)
 

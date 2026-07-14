@@ -1423,6 +1423,2314 @@
         "wiki/log.md"
       ],
       "note": "Source frontmatter reads `status: revision-needed`. Ties Eldritch influence directly to the existing Unstable Magic Zones framework with concrete DM-facing trigger tables per zone type, a parallel Sanity Corruption Score (5/10/15/20 thresholds, not merged with the vault's existing Corruption track -- flagged as deliberately parallel, same treatment as Sangromancer's Vitae Strain), and a distinct roster of corrupted-beast names (Null-Stags, Hollow Vultures, Glyphpuppets, Fray-Beasts, Surgeborn, Thought-Flayers) not found in Guide to the Eldritch Forces' own per-god corruption lists."
+    },
+    ".raw/The Restorer.md": {
+      "hash": "530c4a7f0b9018d83ea635f3004831ba",
+      "ingested_at": "2026-07-13",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/The Restorer.md"
+      ],
+      "note": "Source content matched existing wiki page almost verbatim; only added as a sources cross-reference, no rewrite needed."
+    },
+    ".raw/Aeloria.md": {
+      "hash": "4090d4efac411e024abc4f4f4dba477a",
+      "ingested_at": "2026-07-13",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Aeloria.md"
+      ],
+      "note": "Introduced 'The Great Silence' (Aeloria erased herself from ALL memory, not just the Restorer's). Expanded existing page."
+    },
+    ".raw/Astralor.md": {
+      "hash": "06cf2121ccfae1a321df39c4ddbcd7c5",
+      "ingested_at": "2026-07-13",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Astralor.md"
+      ],
+      "note": "Introduced the Celestial Forge and Reset Principle. Expanded existing page."
+    },
+    ".raw/The Whispering Dark.md": {
+      "hash": "39d01b855ada6f4cc9084062d01674e9",
+      "ingested_at": "2026-07-13",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/The Whispering Dark.md"
+      ],
+      "note": "Introduced 'The Void That Hungers' and the Void That Listens mechanical erasure system. Expanded existing page."
+    },
+    ".raw/Vel'Zyren.md": {
+      "hash": "51241a5228817b284f1a391b6673691c",
+      "ingested_at": "2026-07-13",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Vel'Zyren.md"
+      ],
+      "note": "Read in full; superseded in detail by the more systematic 'Guide to Vel Zyren The Web Spinner.md' source, used together for the major page rewrite."
+    },
+    ".raw/Guide to Vel Zyren The Web Spinner.md": {
+      "hash": "64b32a8b91f5729761ab0b7a18817128",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/notes/The Trial of the Web-Spinner.md",
+        "wiki/notes/The Fall of the Drow.md",
+        "wiki/notes/The Ashen Web.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Vel'Zyren.md"
+      ],
+      "note": "Primary/authoritative Vel'Zyren source; drove the major Vel'Zyren rewrite plus three new standalone pages."
+    },
+    ".raw/The Earth Pantheon.md": {
+      "hash": "533284b6447c14762f0d38c0074ddc91",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/notes/Vatharun.md",
+        "wiki/notes/Ishara.md",
+        "wiki/notes/Torvax.md",
+        "wiki/notes/Gaeldros.md",
+        "wiki/notes/Dalvora.md",
+        "wiki/notes/Thamur.md",
+        "wiki/notes/Orivak.md",
+        "wiki/notes/Karthas.md",
+        "wiki/notes/Vorendral.md",
+        "wiki/notes/Atherion.md",
+        "wiki/notes/Mourndrel.md",
+        "wiki/notes/Uldrek.md",
+        "wiki/notes/Xalvorr.md",
+        "wiki/notes/Rhoris.md",
+        "wiki/notes/Sarnok.md",
+        "wiki/notes/Garrun.md",
+        "wiki/notes/Erona.md",
+        "wiki/notes/Keldros.md",
+        "wiki/notes/Ormara (Earth).md",
+        "wiki/notes/Durnath.md",
+        "wiki/notes/Sylthara.md",
+        "wiki/notes/Velmara.md",
+        "wiki/notes/Grathis.md",
+        "wiki/notes/Olmara.md",
+        "wiki/notes/Sylkras.md",
+        "wiki/notes/Tavron.md",
+        "wiki/notes/Yirith.md",
+        "wiki/notes/Neldros.md",
+        "wiki/notes/Thyssir.md",
+        "wiki/notes/Tirvas.md",
+        "wiki/notes/Vokir.md",
+        "wiki/notes/Dverrik.md",
+        "wiki/notes/Zorvakar.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Earth Pantheon.md"
+      ],
+      "note": "32 Greater/Lesser deities given full dedicated pages per user instruction. ~33 additional minor spirits/demigods consolidated into a roster-only section on the overview page rather than given individual pages (not individually read) — a scope gap not yet separately confirmed with the user."
+    },
+    ".raw/The Fire Pantheon.md": {
+      "hash": "84a7f4b98966f81633022157fbd77948",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/notes/Ignis.md",
+        "wiki/notes/Tharamis.md",
+        "wiki/notes/Soltharion.md",
+        "wiki/notes/Vaeldros.md",
+        "wiki/notes/Zerah.md",
+        "wiki/notes/Pyrris.md",
+        "wiki/notes/Xethar.md",
+        "wiki/notes/Soltharion's Bane.md",
+        "wiki/notes/Ralzos.md",
+        "wiki/notes/Kaelith.md",
+        "wiki/notes/Kael'Thar.md",
+        "wiki/notes/Mordrath.md",
+        "wiki/notes/Pyrrithis.md",
+        "wiki/notes/Xalros.md",
+        "wiki/notes/Zilthas.md",
+        "wiki/notes/Kaldris.md",
+        "wiki/notes/Hearthfire.md",
+        "wiki/notes/Vaelcor.md",
+        "wiki/notes/Brizzik.md",
+        "wiki/notes/Lysara.md",
+        "wiki/notes/Caltheris.md",
+        "wiki/notes/Xilthos.md",
+        "wiki/notes/Vaeryn.md",
+        "wiki/notes/Valthir.md",
+        "wiki/notes/Zovhakar.md",
+        "wiki/notes/Ythera.md",
+        "wiki/notes/Cyrvith.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Fire Pantheon.md"
+      ],
+      "note": "27 deities across High Flame/Burning Path/Dying Embers/Flickering Sparks tiers given full dedicated pages."
+    },
+    ".raw/The Water Pantheon.md": {
+      "hash": "ef1b8414e9316ff819158bb8b077b9bd",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/notes/Vaedoris.md",
+        "wiki/notes/Yltheris.md",
+        "wiki/notes/Sarvion.md",
+        "wiki/notes/Eryndal.md",
+        "wiki/notes/Lyvessa.md",
+        "wiki/notes/Istriel.md",
+        "wiki/notes/Itheris.md",
+        "wiki/notes/Selteris.md",
+        "wiki/notes/Thalmaris.md",
+        "wiki/notes/Elythra.md",
+        "wiki/notes/Kelphor.md",
+        "wiki/notes/Ithraval.md",
+        "wiki/notes/Othrys.md",
+        "wiki/notes/Rythos.md",
+        "wiki/notes/Vorthys.md",
+        "wiki/notes/Ilyra.md",
+        "wiki/notes/Teyvros.md",
+        "wiki/notes/Rhyzel.md",
+        "wiki/notes/Veylith.md",
+        "wiki/notes/Luthiris.md",
+        "wiki/notes/Nyssara.md",
+        "wiki/notes/Syralis.md",
+        "wiki/notes/Morgathis.md",
+        "wiki/notes/Dymera.md",
+        "wiki/notes/Ithrial.md",
+        "wiki/notes/Xaltheis.md",
+        "wiki/notes/Orynthos.md",
+        "wiki/notes/Ythara.md",
+        "wiki/notes/Velkys.md",
+        "wiki/notes/Zorveth.md",
+        "wiki/notes/Othraxis.md",
+        "wiki/notes/Rymora.md",
+        "wiki/notes/Varashti.md",
+        "wiki/notes/Lyrithis.md",
+        "wiki/notes/Khareth.md",
+        "wiki/notes/Ormara.md",
+        "wiki/notes/Tylos.md",
+        "wiki/notes/Ithrien.md",
+        "wiki/notes/Zerathis.md",
+        "wiki/notes/Quoras.md",
+        "wiki/notes/Mirethis.md",
+        "wiki/notes/Varuthis.md",
+        "wiki/notes/Ythiris.md",
+        "wiki/notes/Veythos.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Water Pantheon.md",
+        "wiki/notes/Marethis.md",
+        "wiki/notes/Ormara (Earth).md"
+      ],
+      "note": "Gap-closing pass: full file now read (was previously only the first 470 lines / 9 Greater Gods). 44 additional Lesser Gods/Spirits/Demigods given full dedicated pages, closing the earlier 'roster-only' deviation from the user's full-dedicated-page instruction. Water Pantheon overview page rewritten to link all 44 by name instead of roster prose."
+    },
+    ".raw/The Air Pantheon.md": {
+      "hash": "d35ea516627389c7d7b88f88312a7cb4",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/notes/Aetheris.md",
+        "wiki/notes/Howlar.md",
+        "wiki/notes/Zeraphis.md",
+        "wiki/notes/Syvaris.md",
+        "wiki/notes/Elythis.md",
+        "wiki/notes/Tahris.md",
+        "wiki/notes/Nyxaris.md",
+        "wiki/notes/Tarron.md",
+        "wiki/notes/Myss.md",
+        "wiki/notes/Xerathis.md",
+        "wiki/notes/Saelis.md",
+        "wiki/notes/Gryphor.md",
+        "wiki/notes/Vaelis.md",
+        "wiki/notes/Althira.md",
+        "wiki/notes/Orris.md",
+        "wiki/notes/Myzael.md",
+        "wiki/notes/Cyrnith.md",
+        "wiki/notes/Nysara.md",
+        "wiki/notes/Khazir.md",
+        "wiki/notes/Marethis (Air).md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Air Pantheon.md",
+        "wiki/notes/Xilthos.md",
+        "wiki/notes/Marethis.md"
+      ],
+      "note": "Gap-closing pass: full file now read (was previously only the first 290 lines / 7 Greater Gods). 20 additional Lesser Gods/Demigods/Spirits given full dedicated pages. Discovered a genuine cross-pantheon contradiction: Air's own 'Xilthos, the Whisper Before the Riot' duplicates the already-documented Fire deity of the same name almost exactly — flagged with [!contradiction] rather than merged or duplicated. Also discovered 'Marethis, the Rain-Bearer' collides by name with the existing Water Pantheon Greater God Marethis — disambiguated as Marethis (Air)."
+    },
+    ".raw/The Spirit Pantheon.md": {
+      "hash": "910b4e7b9809e7490bf5770154a66eae",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/notes/Elthir.md",
+        "wiki/notes/Ilyss.md",
+        "wiki/notes/Sythros.md",
+        "wiki/notes/Varthos.md",
+        "wiki/notes/Valthos.md",
+        "wiki/notes/Kaelor.md",
+        "wiki/notes/Varethis.md",
+        "wiki/notes/Lythra.md",
+        "wiki/notes/Tyralis.md",
+        "wiki/notes/Sethir.md",
+        "wiki/notes/Ytheis.md",
+        "wiki/notes/Selyth.md",
+        "wiki/notes/Elyon.md",
+        "wiki/notes/Xyvaris.md",
+        "wiki/notes/Thyvael.md",
+        "wiki/notes/Sytheris.md",
+        "wiki/notes/Gorvath.md",
+        "wiki/notes/Durmokk.md",
+        "wiki/notes/Merys.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Spirit Pantheon.md"
+      ],
+      "note": "Gap-closing pass: full file now read (was previously only the first 300 lines / 5 Greater + 6 Lesser Gods). 19 additional Demigods/Spirits given full dedicated pages, closing the earlier 'roster-only' deviation. All three pantheon gap-closing passes (Water/Air/Spirit) together fully honor the user's original 'full dedicated page per deity' instruction for the first time."
+    },
+    ".raw/The Court of the Silent Tribunal.md": {
+      "hash": "34d063fb94cc1b95e657b20a5bf8568a",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/notes/The Court of the Silent Tribunal.md"
+      ],
+      "pages_updated": [],
+      "note": "Introduces Ignis and Selmira as named Tribunal figures, the Ember Throne, and five named historical trials."
+    },
+    ".raw/Glyph of Will.md": {
+      "hash": "fb838c0f08590c3ac818736390371d4a",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/notes/Glyph of Will.md"
+      ],
+      "pages_updated": [],
+      "note": "New individual Primal Glyph page. Primal Glyphs.md hub page not yet updated to link to it — follow-up gap."
+    },
+    ".raw/Glyph of Threads.md": {
+      "hash": "f79bbc15b2d20f9623580af1fa12b794",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/notes/Glyph of Threads.md"
+      ],
+      "pages_updated": [],
+      "note": "New individual Primal Glyph page. Primal Glyphs.md hub page not yet updated to link to it — follow-up gap."
+    },
+    ".raw/The Glyph of Endings.md": {
+      "hash": "db83fa6646aa999e17082c62eae8ccd8",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/notes/The Glyph of Endings.md"
+      ],
+      "pages_updated": [],
+      "note": "New individual Primal Glyph page. Primal Glyphs.md hub page not yet updated to link to it — follow-up gap."
+    },
+    ".raw/The Glyph of Echoes.md": {
+      "hash": "cd4b2ae8bd6307c36da97734c3625b76",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/notes/The Glyph of Echoes.md"
+      ],
+      "pages_updated": [],
+      "note": "New individual Primal Glyph page. Primal Glyphs.md hub page not yet updated to link to it — follow-up gap."
+    },
+    ".raw/Primary Glyphs.md": {
+      "hash": "b0ec15d58d3e1e273d6ab9b04030d1cb",
+      "ingested_at": "2026-07-13",
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "Read in full but content largely duplicative of already-ingested Glyph-layer material; not separately folded into any page. Follow-up gap."
+    },
+    ".raw/Saga of the Glyphs.md": {
+      "hash": "1435312c1488b378738e9f669b26bd78",
+      "ingested_at": "2026-07-13",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Primal Glyphs.md",
+        "wiki/notes/Universal Glyphs.md",
+        "wiki/notes/Elemental Glyphs.md",
+        "wiki/notes/Form Glyphs.md",
+        "wiki/notes/Personal Glyphs.md"
+      ],
+      "note": "Gap-closing pass: now folded in (previously read but unincorporated). Adds a 'Minor Variations of Primary Glyphs' section (e.g. Glyph of Divine Will vs Glyph of Mortal Will) to all 5 Glyph-layer hub pages, plus 'The Eternal War That Is Not a War' cosmic-cycle framing and the unanswered 'who carved the First Glyph?' question on Primal Glyphs, and a table of known Eldritch corruptions per Form Glyph on Form Glyphs."
+    },
+    ".raw/The 9 Fundamental Forces.md": {
+      "hash": "235e3153b5adc3e1beff13ed26ab5e97",
+      "ingested_at": "2026-07-13",
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "Read in full but content largely duplicative of already-ingested Primal Powers/Universal Forces material; not separately incorporated."
+    },
+    ".raw/Pantheon_Perspectives_on_Godhood.md": {
+      "hash": "b1971d007c69ec759a20b2201f485f1e",
+      "ingested_at": "2026-07-13",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/The Lie of Godhood.md",
+        "wiki/notes/Fire Pantheon.md",
+        "wiki/notes/Earth Pantheon.md",
+        "wiki/notes/Water Pantheon.md",
+        "wiki/notes/Air Pantheon.md",
+        "wiki/notes/Spirit Pantheon.md",
+        "wiki/notes/Vel'Zyren.md",
+        "wiki/notes/Nhal'Zereth.md"
+      ],
+      "note": "Gap-closing pass: now folded in (previously read but unincorporated). Gives each of the 5 pantheons' own doctrine of godhood, all internally consistent and all wrong about something load-bearing — added as a comparison table on The Lie of Godhood plus a 'Perspective on godhood' section on each pantheon overview page. Introduces Lyrithis and Rymora as named Water figures (both already existed as names in The Water Pantheon.md's own roster, now cross-linked). Adds Vel'Zyren's unique 'I rewrote my own chains' status and Nhal'Zereth's clearest articulation of the Eldritch forces' partial cosmic truth."
+    },
+    ".raw/Eldritch Forces.md": {
+      "hash": "29aa16a2def77b9fd08a3ef0e7471e18",
+      "ingested_at": "2026-07-13",
+      "pages_created": [
+        "wiki/notes/The Lantern's Croon.md",
+        "wiki/notes/The Forgotten Note.md",
+        "wiki/notes/The Whispered Trace.md",
+        "wiki/notes/The Spine-Womb.md",
+        "wiki/notes/Beneath-the-Face.md",
+        "wiki/notes/Shalsor.md",
+        "wiki/notes/The Silver Veil.md",
+        "wiki/notes/The 13th Sleeper.md",
+        "wiki/notes/The Ink-Flooder.md",
+        "wiki/notes/Fareth.md",
+        "wiki/notes/The Echo That Waits.md",
+        "wiki/notes/Sethil.md",
+        "wiki/notes/The Inkwept Gate.md",
+        "wiki/notes/Kallur's Knot.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Eldritch Spirits.md",
+        "wiki/notes/Vezherak.md"
+      ],
+      "note": "Gap-closing pass: now read in full (previously only header-scanned). Confirms the same 9 Eldritch Gods and resolves the earlier '8th entity' ambiguity (Mirag'Nael is the master table's 8th core God; Vezherak is explicitly a separate Tether entity, matching the existing hub page's framing — no real discrepancy). Adds 14 new named Eldritch Spirits across the same 5-category classification as the original Guide, folded into the Eldritch Spirits hub. Vezherak's page enriched with the Doctrine of Broken Binding, a 4-stage corruption progression table, and 3 named shrines not previously documented. The Null Reflection and Glyph of Unbeing content confirmed, not materially expanded."
+    },
+    ".raw/Eldritch Moons.md": {
+      "hash": "43ca9c6d3d97cb3d9979b9b8020884a2",
+      "ingested_at": "2026-07-13",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Blood Moon of Rebirth.md",
+        "wiki/notes/Creeping Tarlight.md",
+        "wiki/notes/Vacuous Moon.md",
+        "wiki/notes/Slumbering Moon.md",
+        "wiki/notes/Weeping Waxing.md",
+        "wiki/notes/Howling Moon.md",
+        "wiki/notes/Shattered Moon.md",
+        "wiki/notes/Scorching Moon.md",
+        "wiki/notes/Glowering Moon.md",
+        "wiki/notes/Glacial Moon.md",
+        "wiki/notes/Yellow Crown.md",
+        "wiki/notes/Krakenlight.md",
+        "wiki/notes/Sanguine Eclipse.md",
+        "wiki/notes/False Dawn.md",
+        "wiki/notes/Eldritch Moons.md"
+      ],
+      "note": "Gap-closing pass: now read in full (previously only header-scanned). Confirmed to be a deeper mechanical rewrite of the same 14 Moons already documented, not new moons. Added the two subsections this source has that the original Guide lacked — 'Glyph Interactions' and 'Divine & Mythic Response' — to all 14 existing Moon pages under a new 'Glyph interactions and resistance' heading. World Effects/Monster Effects/Madness tables were already present on each page from the original source and needed no changes."
+    },
+    ".raw/claude-obsidian-ecosystem-research.md": {
+      "hash": "c9340f5f58137b76da7ffb3029da3365",
+      "ingested_at": "2026-04-08",
+      "pages_created": [
+        "wiki/comparisons/claude-obsidian-ecosystem.md",
+        "wiki/sources/claude-obsidian-ecosystem-research.md",
+        "wiki/concepts/cherry-picks.md",
+        "wiki/entities/Ar9av-obsidian-wiki.md",
+        "wiki/entities/Nexus-claudesidian-mcp.md",
+        "wiki/entities/ballred-obsidian-claude-pkm.md",
+        "wiki/entities/rvk7895-llm-knowledge-bases.md",
+        "wiki/entities/kepano-obsidian-skills.md",
+        "wiki/entities/Claudian-YishenTu.md"
+      ],
+      "pages_updated": [],
+      "note": "Pre-dates the .manifest.json/DragonScale addressing system (ingested 2026-04-08, manifest introduced later). Backfilled into the manifest for completeness during the 2026-07-14 non-ingested-files sweep; content itself was already fully ingested, not re-processed."
+    },
+    ".raw/Human_Lineage.md": {
+      "hash": "1e40720a1d5acab1162d6270d56aa4df",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Human (Lineage).md"
+      ],
+      "pages_updated": [],
+      "note": "FEARS lineage/race ingest wave"
+    },
+    ".raw/Dragonborn_Lineage.md": {
+      "hash": "12c067268d61fd696dbada1447e65875",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Dragonborn (Lineage).md"
+      ],
+      "pages_updated": [],
+      "note": "FEARS lineage/race ingest wave"
+    },
+    ".raw/Aasimar_Lineage.md": {
+      "hash": "f5fc075d4ce38b4ed920537b437851ec",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Aasimar (Lineage).md"
+      ],
+      "pages_updated": [],
+      "note": "FEARS lineage/race ingest wave"
+    },
+    ".raw/Tiefling_Lineage.md": {
+      "hash": "0303976f35ef315fcb1b77558e39b325",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Tiefling (Lineage).md"
+      ],
+      "pages_updated": [],
+      "note": "FEARS lineage/race ingest wave"
+    },
+    ".raw/Dwarf_Lineage_Rewritten.md": {
+      "hash": "62b581f46eeb9cf778c780994182c0a6",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Dwarf (Lineage).md"
+      ],
+      "pages_updated": [],
+      "note": "FEARS lineage/race ingest wave"
+    },
+    ".raw/Elf_Lineage_Rewritten.md": {
+      "hash": "3083125c61710e2b415c157bb8eb3690",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Elf (Lineage).md"
+      ],
+      "pages_updated": [],
+      "note": "FEARS lineage/race ingest wave"
+    },
+    ".raw/Drow_Lineage_Rewritten.md": {
+      "hash": "a2127a93377a1fbfbf6befe557fad522",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Drow (Lineage).md"
+      ],
+      "pages_updated": [],
+      "note": "FEARS lineage/race ingest wave"
+    },
+    ".raw/Bugbear_Lineage.md": {
+      "hash": "a8093e4426ef6d7d0d9c67d89b776658",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Bugbear (Lineage).md"
+      ],
+      "pages_updated": [],
+      "note": "FEARS lineage/race ingest wave"
+    },
+    ".raw/Goblin_Lineage.md": {
+      "hash": "23c5c57ccd9956fdd7000cb934537fda",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Goblin (Lineage).md"
+      ],
+      "pages_updated": [],
+      "note": "FEARS lineage/race ingest wave"
+    },
+    ".raw/Hobgoblin_Lineage.md": {
+      "hash": "74225638ff586bd433b99ed6bb967a28",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Hobgoblin (Lineage).md"
+      ],
+      "pages_updated": [],
+      "note": "FEARS lineage/race ingest wave"
+    },
+    ".raw/Gnome_Lineage.md": {
+      "hash": "fec12c6ea4b5050681dc3fbc96b20107",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Gnome (Lineage).md"
+      ],
+      "pages_updated": [],
+      "note": "FEARS lineage/race ingest wave"
+    },
+    ".raw/Goliath_Lineage.md": {
+      "hash": "ff8021994cb814462e2836e74fa8a804",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Goliath (Lineage).md"
+      ],
+      "pages_updated": [],
+      "note": "FEARS lineage/race ingest wave"
+    },
+    ".raw/Half-Elf_Lineage.md": {
+      "hash": "818cb031c51c067bc689e933a34b0314",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Half-Elf (Lineage).md"
+      ],
+      "pages_updated": [],
+      "note": "FEARS lineage/race ingest wave"
+    },
+    ".raw/Half-Orc_Lineage.md": {
+      "hash": "35cfe6fc43a7dd1f9dedd590b7ca9e43",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Half-Orc (Lineage).md"
+      ],
+      "pages_updated": [],
+      "note": "FEARS lineage/race ingest wave"
+    },
+    ".raw/Halfling_Lineage.md": {
+      "hash": "5a94e8b1217ab2582173221be58942ef",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Halfling (Lineage).md"
+      ],
+      "pages_updated": [],
+      "note": "FEARS lineage/race ingest wave"
+    },
+    ".raw/Orc_Lineage.md": {
+      "hash": "1a2d9e9d1814d4978b7bf06c0315c771",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Orc (Lineage).md"
+      ],
+      "pages_updated": [],
+      "note": "FEARS lineage/race ingest wave"
+    },
+    ".raw/Sea_Elf_Lineage.md": {
+      "hash": "d667f2dab414e5108223a1a743c4c653",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Sea Elf (Lineage).md"
+      ],
+      "pages_updated": [],
+      "note": "FEARS lineage/race ingest wave"
+    },
+    ".raw/Shadar-kai_Lineage.md": {
+      "hash": "2d90b4e9c16373fe01adbbcb7e623e01",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Shadar-kai (Lineage).md"
+      ],
+      "pages_updated": [],
+      "note": "FEARS lineage/race ingest wave"
+    },
+    ".raw/Triton_Lineage.md": {
+      "hash": "9340f65a2bea5a16032db64a5e5f8c8d",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Triton (Lineage).md"
+      ],
+      "pages_updated": [],
+      "note": "FEARS lineage/race ingest wave"
+    },
+    ".raw/FEARS_Corrected_Lineage_Analysis.md": {
+      "hash": "7e413e7a86bfcf6ea127dada2f0bcfe8",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/FEARS Lineages.md"
+      ],
+      "pages_updated": [],
+      "note": "Design-critique framing doc for the Lineage/Heritage/Background split; primary source for the FEARS Lineages hub page"
+    },
+    ".raw/The Weave Unbroken.md": {
+      "hash": "a7075a23cd7ed865c2d88a717ba9e998",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/The Weave Unbroken.md"
+      ],
+      "pages_updated": [],
+      "note": "FEARS religion/faith ingest wave"
+    },
+    ".raw/The Wonder-Tithe Codex.md": {
+      "hash": "657b2f15e25c3edaf4b651f9830fa3f7",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/The Wonder-Tithe Codex.md"
+      ],
+      "pages_updated": [],
+      "note": "FEARS religion/faith ingest wave"
+    },
+    ".raw/The Path of the Horizon Soul.md": {
+      "hash": "539960a2811f1d6f8ed4b690300ee899",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/The Path of the Horizon Soul.md"
+      ],
+      "pages_updated": [],
+      "note": "FEARS religion/faith ingest wave"
+    },
+    ".raw/The Way of the Named.md": {
+      "hash": "97beefa9080321727192797c22193505",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/The Way of the Named.md"
+      ],
+      "pages_updated": [],
+      "note": "FEARS religion/faith ingest wave"
+    },
+    ".raw/The Ashen Testament.md": {
+      "hash": "ba7d8897934bffbd55a8a94cfce53015",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/The Ashen Testament.md"
+      ],
+      "pages_updated": [],
+      "note": "FEARS religion/faith ingest wave"
+    },
+    ".raw/The Reflection Pattern.md": {
+      "hash": "a6a77e2c1a4aad5259a93e3cffde7d55",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/The Reflection Pattern.md"
+      ],
+      "pages_updated": [],
+      "note": "FEARS religion/faith ingest wave"
+    },
+    ".raw/The Embers Echo.md": {
+      "hash": "ec74d760f86ca401b6a2402d69edf789",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/The Embers Echo.md"
+      ],
+      "pages_updated": [],
+      "note": "FEARS religion/faith ingest wave"
+    },
+    ".raw/The Faith of the Bound Pattern.md": {
+      "hash": "8ee153c82e474abeb3fb8e90758c53f6",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/The Faith of the Bound Pattern.md"
+      ],
+      "pages_updated": [],
+      "note": "FEARS religion/faith ingest wave"
+    },
+    ".raw/The Oath of the Veiled Star.md": {
+      "hash": "a5fdc26460245e803958bb880e2c5666",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/The Oath of the Veiled Star.md"
+      ],
+      "pages_updated": [],
+      "note": "FEARS religion/faith ingest wave"
+    },
+    ".raw/The Verdant Accord.md": {
+      "hash": "3d7e1b99794228fbffc43185ff24f076",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/The Verdant Accord.md"
+      ],
+      "pages_updated": [],
+      "note": "FEARS religion/faith ingest wave"
+    },
+    ".raw/The Tide Covenant.md": {
+      "hash": "f011020537655cad4bdf7a9e3817426d",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/The Tide Covenant.md"
+      ],
+      "pages_updated": [],
+      "note": "FEARS religion/faith ingest wave"
+    },
+    ".raw/The Woven Reverence.md": {
+      "hash": "c677acbb82fe81f0aab2274bf45956f1",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/The Woven Reverence.md"
+      ],
+      "pages_updated": [],
+      "note": "FEARS religion/faith ingest wave"
+    },
+    ".raw/The Deepwater Communion.md": {
+      "hash": "1b50074c03e2d4a97fcb9b9944f073f4",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/The Deepwater Communion.md"
+      ],
+      "pages_updated": [],
+      "note": "FEARS religion/faith ingest wave"
+    },
+    ".raw/The Broken Crown and the Cracked Fang.md": {
+      "hash": "3c472ecd999dd6cec83c09395148de56",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/The Broken Crown and the Cracked Fang.md"
+      ],
+      "pages_updated": [],
+      "note": "FEARS religion/faith ingest wave"
+    },
+    ".raw/The Deep Law.md": {
+      "hash": "9a2d131820ca19e32b6fa4c89dcea3da",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/The Deep Law.md"
+      ],
+      "pages_updated": [],
+      "note": "FEARS religion/faith ingest wave"
+    },
+    ".raw/The Path of the First Scar.md": {
+      "hash": "7cf7119f2f483094dd02d43ab2fbbf6b",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/The Path of the First Scar.md"
+      ],
+      "pages_updated": [],
+      "note": "FEARS religion/faith ingest wave"
+    },
+    ".raw/The Burning Concord.md": {
+      "hash": "2cd5274cc3eb59c79c5d015f261000d7",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/The Burning Concord.md"
+      ],
+      "pages_updated": [],
+      "note": "FEARS religion/faith ingest wave"
+    },
+    ".raw/The Joy Truths.md": {
+      "hash": "96d1ec77729dd29d379643d494e02a6a",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/The Joy Truths.md"
+      ],
+      "pages_updated": [],
+      "note": "FEARS religion/faith ingest wave"
+    },
+    ".raw/The Tide Covenant_REWORKED.md": {
+      "hash": "67aa2b0112fcad1cd3c211a33a65cb49",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/The Tide Covenant.md"
+      ],
+      "note": "Expanded/reworked variant of The Tide Covenant.md; both sources merged into one wiki page"
+    },
+    ".raw/The Ashen Web.md": {
+      "hash": "7a0633e459a2ad7ba161cf11841b5616",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/The Ashen Web.md"
+      ],
+      "note": "Fuller raw source discovered during non-ingested-file sweep; enriched the pre-existing The Ashen Web page with rituals, divine identity, and origin-account sections"
+    },
+    ".raw/The_Air_Pantheon.md": {
+      "hash": "32c50643cee5504f45e0090afabeacbf",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Wendrel.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Air Pantheon.md"
+      ],
+      "note": "Fuller draft of The Air Pantheon.md; contains one additional deity (Wendrel) not in the original ingested version"
+    },
+    ".raw/The_Earth_Pantheon.md": {
+      "hash": "318b5d82963d1b2dcf9356682354775b",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Frith.md",
+        "wiki/notes/Tovna.md",
+        "wiki/notes/Cairn.md",
+        "wiki/notes/Halix.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Earth Pantheon.md"
+      ],
+      "note": "Fuller draft of The Earth Pantheon.md; contains four additional minor deities not in the original ingested version"
+    },
+    ".raw/The_Fire_Pantheon.md": {
+      "hash": "e9578107da46b3d5a0306b4274b13aaf",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Fire Pantheon.md"
+      ],
+      "note": "Fuller draft of The Fire Pantheon.md; contains a small addendum on the frith/guest-right system (The Offered Seat), no new deity"
+    },
+    ".raw/The_Spirit_Pantheon.md": {
+      "hash": "27cc8318b7c023ca822ba46f68b45352",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/The Echoed Mother.md",
+        "wiki/notes/Sulwen.md",
+        "wiki/notes/Serelune.md",
+        "wiki/notes/Restbringer.md",
+        "wiki/notes/Omrith.md",
+        "wiki/notes/Almerra.md",
+        "wiki/notes/Dovenna.md",
+        "wiki/notes/Hethra.md",
+        "wiki/notes/Tamsit.md",
+        "wiki/notes/Kyren.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Spirit Pantheon.md"
+      ],
+      "note": "Fuller draft of The Spirit Pantheon.md; contains ten additional deities (the death-cycle's remaining offices plus minor gods) not in the original ingested version"
+    },
+    ".raw/The_Water_Pantheon.md": {
+      "hash": "881f357b72560cc25809c07c16f40d84",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Selmira.md",
+        "wiki/notes/Nyxthys.md",
+        "wiki/notes/Undren.md",
+        "wiki/notes/Luthan.md",
+        "wiki/notes/Torvath.md",
+        "wiki/notes/Rhaldris.md",
+        "wiki/notes/Theroneth.md",
+        "wiki/notes/Vithras.md",
+        "wiki/notes/Lyestra.md",
+        "wiki/notes/Dymora.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Water Pantheon.md"
+      ],
+      "note": "Fuller draft of The Water Pantheon.md; contains ten additional deities (including Selmira, previously only a roster mention) not in the original ingested version"
+    },
+    ".raw/Air_Cross-Pantheon_Relationships_Loomless.md": {
+      "hash": "fbb69f0a27c47b71ae14458e3f86a048",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Cross-Pantheon Relationships (Air).md"
+      ],
+      "pages_updated": [],
+      "note": "GM-facing design reference, doc-status needs-rulings"
+    },
+    ".raw/Earth_Cross-Pantheon_Relationships_Loomless.md": {
+      "hash": "e829884c9c86fb438274d7b54285bd3d",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Cross-Pantheon Relationships (Earth).md"
+      ],
+      "pages_updated": [],
+      "note": "GM-facing design reference, doc-status needs-rulings"
+    },
+    ".raw/Fire_Cross-Pantheon_Relationships_Loomless.md": {
+      "hash": "ecef339ffe67d25827b04c1693ce85c9",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Cross-Pantheon Relationships (Fire).md"
+      ],
+      "pages_updated": [],
+      "note": "GM-facing design reference, doc-status needs-rulings"
+    },
+    ".raw/Spirit_Cross-Pantheon_Relationships_Loomless.md": {
+      "hash": "176fa4fb19608707fa18695db39bd131",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Cross-Pantheon Relationships (Spirit).md"
+      ],
+      "pages_updated": [],
+      "note": "GM-facing design reference, doc-status needs-rulings"
+    },
+    ".raw/Water_Cross-Pantheon_Relationships_Loomless.md": {
+      "hash": "8b730437016ab5cbc9827d25db7f51de",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Cross-Pantheon Relationships (Water).md"
+      ],
+      "pages_updated": [],
+      "note": "GM-facing design reference, doc-status needs-rulings"
+    },
+    ".raw/Eldritch_Cross-Relationships_Loomless.md": {
+      "hash": "f7e3bfa6141dcc82c25e0d3697eb1b5a",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Cross-Relationships of the Eldritch.md"
+      ],
+      "pages_updated": [],
+      "note": "GM-facing design reference, doc-status needs-rulings"
+    },
+    ".raw/Eldritch_Cross-Relationships_Loomless_1.md": {
+      "hash": "f7e3bfa6141dcc82c25e0d3697eb1b5a",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Cross-Relationships of the Eldritch.md"
+      ],
+      "note": "Byte-identical duplicate of Eldritch_Cross-Relationships_Loomless.md; both cited as sources on the one resulting page"
+    },
+    ".raw/VelZyren_Cross-Relationships_Loomless.md": {
+      "hash": "7ca46556a6c116dcbc804c5d8d2fbc2a",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Cross-Relationships of Vel'Zyren.md"
+      ],
+      "pages_updated": [],
+      "note": "GM-facing design reference, doc-status needs-rulings"
+    },
+    ".raw/Dór-o Estel.md": {
+      "hash": "a342b231ceec810d9a4aedb71cd1e6fc",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Kel Varyan.md",
+        "wiki/notes/Thar Vornhal.md",
+        "wiki/notes/Veltharyn.md",
+        "wiki/notes/Selveran.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Dór-o Estel.md",
+        "wiki/notes/Loom-Cities.md"
+      ],
+      "note": "Comprehensive world-bible source (2830 lines); cosmology/Thread/glyph/demographics content folded into Dór-o Estel.md, four missing Loom-City pages written. Hundreds of minor nations/islands/wonders catalogued in the source were not each given a dedicated page (scope boundary) and remain available for a future session"
+    },
+    ".raw/Dór-o Estel World Overview.md": {
+      "hash": "ed9eeb51fd5235a1a03920a1068a0f0f",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Dór-o Estel.md"
+      ],
+      "note": "Shorter DM-overview draft; contributed the canonical current date/cycle and a flagged continental-geography contradiction against the main Dór-o Estel.md source"
+    },
+    ".raw/Dór-o Estel World Timeline.md": {
+      "hash": "cf20cfc4ecfab35bb370f4eea8d62e86",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "Not read this pass (490 lines) - flagged for a future session; likely overlaps with Master Timeline Complete.md and The Ages of Dor-o Estel.md"
+    },
+    ".raw/The Ages of Dór-o Estel.md": {
+      "hash": "d947e816adc774b797e75a860bdf2161",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/The Ages of Dór-o Estel.md"
+      ],
+      "pages_updated": [],
+      "note": "Clean five-Ages narrative structure, used as the primary source for the new Ages page"
+    },
+    ".raw/Master Timeline Complete.md": {
+      "hash": "dce4214ffd1d1d55983be83b4dbc0613",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "Not read this pass (1921 lines) - the full detail source the Quick Reference summarizes; flagged for a future session"
+    },
+    ".raw/Master Timeline - Quick Reference.md": {
+      "hash": "c2d96ab4c839abd6e966413c96844689",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/The Ages of Dór-o Estel.md"
+      ],
+      "note": "Condensed summary of Master Timeline Complete.md; supplied key dates, statistics, and campaign-arc context folded into The Ages of Dor-o Estel"
+    },
+    ".raw/Timeline_Normalized_Fourth_Age_Zero.md": {
+      "hash": "7f3e6086d941d42fd650da5c4c36d982",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "Not read this pass (306 lines) - flagged for a future session"
+    },
+    ".raw/Dor-o_Estel_Timeline_Additions_REVISED.md": {
+      "hash": "30a3b6dbc4621064dd973bd143a54bb6",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "Not read this pass (531 lines) - flagged for a future session"
+    },
+    ".raw/Fall of Ashkarra.md": {
+      "hash": "0831150630288e9dd4bc3f62637a0001",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Ashkarra.md"
+      ],
+      "note": "Detailed hour-by-hour narrative of Ashkarra's fall; status excluded/template, folded in as evocative color"
+    },
+    ".raw/The Binding.md": {
+      "hash": "678163659941b7531daf9008df37ff7a",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/The Binding (The Short Memory and the Forged Faith).md"
+      ],
+      "pages_updated": [],
+      "note": "status excluded; the Human/Dragonborn cosmological-lie companion to The Lie of Godhood"
+    },
+    ".raw/The Burning of Sylvenmere - Complete Chronicle.md": {
+      "hash": "21d00cc76933baec5d2c322814f03683",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/The Burning of Sylvenmere.md"
+      ],
+      "pages_updated": [],
+      "note": "Detailed massacre chronicle; only key sections read (not the full victim/evidence rosters)"
+    },
+    ".raw/The Burning of Sylvenmere - International Reactions.md": {
+      "hash": "23b308fed9b8dfa1d245a3e6a9d22671",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/The Burning of Sylvenmere.md"
+      ],
+      "note": "Companion source; executive summary and part headers reviewed, full per-faction detail not read"
+    },
+    ".raw/The Fracturing.md": {
+      "hash": "843448d98c3a722c9729e3e481dde5e2",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/The Fracturing.md"
+      ],
+      "pages_updated": [],
+      "note": "The Elven cosmological-lie companion piece; only the DM-truth and elven-knowledge sections read in full, not the full age-by-age narrative"
+    },
+    ".raw/The Others.md": {
+      "hash": "863d440a8fcdb620dca4dcc6fc3e6fc6",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/The Others (Theological Spectrum).md"
+      ],
+      "pages_updated": [],
+      "note": "Only the cosmological-position summary read in full; the per-race deep-dive sections were not each individually read, since each race's religion is already documented on its own page"
+    },
+    ".raw/The Unraveling.md": {
+      "hash": "c6746de1d5d74f44da98d45f4fa49b6b",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/The Unraveling.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/The Ages of Dór-o Estel.md"
+      ],
+      "note": "Only the executive summary, part headers, and Part Six (Living Legacy) read in full; Parts One-Five's full detail not read, phase structure already captured via the Quick Reference"
+    },
+    ".raw/Verdant Loom Calendar expanded.md": {
+      "hash": "e621b1ca46fbe8199b1c02efcf31f208",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Verdant Loom Calendar.md"
+      ],
+      "pages_updated": [],
+      "note": "The compact, complete calendar reference"
+    },
+    ".raw/Verdant Loom Month Descriptions.md": {
+      "hash": "2decca4f29c67eeeb7ad5099790bf49a",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Verdant Loom Calendar.md"
+      ],
+      "note": "Much larger (1532-line) per-month elaboration; only the Quick Reference table and Random Event tables sections read, full per-month prose not read"
+    },
+    ".raw/Class Introductions.md": {
+      "hash": "ed242b2c3dc0ab63374dc27f839ccfc4",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "Player's Handbook-style intro prose for the already-documented 24 FEARS classes; headers reviewed only, appears to be flavor text rather than new mechanics - not deeply read given the classes are already exhaustively documented on their own pages"
+    },
+    ".raw/Class_Lore_Compendiums_DorOEstel_UPDATED.md": {
+      "hash": "495b8e76b6e04246fe581d90777de89b",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "Barbarian",
+        "Bard",
+        "Cleric",
+        "Druid",
+        "Fighter",
+        "Inventor",
+        "Investigator",
+        "Magus",
+        "Monk",
+        "Paladin",
+        "Apothecary",
+        "Reaper",
+        "Ranger",
+        "Rogue",
+        "Runesmith",
+        "Sangromancer",
+        "Shadowbinder",
+        "Shaman",
+        "Sorcerer",
+        "Tamer",
+        "Tattooist",
+        "Warlock",
+        "Wizard",
+        "Witch"
+      ],
+      "note": "Fully read and ingested this pass (4472 lines) - primary source for the class-lore enrichment wave. Added a 'Mythology & Cultural Lore' section to all 24 class pages (including 4 retired classes: Runesmith, Shadowbinder, Tamer) covering per-class epithet, Ages-spanning origin myth, DM-truth Glyph-layer reveal, legendary figures, and closing philosophy quote. Adopted as primary source over the base/REVISED variants because its class roster (Apothecary + Reaper present) most closely matches the current 24-class FEARS roster, though it too lacks Warden/Binder lore. Surfaced two terms not present in the established five-layer Glyph framework (How the Five Layers Shape the Creation World): 'Spirit Glyphs' (Shaman) and 'Flaw Glyphs' (Witch's Mark) - both flagged as open discrepancies on their respective class pages rather than silently mapped onto an existing layer."
+    },
+    ".raw/Cultural Breakdown.md": {
+      "hash": "e274876b1592e7023ccd823f8cf25d39",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "Continent-by-continent cultural summary; headers reviewed only, substantially overlaps with the comprehensive Dor-o Estel.md gazetteer already ingested this wave"
+    },
+    ".raw/Guide to the Five_Pantheons.md": {
+      "hash": "4e04fe3fae06079b80e0565eb694830e",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "Consolidated pantheon overview; spot-checked (Critical Truth: The Gods' Lie section) and confirmed consistent with already-extensive individual pantheon pages, not fully read"
+    },
+    ".raw/Aeravae.md": {
+      "hash": "11e02f07ae48bd55ae467cf9a33dd648",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Aeravae.md"
+      ],
+      "note": "6023-line deep dive; only Overview/Founding History and Government/Politics sections (~500 of 6023 lines) read. Existing stub page fully rewritten."
+    },
+    ".raw/Kel Varyan.md": {
+      "hash": "5646c90976e9678dca5901a33f74c95c",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Kel Varyan.md"
+      ],
+      "note": "3585-line deep dive; Overview, Geography, World Anchor, Government, and Notable Figures/Mysteries sections read. Contradicts the earlier Dor-o Estel.md gazetteer's governance description (Prophetic Bureaucracy vs Amethyst Council) - flagged on-page, deep-dive treated as current canon."
+    },
+    ".raw/Thar Vornhal.md": {
+      "hash": "f8fc2f06b88418b5d82d03935591561a",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Thar Vornhal.md"
+      ],
+      "note": "4057-line deep dive; Overview, Founding History, Notable Figures, and Current Events/Succession Crisis sections read."
+    },
+    ".raw/Veltharyn.md": {
+      "hash": "5f5a8b92e2ca8ed65654b2409a6f21e6",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Veltharyn.md"
+      ],
+      "note": "6724-line deep dive; Overview/Founding, Geography/tiers, Government, and Notable Figures sections read. Contradicts the earlier Dor-o Estel.md gazetteer (Forge-Caste System/3.8M pop vs Stonebound Assembly/680K pop) - flagged on-page."
+    },
+    ".raw/Selveran.md": {
+      "hash": "ca3b6aa0609867e17d07dd56a058a656",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Selveran.md"
+      ],
+      "note": "6099-line deep dive; Overview/Founding, Geography, Government, and Secrets sections read. Contradicts the earlier Dor-o Estel.md gazetteer (Circle of Remembrance/3.8M pop vs Council of Threadways/387K pop) - flagged on-page."
+    },
+    ".raw/Elarion_Quick_Reference.md": {
+      "hash": "8290d5a64ea692b98800e3a30d2f670b",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Elarion.md"
+      ],
+      "pages_updated": [],
+      "note": "Read in full (249 lines); primary source for the new Elarion continent page's Eight Major Powers table and Marshlands summary"
+    },
+    ".raw/Elarion_Complete_Overview.md": {
+      "hash": "13647b4d191069fc5b5ed68e4053a9f2",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Elarion.md"
+      ],
+      "note": "Part I-III read (geography, rivers, World Trees, first two of eight powers); confirmed consistent with Quick Reference"
+    },
+    ".raw/ELARION_GAPS_ANALYSIS.md": {
+      "hash": "169e347667339b11fe5d4af448b18db8",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "Read Executive Summary this pass: confirmed to be a meta-analysis of gaps in the other Elarion source documents (political relationship matrix, NPC personalities, trade route specifics) rather than direct lore content. Names 'Talvath' as an underdeveloped location. Not folded in further."
+    },
+    ".raw/Elarion_Atlas_Entry_Complete.md": {
+      "hash": "05acf9ff0554c6372a141312bc0e9c4c",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "Not read this pass (945 lines) - flagged for a future session"
+    },
+    ".raw/Elarion_Complete_Geographic_Guide_CORRECTED.md": {
+      "hash": "d826d9e4d13b30702bf7a0d1b9b68e26",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "Not read this pass (1743 lines) - flagged for a future session"
+    },
+    ".raw/Elarion_Comprehensive_Continental_Guide.md": {
+      "hash": "4c8d65cfb63c61b71372f8f2a68e0114",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "Not read this pass (1381 lines) - flagged for a future session"
+    },
+    ".raw/Elarion_Geographic_Expansion.md": {
+      "hash": "eb95e18c51d931c3be9aa866e75f623e",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "Not read this pass (559 lines) - flagged for a future session"
+    },
+    ".raw/Elarion_Minor_Factions.md": {
+      "hash": "c006f61a87b935911f20dd8ce2245758",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Elarion.md"
+      ],
+      "note": "Northern Borderlands section (Ashcrown Khanate) read and folded in. Southern Coastal, Eastern Borderlands, Western Islands, Interior Wilderness, and remaining regions not read."
+    },
+    ".raw/Elarion_Powers_Refined.md": {
+      "hash": "9d339b1f2f2f01e07499b9ccb5a23286",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "Not read this pass (736 lines) - flagged for a future session"
+    },
+    ".raw/Natural_Philosophy_of_Elarion.md": {
+      "hash": "ca517956db4493f1dc4a0c93720bc5dd",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Natural Philosophy of Elarion.md"
+      ],
+      "pages_updated": [],
+      "note": "Overview and Five Great Traditions header list read; full per-tradition detail, Lyrran Marketplace, and Mechanical Reference sections not read."
+    },
+    ".raw/Eight_Guild_Professions_Complete.md": {
+      "hash": "f32a9380513b15323e298faead83da07",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Eight Guild Professions.md"
+      ],
+      "pages_updated": [],
+      "note": "Overview, structure, and all eight guild headers read (642 lines); per-guild deep detail not fully read"
+    },
+    ".raw/Corvessa.md": {
+      "hash": "843e551349c35edcaca2b3140b004744",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Corvessa.md"
+      ],
+      "note": "status excluded/template geographic survey; skimmed, superseded by the comprehensive guide"
+    },
+    ".raw/Corvessa comprehensive_guide.md": {
+      "hash": "16596ae2072cf3549a691cb6b0b88bcf",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Corvessa.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Corvessa.md"
+      ],
+      "note": "Part V (Sacred Cavalry military doctrine, the Five Great Failures) read and folded in. Parts VI-X (Economy, Comparative Analysis, Relations with Empire, Cultural Detail) not read."
+    },
+    ".raw/Talanthar_Complete_Guide.md": {
+      "hash": "31ee5e329a3efc6c55382ea093ea1727",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Talanthar.md"
+      ],
+      "pages_updated": [],
+      "note": "Overview, Geography, Spirit of the Greenwood, and Government/Notable Figures sections read (of 1573 lines); Culture, Magic, and full Military Structure sections not read"
+    },
+    ".raw/Talanthar.md": {
+      "hash": "df44855052ebbc289a1ad91ec9eb5099",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Talanthar.md"
+      ],
+      "note": "status excluded/template, imperial-legate-framed study; not read, cited as a source variant"
+    },
+    ".raw/Talanthar 1.md": {
+      "hash": "0e1a7b6ace586fffb0456ed5a73e4d52",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Talanthar.md"
+      ],
+      "note": "Short Overview-framing draft; not read, cited as a source variant"
+    },
+    ".raw/Talanthar Comprehensive Guide.md": {
+      "hash": "07347c72a101a5919878ce340429cd4b",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Talanthar.md"
+      ],
+      "note": "815 lines, not read this pass - superseded by Talanthar_Complete_Guide.md as primary source"
+    },
+    ".raw/The Talanthar Dossier.md": {
+      "hash": "809b62b465e8ae638541bdaf6055375c",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Talanthar.md"
+      ],
+      "note": "113-line narrative field-journal/intelligence-annex framing; not read, cited as a source variant"
+    },
+    ".raw/Zhen_Lan_COMPREHENSIVE_GUIDE.md": {
+      "hash": "ab4b63e7d4277662f80ad7ef2968b640",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Zhen-Lan.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Zhen-Lan.md"
+      ],
+      "note": "Governmental Tiers section (Oneiromantic Council formal titles, Administrative Council) read and folded in. Calendar Systems, Economic Systems, and full Military detail not read."
+    },
+    ".raw/Deepstone_Cantons_Complete_Guide.md": {
+      "hash": "7d84bf1a17ea95da839f91208344bf19",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Deepstone Cantons.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Deepstone Cantons.md"
+      ],
+      "note": "Guild Headquarters section (Anvil Halls, Crystal Chambers, Glyph Vaults) read and folded in. Full Currency Monopoly mechanics and Economy sections not read."
+    },
+    ".raw/Lyrran_Trading_Cities_Complete_Guide.md": {
+      "hash": "8ab2778ec8dce5fc2ebe09b19d609b31",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Lyrran.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Lyrran.md"
+      ],
+      "note": "Banking Network mechanism (letter-of-credit transaction flow, the Forty Houses) read and folded in. Full Economy and Culture sections not read."
+    },
+    ".raw/Virelion_Highlands_Complete Guide.md": {
+      "hash": "3312c992e9ee41447ef3fd98ae57a8e9",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Virelion.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Virelion.md"
+      ],
+      "note": "Val Karren (Vale 1) full detail read and folded in (Eisentor, the Seventeen Halls, the Academy of Steel). Vales 2-9 detail not read."
+    },
+    ".raw/Virelion_Highlands_Complete_Guide old.md": {
+      "hash": "fd644d52c3b8a96f46242407522e2c43",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Virelion.md"
+      ],
+      "note": "640-line earlier draft, confirmed substantially different from the Complete Guide via diff; not read, superseded"
+    },
+    ".raw/Marshlands_Complete_Guide.md": {
+      "hash": "a9ba9ce875c03930a239b7473cdcaf0e",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Marshlands.md"
+      ],
+      "pages_updated": [],
+      "note": "Overview, Geography, Crannogs, and Blood-Magic/Culture sections read (of 796 lines); River-Keeping System economics and Military sections not deeply read"
+    },
+    ".raw/Marshlands_Economic_Reference.md": {
+      "hash": "bcd032cc28ad9f6815e63868195ec231",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Marshlands.md"
+      ],
+      "note": "Not read this pass - flagged for a future session"
+    },
+    ".raw/Marshlands_Racial_Diversity.md": {
+      "hash": "6ce7a5fa6c084855aac9b7f865d34522",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Marshlands.md"
+      ],
+      "note": "Not read this pass - flagged for a future session"
+    },
+    ".raw/Marshlands_Strategic_Context.md": {
+      "hash": "58fabf0e7ae3325cae5bf726c56b460b",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Marshlands.md"
+      ],
+      "note": "Comparative table and Strategic Positioning section read in full, folded in (Dimension Gates detail). Comparative Military Analysis detail not read."
+    },
+    ".raw/Mirror_Chain_Atlas_Entry_REVISED.md": {
+      "hash": "16dd73673d7a52ae79fb7054f6a58755",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Mirror Chain.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Mirror Chain.md"
+      ],
+      "note": "Government and Politics section read in full (adds Rak'Atlal theocratic city-states) and folded in. Culture, Economy, Military, Religion sections not read."
+    },
+    ".raw/Thorned_Concord_Complete_Guide.md": {
+      "hash": "ef068b6cdef63054a789193c6a2e514c",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Thorned Concord.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Thorned Concord.md"
+      ],
+      "note": "Val Kartheris (Valley 1) full detail read and folded in (Lady Mirela Kartheris). Valleys 2-9 detail, Thorn-Maze mechanics, and Culture sections not read."
+    },
+    ".raw/Hollowdeep_Locations_All_Arcs.md": {
+      "hash": "b9e68073c2dd2a7554e7ba2e1cc04bba",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/The Hollowdeep.md"
+      ],
+      "note": "Cross-Arc Locations section (Ninth Coil Ruins, Mycelium Accord Grounds) read in full and folded into The Hollowdeep page. Per-arc location breakdowns for Arcs 1A/2A/2B/2C/3A/4C/5A/6B/6C not read in full."
+    },
+    ".raw/The Hollowdeep.md": {
+      "hash": "2597cd39729d373eef4ec2710f44c1db",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/The Hollowdeep.md"
+      ],
+      "pages_updated": [],
+      "note": "status excluded/template; Nature of the Hollowdeep intro and all Seven Descending Layers sections read in full (754 lines)"
+    },
+    ".raw/The Crimson Root Isles.md": {
+      "hash": "3e04b226164c1dc002f56242ad19abf2",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/The Crimson Root Isles.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/The Crimson Root Isles.md"
+      ],
+      "note": "Third Key NPC (Maeven, the Tree-Touched) read and folded in. Sorrow-Root the Reformist and remaining NPCs, plus the extensive sustainability/food-production systems, not read."
+    },
+    ".raw/Islands of Eternal Green.md": {
+      "hash": "ba3555efb9197a9810c7107dc891701e",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Islands of Eternal Green.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Islands of Eternal Green.md"
+      ],
+      "note": "Archive Tradition and Burning Concord Conquest sections read in full and folded in. Remaining historical detail beyond the conquest not read."
+    },
+    ".raw/Reflected Realms.md": {
+      "hash": "1b7c1bfeee567c43309411f9598b68f7",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Reflected Realms.md"
+      ],
+      "pages_updated": [],
+      "note": "status draft; read in full (81 lines, short cosmological-plane document)"
+    },
+    ".raw/Sylvenmere.md": {
+      "hash": "a6fe9ff6991dfdb9a51b9caedbd507a6",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Sylvenmere.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Sylvenmere.md"
+      ],
+      "note": "Part IV (The World Trees of Sylvenmere, the Nine Ancients) read and folded in. Parts III, V-VIII (Practical Survival, Arc Integration, Campaign Hooks, Thematic Analysis) not read."
+    },
+    ".raw/Ashkarra.md": {
+      "hash": "03d39b86a2f744b9880d52af3e7ed144",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Ashkarra.md"
+      ],
+      "note": "Overview, Geography, Architecture, and Nine-Caste System sections read (of 1335 lines); Religious Life, Military, Economics, and Culture sections not deeply read. Adds pre-fall physical/political detail to the existing Ashkarra page rather than duplicating the Fall narrative."
+    },
+    ".raw/World Trees 1.md": {
+      "hash": "f16a0028b621e04d662ac36d2ebfa337",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/World Trees.md"
+      ],
+      "note": "status complete; Layered Truth of Origins, Function and Purpose, and Tree Distribution sections read (of 918 lines); Earth Pantheon Integration, Seasonal/137-Year Bloom, and Cultural Guardianship sections not read"
+    },
+    ".raw/World Trees.md": {
+      "hash": "def75a65a46cc8dccb0be7b1727edadd",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/World Trees.md"
+      ],
+      "note": "Near-identical to World Trees 1.md per prior diff (frontmatter status tag difference plus one added line); not separately read"
+    },
+    ".raw/Vashkora_Atlas_Entry_Complete.md": {
+      "hash": "c8ea2780d25f9546fdc5a0dfa30337e6",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Vashkora.md"
+      ],
+      "pages_updated": [],
+      "note": "Quick Reference, Overview, and Continental Character sections read (of 1868 lines); full Geography, Political, and Economic sections not read"
+    },
+    ".raw/Vashkora_Atlas_GM_Reference.md": {
+      "hash": "f43e3f8ba6772c8769a9da73c58902f5",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Vashkora.md"
+      ],
+      "note": "Not read this pass (3988 lines, GM-facing companion to the Atlas Entry) - flagged for a future session"
+    },
+    ".raw/Reedford_Definitive_Guide.md": {
+      "hash": "10caf72c8f65b5ad0b90f58fb5935eec",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Reedford.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Reedford.md"
+      ],
+      "note": "Part V (Imperial Presence/Factor Belessi, tied to the Threadbearer Crisis) and Part VI (the Wardbreakers charter and threat categories) read and folded in. Parts VII-IX (grey economy detail, the people who don't run anything, town physical layout) not read."
+    },
+    ".raw/Reedford_Minor_NPC_Supplement.md": {
+      "hash": "0f1fccf81aa022beaffbd2d8aa643c82",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Reedford.md"
+      ],
+      "note": "Not read this pass (275 lines) - flagged for a future session"
+    },
+    ".raw/REEDFORD  WORLD CONNECTIONS SUPPLEMENT.md": {
+      "hash": "8c2d7575f900de32821fc307acfd10d6",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "Effectively empty (2 lines) - likely a failed export, nothing to ingest"
+    },
+    ".raw/REEDFORD — THE RIVER'S GODS.md": {
+      "hash": "b24e6f4b22c165159ef8014da43638cc",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "Effectively empty (0 lines) - likely a failed export, nothing to ingest"
+    },
+    ".raw/Creations_Misunderstanding.md": {
+      "hash": "4d49c5fb266fd6942bab32a5b896e991",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "Underscore-variant of already-ingested Creations Misunderstanding.md; substantial diff (382 lines) but spot-check showed same Four Universal Forces content already captured - not separately re-read"
+    },
+    ".raw/The_Twins_of_Creation.md": {
+      "hash": "5e6551b426bcf4900d21032e56002fdb",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "Underscore-variant of already-ingested Twins of Creation.md; not separately read this pass"
+    },
+    ".raw/The_Lie_of_Godhood.md": {
+      "hash": "f3da8fe337d86715bcf50c9c2c3a508c",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "Underscore-variant of already-ingested The Lie of Godhood.md; not separately read this pass"
+    },
+    ".raw/The_Lie_of_Godhood_WA.md": {
+      "hash": "8e2a2a9cc7ede50c6b405a8408eaa5c7",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "134-line World-Anvil-export condensed summary of The Lie of Godhood.md; read in full, confirmed as a compressed duplicate covering already-documented Astralor/Whispering Dark/Aeloria/Divine Sparks content, no new claims"
+    },
+    ".raw/The Saga of the Glyphs.md": {
+      "hash": "6e50250ebdca9b8c15c4433feff4d0a7",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "Underscore/spacing-variant of already-ingested Saga of the Glyphs.md; not separately read this pass"
+    },
+    ".raw/World_Trees_Living_Anchors.md": {
+      "hash": "ba7f43c900966f0403d3911c6c55c80f",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/World Trees.md",
+        "wiki/notes/Aeravae.md"
+      ],
+      "note": "Fuller version of World Trees 1.md; Aeravae's Echo-Cenote section and Earth Pantheon Integration (Vatharun/Neldros/Gaeldros/Ishara/Orruuk) sections read in full and folded in as a second founding-myth account (accident vs. suppressed druidic bargain) and pantheon-stewardship detail respectively"
+    },
+    ".raw/ARC 1A - The Archivist Inquisition.md": {
+      "hash": "6f28afca2ad5c756e08f0257be096fc2",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Arc 1A - The Archivist Inquisition.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Campaign Arcs (The Great Deceivers and Truth-Seekers).md"
+      ],
+      "note": "Deep-read this pass: Executive Summary, Part One (The Villain), and Part Two (organization/Inner Circle, including the Whisper-That-Knows double-agent twist) read in full. Campaign structure Act I-IV not read."
+    },
+    ".raw/ARC 1B - Last Threadbearers Conspiracy.md": {
+      "hash": "99f1c086b68f5eb37457653f3b52d000",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Arc 1B - The Threadbearer's Silence.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Campaign Arcs (The Great Deceivers and Truth-Seekers).md",
+        "wiki/notes/Kel Varyan.md",
+        "wiki/notes/The Threadbearer Crisis.md"
+      ],
+      "note": "Deep-read this pass: BBEG section (Naleth Spiralbound), conspiracy mechanics (how she killed all four Threadbearers), and the Seminary read in full. Resolves the Threadbearer Crisis survivor identity. Act I-IV structure not read."
+    },
+    ".raw/ARC 2A - Prophet of Ashes.md": {
+      "hash": "aef9a6a500ddee57373ddd34aad96206",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Arc 2A - The Prophet of Ashes.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Campaign Arcs (The Great Deceivers and Truth-Seekers).md",
+        "wiki/notes/Xey'Tazun.md"
+      ],
+      "note": "Deep-read this pass: Kethyr's Transformation section read in full (Eldritch Xey'Tazun pact twist). Ashkarra Context, Ashen Prophets org structure, Geographic Spread, Evidence, and Act I-IV not read in full."
+    },
+    ".raw/ARC 2B - The Elven Testimony.md": {
+      "hash": "a4b4e1626beff1d8bcd70e848e0207d4",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Arc 2B - The Elven Testimony.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Campaign Arcs (The Great Deceivers and Truth-Seekers).md"
+      ],
+      "note": "Deep-read this pass: Persecution Context and Celeborn's Transformation (Pattern-entity twist) read in full. Forbidden Archives physical description, Witnesses of the Root Movement, and 8-act structure not read in full."
+    },
+    ".raw/ARC 2C - The Drow Revelator.md": {
+      "hash": "d461d908b38d0edfda609a4dd47243e1",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Arc 2C - The Drow Revelator.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Campaign Arcs (The Great Deceivers and Truth-Seekers).md"
+      ],
+      "note": "Deep-read this pass: BBEG section and Major NPCs read in full. Four-act structure, Major Locations, and Themes sections not read in full."
+    },
+    ".raw/ARC 3A - Architect of Souls.md": {
+      "hash": "a0104b3d6fbd08c571652998d4372049",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Arc 3A - The Architect of Souls.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Campaign Arcs (The Great Deceivers and Truth-Seekers).md"
+      ],
+      "note": "Deep-read this pass: Campaign Summary and Divine Hierarchy/Lyssa sections read in full. Full BBEG deep-dive and campaign structure not read in full."
+    },
+    ".raw/ARC 3B - The Dragonborn Emperor.md": {
+      "hash": "661f5d55e81a8200a873c70ab32a11bc",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Arc 3B - The Dragonborn Emperor.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Campaign Arcs (The Great Deceivers and Truth-Seekers).md"
+      ],
+      "note": "Deep-read this pass: Campaign Summary/core premise read in full. Full structure and NPCs not read."
+    },
+    ".raw/ARC 4A - The_Death_Rewriter.md": {
+      "hash": "132377fd8ffeade40cac049198f1a0af",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Arc 4A - The Death-Rewriter.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Campaign Arcs (The Great Deceivers and Truth-Seekers).md"
+      ],
+      "note": "Deep-read this pass: Executive Summary and Antagonist biography read in full, including the Hollow Vault seal-cracking connection. Full campaign structure not read."
+    },
+    ".raw/ARC2B - GM Guide.md": {
+      "hash": "ebdd11e79310cd1fea671332bbbcb37b",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "585-line GM-facing companion to Arc 2B; not read this pass"
+    },
+    ".raw/ARC_4B_The_Memory_Rewriter_FINAL-1.md": {
+      "hash": "453fe80971ce7da3efa55b784eae9a68",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Arc 4B - The Memory-Rewriter.md"
+      ],
+      "note": "v3.0 draft, read in full for Executive Summary; superseded by the v4.0 REVISED file as primary source."
+    },
+    ".raw/ARC_4B_The_Memory_Rewriter_REVISED_v4-1.md": {
+      "hash": "044b6153996acdb41baaeb7daeaff18b",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Arc 4B - The Memory-Rewriter.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Campaign Arcs (The Great Deceivers and Truth-Seekers).md"
+      ],
+      "note": "v4.0 (current) draft, Executive Summary read in full; this Arc 4B concept (Vaelith Shadowmind) differs entirely from the compact-summary 'Kethris the Infinite' version, flagged as a contradiction/supersession."
+    },
+    ".raw/ARC_4C_The_Eldritch_Rewriter_v2.md": {
+      "hash": "1d146c9c373ad75a2470bdb54687efc7",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Arc 4C - The Eldritch Rewriter.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Campaign Arcs (The Great Deceivers and Truth-Seekers).md",
+        "wiki/notes/Zhurr'Kael.md"
+      ],
+      "note": "Deep-read this pass: Executive Summary and Thematic Framework read in full, including the Zhurr'Kael corruption twist. Full campaign structure not read."
+    },
+    ".raw/BBEG Geographic - Placement and Introductions.md": {
+      "hash": "61ea4d4d85332dc6de1517eede4690de",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Campaign Arcs (The Great Deceivers and Truth-Seekers).md"
+      ],
+      "note": "Geographic Placement Strategy table (all 17 arcs) read in full and folded into the Campaign Arcs page. Campaign Arc Introductions section not read."
+    },
+    ".raw/BBEG_Campaign_Arcs_Part1.md": {
+      "hash": "a859b5706d25c63067f7d013aae8d2b3",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Campaign Arcs (The Great Deceivers and Truth-Seekers).md"
+      ],
+      "pages_updated": [],
+      "note": "Categories 1-2 (Suppressors, Revealers) read in full; primary source for the new Campaign Arcs overview page"
+    },
+    ".raw/BBEG_Campaign_Arcs_Part2.md": {
+      "hash": "9cf33610ee6d7e3548e3f004b3d2c0db",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Campaign Arcs (The Great Deceivers and Truth-Seekers).md"
+      ],
+      "pages_updated": [],
+      "note": "Categories 3-6 (Ascenders, Rewriters, Desperate Faithful, Cosmic Manipulators) read in full; primary source for the new Campaign Arcs overview page"
+    },
+    ".raw/Complete_Arc_Locations_Index.md": {
+      "hash": "d83f728129f5e27618ae6a8cdc772be7",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Vashkora.md"
+      ],
+      "note": "Other Continents (Vashkora, Kerythra intro) section read; Thiravarn and Mirror Empire folded into Vashkora.md, plus a flagged Thar Vornhal continent-placement contradiction. Arc-by-Arc breakdown, Five Loom-Cities detail, Kingdoms/Nations, Regional Zones, Islands, Supernatural Locations, Travel Routes not read."
+    },
+    ".raw/Hollowdeep_Locations_Arc2C_REVISED.md": {
+      "hash": "d554e050cb568b646159ebad70c28a74",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "677 lines; not read this pass - arc-specific Hollowdeep location supplement, flagged for a future session"
+    },
+    ".raw/Reality_Stability_Divine_Response_Protocol.md": {
+      "hash": "45f3d897dcb9051728fc25ee089a70e8",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Reality Stability Score.md"
+      ],
+      "pages_updated": [],
+      "note": "Parts One and Three (baseline, threshold mechanics) read; Parts Two, Four, Five, Six (progression table, Divine Response escalation, campaign mechanics per level, start checklist) not read"
+    },
+    ".raw/Introduction session 0 - 1.md": {
+      "hash": "3a707834ac2f3cc32216a45d167c2246",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Session 0-1 - The River Journey.md"
+      ],
+      "pages_updated": [],
+      "note": "GM/AI brainstorm conversation for the campaign opening concept; read in full (short), cited as design-process context alongside the production version"
+    },
+    ".raw/SESSION_0-1_RIVER_JOURNEY_COMPLETE.md": {
+      "hash": "bc5800ab97e0da0bc617d823194c9ebb",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Session 0-1 - The River Journey.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/The Threadbearer Crisis.md",
+        "wiki/notes/Kel Varyan.md"
+      ],
+      "note": "Overview, Barge & Passengers (Captain Voss), and the Serana Tidecaller/Naleth identity reveal read in full; the Day 1-7 full journey/ambush/arrival detail and Minor Passengers not read"
+    },
+    ".raw/Session 1.md": {
+      "hash": "33f704c6f3d1fba2e00aac0ef4f68934",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Session 0-1 - The River Journey.md"
+      ],
+      "note": "Read in full; an earlier GM/AI design-brainstorm draft of the campaign opener, superseded by SESSION_0-1_RIVER_JOURNEY_COMPLETE.md but cited for an alternate ambiguous-Threadbearer framing."
+    },
+    ".raw/Dor-o_Estel_MASTER_TIMELINE_Complete.md": {
+      "hash": "dce4214ffd1d1d55983be83b4dbc0613",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "1921 lines; not read this pass - likely overlaps The Ages of Dor-o Estel and The Unraveling, flagged for a future session"
+    },
+    ".raw/Dor-o_Estel_Timeline_Additions.md": {
+      "hash": "8ba0bb35e75592447d7bbb81333468e4",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "278 lines; not read this pass"
+    },
+    ".raw/Dor-o_Estel_Timeline_Gap_Analysis 1.md": {
+      "hash": "cfea506a5fa196d81258f5f17fe7dee0",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "206 lines; not read this pass"
+    },
+    ".raw/Dor-o_Estel_Timeline_Gap_Analysis.md": {
+      "hash": "36b840a2bb0f5493fecb328e8244294b",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "274 lines; not read this pass"
+    },
+    ".raw/MASTER_TIMELINE_Quick_Reference.md": {
+      "hash": "e158d32796ca06ccf00c826edb000768",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/The Threadbearer Crisis.md"
+      ],
+      "note": "Read in full (333 lines); confirmed key canonical dates and the Naleth/Tidecaller Arc 1B connection to the Threadbearer Crisis timeline"
+    },
+    ".raw/Fall_of_Ashkarra_Complete.md": {
+      "hash": "d81ee141feabe751935cf751295b6fbc",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "Event Summary table read and confirmed consistent with the existing Ashkarra page; not deeply read beyond that, largely overlaps already-documented content."
+    },
+    ".raw/Fall_of_Ashkarra_Timeline.md": {
+      "hash": "9fde7f82a8dea0650c372fc978cb4d62",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "440 lines; not read this pass"
+    },
+    ".raw/The_Unraveling_Complete 1.md": {
+      "hash": "4ee546f9b00c12a24fd7d244953ee7fe",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "Byte-identical duplicate of The_Unraveling_Complete.md (confirmed via diff); not separately read"
+    },
+    ".raw/The_Unraveling_Complete.md": {
+      "hash": "4ee546f9b00c12a24fd7d244953ee7fe",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "861 lines; not read this pass - likely overlaps the already-ingested The Unraveling page"
+    },
+    ".raw/The_World_That_Still_Holds.md": {
+      "hash": "005eb9a1efbdc15fdb5b017e69bdcc94",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/The World That Still Holds.md"
+      ],
+      "pages_updated": [],
+      "note": "Player-and-GM-facing synthesis (531 lines); read in full, primary source for the new thematic page on the Memory Divide"
+    },
+    ".raw/Arcane Rift.md": {
+      "hash": "4e6a9b799b0ffbd08ef49186d8e2e4a8",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Arcane Rift.md"
+      ],
+      "pages_updated": [],
+      "note": "Read in full (44 lines)"
+    },
+    ".raw/Enhanced Arcane Rift.md": {
+      "hash": "ff98d12cf0a0a9e5019ac9c8b62d3191",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Arcane Rift.md"
+      ],
+      "pages_updated": [],
+      "note": "Read in full (51 lines); folded into the Arcane Rift page as its escalated variant"
+    },
+    ".raw/Dead Magic Zone.md": {
+      "hash": "a4103b57157e2cff9654f298ec3db2f5",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Dead Magic Zone.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Unstable Magic Zones.md"
+      ],
+      "note": "Read in full (54 lines)"
+    },
+    ".raw/Wild Magic Zone.md": {
+      "hash": "4339d06155118942a708417542752def",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Wild Magic Zone.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Unstable Magic Zones.md"
+      ],
+      "note": "Read in full (45 lines)"
+    },
+    ".raw/Wild Magic Zones.md": {
+      "hash": "2b43222baa1a0093c078d97a07cd96fa",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Wild Magic Zone.md"
+      ],
+      "pages_updated": [],
+      "note": "Empty template stub (7 lines, status: excluded), nothing to ingest"
+    },
+    ".raw/Scarred Magic.md": {
+      "hash": "505bf3a8e66cc442ce7408e96baef6a5",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Styles of Magic.md"
+      ],
+      "pages_updated": [],
+      "note": "Opening/Key Themes sections read (of 138 lines); folded into the combined Styles of Magic page, full spell-list detail not read"
+    },
+    ".raw/Corruption.md": {
+      "hash": "c503426fffc6cdae8646a2f86f25618f",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Corruption.md"
+      ],
+      "note": "Opening sections read (of 215 lines); cited as an additional source on the existing Corruption page, full corruption-progression tables not transcribed"
+    },
+    ".raw/Voidwrought Weaving.md": {
+      "hash": "f58369bdf4f0b4b80677010e39d4e454",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Styles of Magic.md"
+      ],
+      "pages_updated": [],
+      "note": "Opening/Key Themes sections read (of 137 lines); folded into the combined Styles of Magic page"
+    },
+    ".raw/Glyph Binding.md": {
+      "hash": "1fec00bfb08c2b7e0ff77d0f614bd3cd",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Glyph Binding.md"
+      ],
+      "pages_updated": [],
+      "note": "Opening, Key Themes, spell-list, and Optional Mechanics sections read (of 153 lines); Cultural Traditions detail not fully transcribed"
+    },
+    ".raw/Secondary Glyphs.md": {
+      "hash": "c92b27f895c28faca9feed1b50c73a15",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Secondary Glyphs.md"
+      ],
+      "pages_updated": [],
+      "note": "Overview and full 23-Glyph taxonomy read (of 362 lines); Glyph Failure and Echo Glyph mapping sections at the end not read"
+    },
+    ".raw/Echo Glyphs.md": {
+      "hash": "eff99cd725ce43bef70282b48b613651",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Echo Glyphs.md"
+      ],
+      "pages_updated": [],
+      "note": "Overview and Function/Mechanics sections read (of 191 lines); full examples list not read"
+    },
+    ".raw/Eldritch Carving.md": {
+      "hash": "24374e57a36692ac60c4b5418a2161e4",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Styles of Magic.md"
+      ],
+      "pages_updated": [],
+      "note": "Opening/Key Themes sections read (of 163 lines); folded into the combined Styles of Magic page"
+    },
+    ".raw/Eldritch Moon awakening.md": {
+      "hash": "1925bd138f419a424d583c1317f8d440",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Eldritch Moon Rise Procedure.md"
+      ],
+      "pages_updated": [],
+      "note": "Read in full (211 lines)"
+    },
+    ".raw/Osteomancy.md": {
+      "hash": "0ce0d1ff80cbe9d52b4a727114ce5b1c",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "Opening/Key Themes sections read (of 144 lines); not folded into a page this pass, flagged for a future session"
+    },
+    ".raw/Tome of Mystical Tattoos.md": {
+      "hash": "5576fb3f8e1387b4d410fc4e6ef71fb2",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "4739 lines; appears to be garbled/corrupted OCR text from a scanned source ('DINTUITY', 'Tome Of Mon Th') - not usable as-is, flagged for a future session with a cleaner source if one exists"
+    },
+    ".raw/Transformation Systems.md": {
+      "hash": "0e2108f4063651e4a1f6d12fc3b1fff1",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Transformation Systems.md"
+      ],
+      "pages_updated": [],
+      "note": "Overview and the 9-path catalog table of contents read (of 6812 lines); full per-stage mechanical detail for each of the 9 transformation paths not read"
+    },
+    ".raw/Blood Magic.md": {
+      "hash": "67fe38b4188a66522bd2299da09a1149",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Styles of Magic.md"
+      ],
+      "pages_updated": [],
+      "note": "Opening/Key Themes sections read (of 168 lines); folded into the combined Styles of Magic page"
+    },
+    ".raw/The Whisper Engine.md": {
+      "hash": "866c5c9857ff1bfcefd588fd22502bbc",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Whisper Engine.md"
+      ],
+      "note": "Not read this pass; cited as an additional source on the existing Whisper Engine page"
+    },
+    ".raw/FEARS_Mental_Attributes_Attribute_Based_COMPLETE.md": {
+      "hash": "bdfa7135f4bcc9e34bbd0904664fb377",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "1200 lines; not read this pass - likely a consolidated Focus/Sanity/Corruption design doc overlapping already-ingested content"
+    },
+    ".raw/FEARS_Mental_Attributes_COMPLETE.md": {
+      "hash": "280013123e7be6cc50c1b8da162254a3",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "Opening Core Philosophy section read (of 158 lines); confirmed as a consolidated Focus/Sanity/Corruption synthesis overlapping already-documented content, not separately transcribed"
+    },
+    ".raw/Sanity.md": {
+      "hash": "a20c2683b1d172ed5bce8d0602d33947",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Sanity.md"
+      ],
+      "note": "Read in full (259 lines); threshold table, generation formula, and Mental Trauma table folded into the existing Sanity page as a new section"
+    },
+    ".raw/Focus.md": {
+      "hash": "06d15e251fdeb17790f67f03d2b8f8ef",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Focus.md"
+      ],
+      "note": "Read in full (236 lines); threshold table, generation formula, and Mental Disruptions table folded into the existing Focus page as a new section"
+    },
+    ".raw/Luck.md": {
+      "hash": "200ea423fcc3156e83ba3ffa08b4a12d",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Luck.md"
+      ],
+      "note": "Read in full; full Cursed/Blessed d8 tables and cross-system triggers folded into the existing Luck page."
+    },
+    ".raw/Memory.md": {
+      "hash": "f7d29159162436a5e8cdf79bd44a24fb",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Memory.md"
+      ],
+      "note": "Read in full; check formula and system interactions folded into the existing Memory page."
+    },
+    ".raw/Disposition.md": {
+      "hash": "ee408791f6e860c871bc99f4dc271f49",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Disposition.md"
+      ],
+      "note": "Read in full; settlement defaults and cross-system integration table folded into the existing Disposition page."
+    },
+    ".raw/Occult.md": {
+      "hash": "111998e1a0eee86539c3ac13c12ff7ab",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Occult.md"
+      ],
+      "note": "Read in full; check formula and Occult (Unstable) optional rule folded into the existing Occult page."
+    },
+    ".raw/Streetwise.md": {
+      "hash": "29712400a715b4e1550997814f55dc35",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Streetwise.md"
+      ],
+      "note": "Read in full; check formula and Insight/Investigation distinction folded into the existing Streetwise page."
+    },
+    ".raw/Reputation.md": {
+      "hash": "20957e4f0aa9b4e233389225d1b70af7",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Reputation.md"
+      ],
+      "note": "Read in full; the 0-4 reputation tier scale and three-way Disposition/Wanted Score/Reputation distinction folded into the existing Reputation page."
+    },
+    ".raw/Fame (or Infamy).md": {
+      "hash": "8ebb8f68fdf93196f846c89f03b9eb84",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Fame and Infamy.md"
+      ],
+      "pages_updated": [],
+      "note": "Read in full (108 lines, status: excluded)"
+    },
+    ".raw/Wanted Score.md": {
+      "hash": "a06a046a9e9696b15940a82d2ea7db27",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Wanted Score.md"
+      ],
+      "note": "Read in full; the complete tier table, notoriety tiers, and decay/redemption rules folded into the existing Wanted Score page."
+    },
+    ".raw/Bloodied & Bruised - DCS Integration Guide.md": {
+      "hash": "57dd8ca738bb38eddf7d31766a95e2e5",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Bloodied and Bruised.md"
+      ],
+      "note": "Not read this pass - cited as an additional source, not deeply compared"
+    },
+    ".raw/Bloodied, Breaking Points & Rally.md": {
+      "hash": "6df8f2a3747e4fe398ad3d5839beaa78",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Bloodied Breaking Points Rally.md"
+      ],
+      "note": "Confirmed substantially different from the already-ingested comma-less version via diff (894 diff lines); not deeply read, cited as an additional source"
+    },
+    ".raw/The Bloodied System.md": {
+      "hash": "327e9d80b826271e658185b6a4278f3b",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Bloodied and Bruised.md"
+      ],
+      "note": "Not read this pass - cited as an additional source, not deeply compared"
+    },
+    ".raw/Monster Mental Attributes.md": {
+      "hash": "7c069b0c9a813c556152930374f8f3c7",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Converting Monsters to DCS.md"
+      ],
+      "pages_updated": [],
+      "note": "Cited as a source for the new Converting Monsters to DCS page; not deeply read"
+    },
+    ".raw/Monster blocks using DCS.md": {
+      "hash": "58da33c1fef0be5da596077163f67300",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Converting Monsters to DCS.md"
+      ],
+      "pages_updated": [],
+      "note": "Overview and Why Convert sections read; primary source for the new Converting Monsters to DCS page"
+    },
+    ".raw/Monsters in DCs.md": {
+      "hash": "049b4c897a13e479eed33830ba75ddaa",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Converting Monsters to DCS.md"
+      ],
+      "pages_updated": [],
+      "note": "Cited as a source for the new Converting Monsters to DCS page; not deeply read"
+    },
+    ".raw/Black Market.md": {
+      "hash": "fce51133d8d9e0ab878d869a016306fa",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Black Market.md"
+      ],
+      "note": "Read in full (82 lines); Black Market Reputation tier table and the 'not always villainous' framing folded into the existing page"
+    },
+    ".raw/Twilight Markets.md": {
+      "hash": "d3b83582c6baee89c9dfaf8bed6fcc00",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/The Twilight Markets.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/The Twilight Markets.md"
+      ],
+      "note": "Full Council of Veils roster (9 seats) and 3 Market Masters (Kel Varyan, Corvessa, Talanthar) now read and captured, including the Arc 1A cross-reference. City-by-city location catalog, full goods catalog, and adventure hooks/DM guidance not read."
+    },
+    ".raw/Hideouts.md": {
+      "hash": "81caac42f0c0892046101355f20ef9d7",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Hideouts.md"
+      ],
+      "note": "Read in full (33 lines); confirmed consistent with the existing page, cited as an additional source"
+    },
+    ".raw/Timeless Keepers.md": {
+      "hash": "9068557cbf683095650ec5fb6e46b943",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Timeless Keepers.md"
+      ],
+      "pages_updated": [],
+      "note": "Read in full (157 lines, status: complete)"
+    },
+    ".raw/Stone Ledger Compact.md": {
+      "hash": "562b4ab583e29f68e26a45a1ce6014af",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Stone Ledger Compact.md"
+      ],
+      "pages_updated": [
+        "wiki/notes/Stone Ledger Compact.md"
+      ],
+      "note": "Read to completion this pass: all seven Debtwrights and the full Campaign Integration (victory conditions) section now captured. Vaultward Deeps and full Stone Ledger mechanics sections not read."
+    },
+    ".raw/Geographical Zones.md": {
+      "hash": "4ac71f8533831c063c9019ad603f116f",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Geographical Zones.md"
+      ],
+      "pages_updated": [],
+      "note": "Read in full (111 lines, status: excluded)"
+    },
+    ".raw/Seasonal Influencers.md": {
+      "hash": "9a21af7b315a163a57fc3b1822697cdd",
+      "ingested_at": "2026-07-14",
+      "pages_created": [
+        "wiki/notes/Seasonal Influencers.md"
+      ],
+      "pages_updated": [],
+      "note": "Verdant Rise section read in full, other 3 seasons (Scorchpeak, Deepveil, Auroratide) headers only (of 728 lines); per-season d6 tables not transcribed"
+    },
+    ".raw/Class_Lore_Compendiums_DorOEstel.md": {
+      "hash": "b54f31a536a54d420e292a4c67ade93d",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "Superseded by Class_Lore_Compendiums_DorOEstel_UPDATED.md, which was used as the primary source for the 2026-07-14 class-lore enrichment wave (all 24 class pages now carry a 'Mythology & Cultural Lore' section). This base variant uses an older roster (Psion/Thaumaturge present, Apothecary/Reaper absent) and was not separately ingested; retained as a lower-priority cross-check source if future work wants to compare roster-drift or recover content unique to this draft."
+    },
+    ".raw/Class_Lore_Compendiums_DorOEstel_REVISED.md": {
+      "hash": "486718756f6c25780ae05cc206bb0c0f",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [],
+      "note": "Superseded by Class_Lore_Compendiums_DorOEstel_UPDATED.md, which was used as the primary source for the 2026-07-14 class-lore enrichment wave (all 24 class pages now carry a 'Mythology & Cultural Lore' section). This REVISED variant also uses an older roster (Psion/Thaumaturge present, Apothecary/Reaper absent) and contains duplicate Shaman/Wizard headers; not separately ingested, retained as a lower-priority cross-check source."
+    },
+    ".raw/Unstable Magic Zones.md": {
+      "hash": "54170bdb8b399bf0ac8e0447a4b5c625",
+      "ingested_at": "2026-07-14",
+      "pages_created": [],
+      "pages_updated": [
+        "wiki/notes/Unstable Magic Zones.md"
+      ],
+      "note": "The raw source underlying the pre-existing Unstable Magic Zones hub page, never itself manifest-tracked from an earlier pre-manifest session; not re-read this pass since the hub page already reflects it"
     }
   },
   "address_map": {
@@ -1677,6 +3985,329 @@
     "wiki/notes/Air Pantheon.md": "c-000250",
     "wiki/notes/The Lie of Godhood.md": "c-000251",
     "wiki/notes/World Anchors and the Loom-City System.md": "c-000252",
-    "wiki/notes/Eldritch Zones and Manifestations.md": "c-000253"
+    "wiki/notes/Eldritch Zones and Manifestations.md": "c-000253",
+    "wiki/notes/Aelis.md": "c-000254",
+    "wiki/notes/Aelthys.md": "c-000255",
+    "wiki/notes/Aelys.md": "c-000256",
+    "wiki/notes/Astralis.md": "c-000257",
+    "wiki/notes/Astria.md": "c-000258",
+    "wiki/notes/Atherion.md": "c-000259",
+    "wiki/notes/Brizzik.md": "c-000260",
+    "wiki/notes/Caltheris.md": "c-000261",
+    "wiki/notes/Cyrvith.md": "c-000262",
+    "wiki/notes/Dalvora.md": "c-000263",
+    "wiki/notes/Durnath.md": "c-000264",
+    "wiki/notes/Dverrik.md": "c-000265",
+    "wiki/notes/Erona.md": "c-000266",
+    "wiki/notes/Gaeldros.md": "c-000267",
+    "wiki/notes/Garrun.md": "c-000268",
+    "wiki/notes/Glyph of Threads.md": "c-000269",
+    "wiki/notes/Glyph of Will.md": "c-000270",
+    "wiki/notes/Grathis.md": "c-000271",
+    "wiki/notes/Hearthfire.md": "c-000272",
+    "wiki/notes/Ignis.md": "c-000273",
+    "wiki/notes/Ishara.md": "c-000274",
+    "wiki/notes/Iskorel.md": "c-000275",
+    "wiki/notes/Jorvethis.md": "c-000276",
+    "wiki/notes/Kael'Thar.md": "c-000277",
+    "wiki/notes/Kaelith.md": "c-000278",
+    "wiki/notes/Kaemor.md": "c-000279",
+    "wiki/notes/Kaldris.md": "c-000280",
+    "wiki/notes/Karthas.md": "c-000281",
+    "wiki/notes/Keldros.md": "c-000282",
+    "wiki/notes/Krythos.md": "c-000283",
+    "wiki/notes/Lysara.md": "c-000284",
+    "wiki/notes/Marethis.md": "c-000285",
+    "wiki/notes/Mordrath.md": "c-000286",
+    "wiki/notes/Mourndrel.md": "c-000287",
+    "wiki/notes/Neldros.md": "c-000288",
+    "wiki/notes/Nereus.md": "c-000289",
+    "wiki/notes/Nytheris.md": "c-000290",
+    "wiki/notes/Nyzara.md": "c-000291",
+    "wiki/notes/Olmara.md": "c-000292",
+    "wiki/notes/Orannis.md": "c-000293",
+    "wiki/notes/Orivak.md": "c-000294",
+    "wiki/notes/Oriveth.md": "c-000295",
+    "wiki/notes/Ormara (Earth).md": "c-000296",
+    "wiki/notes/Pyrris.md": "c-000297",
+    "wiki/notes/Pyrrithis.md": "c-000298",
+    "wiki/notes/Ralzos.md": "c-000299",
+    "wiki/notes/Rhoris.md": "c-000300",
+    "wiki/notes/Sarnok.md": "c-000301",
+    "wiki/notes/Soltharion's Bane.md": "c-000302",
+    "wiki/notes/Soltharion.md": "c-000303",
+    "wiki/notes/Sylkras.md": "c-000304",
+    "wiki/notes/Sylphine.md": "c-000305",
+    "wiki/notes/Sylthara.md": "c-000306",
+    "wiki/notes/Tavron.md": "c-000307",
+    "wiki/notes/Telys.md": "c-000308",
+    "wiki/notes/Thalmar.md": "c-000309",
+    "wiki/notes/Thamur.md": "c-000310",
+    "wiki/notes/Tharamis.md": "c-000311",
+    "wiki/notes/The Ashen Web.md": "c-000312",
+    "wiki/notes/The Court of the Silent Tribunal.md": "c-000313",
+    "wiki/notes/The Fall of the Drow.md": "c-000314",
+    "wiki/notes/The Glyph of Echoes.md": "c-000315",
+    "wiki/notes/The Glyph of Endings.md": "c-000316",
+    "wiki/notes/The Trial of the Web-Spinner.md": "c-000317",
+    "wiki/notes/Thirian.md": "c-000318",
+    "wiki/notes/Thyssir.md": "c-000319",
+    "wiki/notes/Tirvas.md": "c-000320",
+    "wiki/notes/Torvax.md": "c-000321",
+    "wiki/notes/Tzhor.md": "c-000322",
+    "wiki/notes/Uldrek.md": "c-000323",
+    "wiki/notes/Ulthar.md": "c-000324",
+    "wiki/notes/Vaelcor.md": "c-000325",
+    "wiki/notes/Vaeldros.md": "c-000326",
+    "wiki/notes/Vaelora.md": "c-000327",
+    "wiki/notes/Vaeryn.md": "c-000328",
+    "wiki/notes/Vaithis.md": "c-000329",
+    "wiki/notes/Valthir.md": "c-000330",
+    "wiki/notes/Vatharun.md": "c-000331",
+    "wiki/notes/Velmara.md": "c-000332",
+    "wiki/notes/Veydras.md": "c-000333",
+    "wiki/notes/Vokir.md": "c-000334",
+    "wiki/notes/Voraxis.md": "c-000335",
+    "wiki/notes/Vorendral.md": "c-000336",
+    "wiki/notes/Xalros.md": "c-000337",
+    "wiki/notes/Xalvorr.md": "c-000338",
+    "wiki/notes/Xelthar.md": "c-000339",
+    "wiki/notes/Xethar.md": "c-000340",
+    "wiki/notes/Xilthos.md": "c-000341",
+    "wiki/notes/Yirith.md": "c-000342",
+    "wiki/notes/Ythera.md": "c-000343",
+    "wiki/notes/Zephir.md": "c-000344",
+    "wiki/notes/Zerah.md": "c-000345",
+    "wiki/notes/Zeythis.md": "c-000346",
+    "wiki/notes/Zilthas.md": "c-000347",
+    "wiki/notes/Zorvakar.md": "c-000348",
+    "wiki/notes/Zovhakar.md": "c-000349",
+    "wiki/notes/Aetheris.md": "c-000350",
+    "wiki/notes/Althira.md": "c-000351",
+    "wiki/notes/Beneath-the-Face.md": "c-000352",
+    "wiki/notes/Cyrnith.md": "c-000353",
+    "wiki/notes/Durmokk.md": "c-000354",
+    "wiki/notes/Dymera.md": "c-000355",
+    "wiki/notes/Elthir.md": "c-000356",
+    "wiki/notes/Elyon.md": "c-000357",
+    "wiki/notes/Elythis.md": "c-000358",
+    "wiki/notes/Elythra.md": "c-000359",
+    "wiki/notes/Eryndal.md": "c-000360",
+    "wiki/notes/Fareth.md": "c-000361",
+    "wiki/notes/Gorvath.md": "c-000362",
+    "wiki/notes/Gryphor.md": "c-000363",
+    "wiki/notes/Howlar.md": "c-000364",
+    "wiki/notes/Ilyra.md": "c-000365",
+    "wiki/notes/Ilyss.md": "c-000366",
+    "wiki/notes/Istriel.md": "c-000367",
+    "wiki/notes/Itheris.md": "c-000368",
+    "wiki/notes/Ithraval.md": "c-000369",
+    "wiki/notes/Ithrial.md": "c-000370",
+    "wiki/notes/Ithrien.md": "c-000371",
+    "wiki/notes/Kaelor.md": "c-000372",
+    "wiki/notes/Kallur's Knot.md": "c-000373",
+    "wiki/notes/Kelphor.md": "c-000374",
+    "wiki/notes/Khareth.md": "c-000375",
+    "wiki/notes/Khazir.md": "c-000376",
+    "wiki/notes/Luthiris.md": "c-000377",
+    "wiki/notes/Lyrithis.md": "c-000378",
+    "wiki/notes/Lythra.md": "c-000379",
+    "wiki/notes/Lyvessa.md": "c-000380",
+    "wiki/notes/Marethis (Air).md": "c-000381",
+    "wiki/notes/Merys.md": "c-000382",
+    "wiki/notes/Mirethis.md": "c-000383",
+    "wiki/notes/Morgathis.md": "c-000384",
+    "wiki/notes/Myss.md": "c-000385",
+    "wiki/notes/Myzael.md": "c-000386",
+    "wiki/notes/Nysara.md": "c-000387",
+    "wiki/notes/Nyssara.md": "c-000388",
+    "wiki/notes/Nyxaris.md": "c-000389",
+    "wiki/notes/Ormara.md": "c-000390",
+    "wiki/notes/Orris.md": "c-000391",
+    "wiki/notes/Orynthos.md": "c-000392",
+    "wiki/notes/Othraxis.md": "c-000393",
+    "wiki/notes/Othrys.md": "c-000394",
+    "wiki/notes/Quoras.md": "c-000395",
+    "wiki/notes/Rhyzel.md": "c-000396",
+    "wiki/notes/Rymora.md": "c-000397",
+    "wiki/notes/Rythos.md": "c-000398",
+    "wiki/notes/Saelis.md": "c-000399",
+    "wiki/notes/Sarvion.md": "c-000400",
+    "wiki/notes/Selteris.md": "c-000401",
+    "wiki/notes/Selyth.md": "c-000402",
+    "wiki/notes/Sethil.md": "c-000403",
+    "wiki/notes/Sethir.md": "c-000404",
+    "wiki/notes/Shalsor.md": "c-000405",
+    "wiki/notes/Syralis.md": "c-000406",
+    "wiki/notes/Sytheris.md": "c-000407",
+    "wiki/notes/Sythros.md": "c-000408",
+    "wiki/notes/Syvaris.md": "c-000409",
+    "wiki/notes/Tahris.md": "c-000410",
+    "wiki/notes/Tarron.md": "c-000411",
+    "wiki/notes/Teyvros.md": "c-000412",
+    "wiki/notes/Thalmaris.md": "c-000413",
+    "wiki/notes/The 13th Sleeper.md": "c-000414",
+    "wiki/notes/The Echo That Waits.md": "c-000415",
+    "wiki/notes/The Forgotten Note.md": "c-000416",
+    "wiki/notes/The Ink-Flooder.md": "c-000417",
+    "wiki/notes/The Inkwept Gate.md": "c-000418",
+    "wiki/notes/The Lantern's Croon.md": "c-000419",
+    "wiki/notes/The Silver Veil.md": "c-000420",
+    "wiki/notes/The Spine-Womb.md": "c-000421",
+    "wiki/notes/The Whispered Trace.md": "c-000422",
+    "wiki/notes/Thyvael.md": "c-000423",
+    "wiki/notes/Tylos.md": "c-000424",
+    "wiki/notes/Tyralis.md": "c-000425",
+    "wiki/notes/Vaedoris.md": "c-000426",
+    "wiki/notes/Vaelis.md": "c-000427",
+    "wiki/notes/Valthos.md": "c-000428",
+    "wiki/notes/Varashti.md": "c-000429",
+    "wiki/notes/Varethis.md": "c-000430",
+    "wiki/notes/Varthos.md": "c-000431",
+    "wiki/notes/Varuthis.md": "c-000432",
+    "wiki/notes/Velkys.md": "c-000433",
+    "wiki/notes/Veylith.md": "c-000434",
+    "wiki/notes/Veythos.md": "c-000435",
+    "wiki/notes/Vorthys.md": "c-000436",
+    "wiki/notes/Xaltheis.md": "c-000437",
+    "wiki/notes/Xerathis.md": "c-000438",
+    "wiki/notes/Xyvaris.md": "c-000439",
+    "wiki/notes/Yltheris.md": "c-000440",
+    "wiki/notes/Ythara.md": "c-000441",
+    "wiki/notes/Ytheis.md": "c-000442",
+    "wiki/notes/Ythiris.md": "c-000443",
+    "wiki/notes/Zeraphis.md": "c-000444",
+    "wiki/notes/Zerathis.md": "c-000445",
+    "wiki/notes/Zorveth.md": "c-000446",
+    "wiki/notes/Aasimar (Lineage).md": "c-000448",
+    "wiki/notes/Bugbear (Lineage).md": "c-000449",
+    "wiki/notes/Dragonborn (Lineage).md": "c-000450",
+    "wiki/notes/Drow (Lineage).md": "c-000451",
+    "wiki/notes/Dwarf (Lineage).md": "c-000452",
+    "wiki/notes/Elf (Lineage).md": "c-000453",
+    "wiki/notes/FEARS Lineages.md": "c-000454",
+    "wiki/notes/Gnome (Lineage).md": "c-000455",
+    "wiki/notes/Goblin (Lineage).md": "c-000456",
+    "wiki/notes/Goliath (Lineage).md": "c-000457",
+    "wiki/notes/Half-Elf (Lineage).md": "c-000458",
+    "wiki/notes/Half-Orc (Lineage).md": "c-000459",
+    "wiki/notes/Halfling (Lineage).md": "c-000460",
+    "wiki/notes/Hobgoblin (Lineage).md": "c-000461",
+    "wiki/notes/Human (Lineage).md": "c-000462",
+    "wiki/notes/Orc (Lineage).md": "c-000463",
+    "wiki/notes/Sea Elf (Lineage).md": "c-000464",
+    "wiki/notes/Shadar-kai (Lineage).md": "c-000465",
+    "wiki/notes/The Ashen Testament.md": "c-000466",
+    "wiki/notes/The Broken Crown and the Cracked Fang.md": "c-000467",
+    "wiki/notes/The Burning Concord.md": "c-000468",
+    "wiki/notes/The Deep Law.md": "c-000469",
+    "wiki/notes/The Deepwater Communion.md": "c-000470",
+    "wiki/notes/The Embers Echo.md": "c-000471",
+    "wiki/notes/The Faith of the Bound Pattern.md": "c-000472",
+    "wiki/notes/The Joy Truths.md": "c-000473",
+    "wiki/notes/The Oath of the Veiled Star.md": "c-000474",
+    "wiki/notes/The Path of the First Scar.md": "c-000475",
+    "wiki/notes/The Path of the Horizon Soul.md": "c-000476",
+    "wiki/notes/The Reflection Pattern.md": "c-000477",
+    "wiki/notes/The Tide Covenant.md": "c-000478",
+    "wiki/notes/The Verdant Accord.md": "c-000479",
+    "wiki/notes/The Way of the Named.md": "c-000480",
+    "wiki/notes/The Weave Unbroken.md": "c-000481",
+    "wiki/notes/The Wonder-Tithe Codex.md": "c-000482",
+    "wiki/notes/The Woven Reverence.md": "c-000483",
+    "wiki/notes/Tiefling (Lineage).md": "c-000484",
+    "wiki/notes/Triton (Lineage).md": "c-000485",
+    "wiki/notes/Almerra.md": "c-000486",
+    "wiki/notes/Cairn.md": "c-000487",
+    "wiki/notes/Cross-Pantheon Relationships (Air).md": "c-000488",
+    "wiki/notes/Cross-Pantheon Relationships (Earth).md": "c-000489",
+    "wiki/notes/Cross-Pantheon Relationships (Fire).md": "c-000490",
+    "wiki/notes/Cross-Pantheon Relationships (Spirit).md": "c-000491",
+    "wiki/notes/Cross-Pantheon Relationships (Water).md": "c-000492",
+    "wiki/notes/Cross-Relationships of Vel'Zyren.md": "c-000493",
+    "wiki/notes/Cross-Relationships of the Eldritch.md": "c-000494",
+    "wiki/notes/Dovenna.md": "c-000495",
+    "wiki/notes/Dymora.md": "c-000496",
+    "wiki/notes/Frith.md": "c-000497",
+    "wiki/notes/Halix.md": "c-000498",
+    "wiki/notes/Hethra.md": "c-000499",
+    "wiki/notes/Kel Varyan.md": "c-000500",
+    "wiki/notes/Kyren.md": "c-000501",
+    "wiki/notes/Luthan.md": "c-000502",
+    "wiki/notes/Lyestra.md": "c-000503",
+    "wiki/notes/Nyxthys.md": "c-000504",
+    "wiki/notes/Omrith.md": "c-000505",
+    "wiki/notes/Restbringer.md": "c-000506",
+    "wiki/notes/Rhaldris.md": "c-000507",
+    "wiki/notes/Selmira.md": "c-000508",
+    "wiki/notes/Selveran.md": "c-000509",
+    "wiki/notes/Serelune.md": "c-000510",
+    "wiki/notes/Sulwen.md": "c-000511",
+    "wiki/notes/Tamsit.md": "c-000512",
+    "wiki/notes/Thar Vornhal.md": "c-000513",
+    "wiki/notes/The Ages of Dór-o Estel.md": "c-000514",
+    "wiki/notes/The Binding (The Short Memory and the Forged Faith).md": "c-000515",
+    "wiki/notes/The Burning of Sylvenmere.md": "c-000516",
+    "wiki/notes/The Echoed Mother.md": "c-000517",
+    "wiki/notes/The Fracturing.md": "c-000518",
+    "wiki/notes/The Others (Theological Spectrum).md": "c-000519",
+    "wiki/notes/The Unraveling.md": "c-000520",
+    "wiki/notes/Theroneth.md": "c-000521",
+    "wiki/notes/Torvath.md": "c-000522",
+    "wiki/notes/Tovna.md": "c-000523",
+    "wiki/notes/Undren.md": "c-000524",
+    "wiki/notes/Veltharyn.md": "c-000525",
+    "wiki/notes/Verdant Loom Calendar.md": "c-000526",
+    "wiki/notes/Vithras.md": "c-000527",
+    "wiki/notes/Wendrel.md": "c-000528",
+    "wiki/notes/Corvessa.md": "c-000529",
+    "wiki/notes/Deepstone Cantons.md": "c-000530",
+    "wiki/notes/Eight Guild Professions.md": "c-000531",
+    "wiki/notes/Elarion.md": "c-000532",
+    "wiki/notes/Islands of Eternal Green.md": "c-000533",
+    "wiki/notes/Lyrran.md": "c-000534",
+    "wiki/notes/Marshlands.md": "c-000535",
+    "wiki/notes/Mirror Chain.md": "c-000536",
+    "wiki/notes/Reedford.md": "c-000537",
+    "wiki/notes/Reflected Realms.md": "c-000538",
+    "wiki/notes/Sylvenmere.md": "c-000539",
+    "wiki/notes/Talanthar.md": "c-000540",
+    "wiki/notes/The Crimson Root Isles.md": "c-000541",
+    "wiki/notes/The Hollowdeep.md": "c-000542",
+    "wiki/notes/Thorned Concord.md": "c-000543",
+    "wiki/notes/Vashkora.md": "c-000544",
+    "wiki/notes/Virelion.md": "c-000545",
+    "wiki/notes/Zhen-Lan.md": "c-000546",
+    "wiki/notes/Arcane Rift.md": "c-000547",
+    "wiki/notes/Campaign Arcs (The Great Deceivers and Truth-Seekers).md": "c-000548",
+    "wiki/notes/Converting Monsters to DCS.md": "c-000549",
+    "wiki/notes/Dead Magic Zone.md": "c-000550",
+    "wiki/notes/Echo Glyphs.md": "c-000551",
+    "wiki/notes/Eldritch Moon Rise Procedure.md": "c-000552",
+    "wiki/notes/Fame and Infamy.md": "c-000553",
+    "wiki/notes/Geographical Zones.md": "c-000554",
+    "wiki/notes/Glyph Binding.md": "c-000555",
+    "wiki/notes/Reality Stability Score.md": "c-000556",
+    "wiki/notes/Seasonal Influencers.md": "c-000557",
+    "wiki/notes/Secondary Glyphs.md": "c-000558",
+    "wiki/notes/Session 0-1 - The River Journey.md": "c-000559",
+    "wiki/notes/Stone Ledger Compact.md": "c-000560",
+    "wiki/notes/Styles of Magic.md": "c-000561",
+    "wiki/notes/The Twilight Markets.md": "c-000562",
+    "wiki/notes/The World That Still Holds.md": "c-000563",
+    "wiki/notes/Timeless Keepers.md": "c-000564",
+    "wiki/notes/Transformation Systems.md": "c-000565",
+    "wiki/notes/Wild Magic Zone.md": "c-000566",
+    "wiki/notes/Arc 1A - The Archivist Inquisition.md": "c-000567",
+    "wiki/notes/Arc 1B - The Threadbearer's Silence.md": "c-000568",
+    "wiki/notes/Arc 2A - The Prophet of Ashes.md": "c-000569",
+    "wiki/notes/Arc 2B - The Elven Testimony.md": "c-000570",
+    "wiki/notes/Arc 2C - The Drow Revelator.md": "c-000571",
+    "wiki/notes/Arc 3A - The Architect of Souls.md": "c-000572",
+    "wiki/notes/Arc 3B - The Dragonborn Emperor.md": "c-000573",
+    "wiki/notes/Arc 4A - The Death-Rewriter.md": "c-000574",
+    "wiki/notes/Arc 4B - The Memory-Rewriter.md": "c-000575",
+    "wiki/notes/Arc 4C - The Eldritch Rewriter.md": "c-000576",
+    "wiki/notes/Natural Philosophy of Elarion.md": "c-000577"
   }
 }

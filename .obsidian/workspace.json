@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/mocs/FEARS MOC.md",
+                "file": "wiki/overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FEARS MOC"
+              "title": "overview"
             }
           }
         ]
@@ -154,30 +154,31 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "wiki/overview.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of overview"
             }
           },
           {
-            "id": "20a272e103b5d792",
+            "id": "9886484ee9b4e51a",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "agent-client-chat-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "bot-message-square",
+              "title": "New session"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,52 +191,57 @@
       "bases:Create new base": false,
       "obsidian-memos:Thino": false,
       "obsidian-memos:Thino Super": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian42-brat:BRAT": false,
+      "agent-client:Open agent client": false
     }
   },
   "active": "9e67c7ced95c3c42",
   "lastOpenFiles": [
-    "wiki/notes/World Trees.md.tmp.36452.4614d1b41a03",
-    "wiki/notes/World Trees.md.tmp.36452.f2de39ba9cea",
-    "wiki/notes/The Threadbearer Crisis.md",
-    "wiki/notes/The Threadbearer Crisis.md.tmp.36452.c55e48fdfb36",
-    "wiki/notes/Aeravae.md",
-    "wiki/notes/Aeravae.md.tmp.36452.b4e82032eadc",
-    "wiki/notes/Ashkarra.md",
-    "wiki/notes/Ashkarra.md.tmp.36452.1e19267f1676",
-    "wiki/notes/Loom-Cities.md",
-    "wiki/notes/Loom-Cities.md.tmp.36452.0bdc470cd3b1",
-    "wiki/notes/World Anchors and Thread System.md",
-    "wiki/notes/World Anchors and Thread System.md.tmp.36452.c287fafd280c",
-    "wiki/log.md.tmp.36452.9c059a629470",
-    "wiki/hot.md.tmp.36452.0742237ef208",
-    "wiki/hot.md.tmp.36452.9f5ad86e0e0d",
-    "wiki/index.md.tmp.36452.97014a0191d9",
-    "wiki/notes/Twins of Creation.md",
-    "wiki/notes/World Trees.md",
-    "wiki/notes/Threadbearers.md",
-    "wiki/notes/Loom-Wardens.md",
-    "wiki/notes/Hidden Cosmology Thread System.md",
-    "wiki/notes/Weapon Mastery System.md",
-    "wiki/notes/The Restorer.md",
-    "wiki/notes/The Whispering Dark.md",
-    "wiki/notes/Aeloria.md",
-    "wiki/notes/Astralor.md",
-    "wiki/notes/How the Five Layers Shape the Creation World.md",
-    "wiki/notes/Outlander.md",
-    "wiki/notes/Urchin.md",
-    "wiki/notes/Sailor.md",
-    "wiki/meta/lint-report-2026-07-12-post-backgrounds.md",
-    "wiki/notes/Corruption Warden.md",
-    "wiki/notes/Fracture Scout.md",
-    "wiki/notes/Pattern Keeper.md",
-    "wiki/notes/Pilgrim.md",
-    "wiki/notes/Inquisitor.md",
-    "wiki/Wiki Map.canvas",
+    "wiki/log.md.tmp.36452.48af3f2ea572",
+    "wiki/notes/Aeravae.md.tmp.36452.03d530b3badb",
+    "wiki/notes/Dór-o Estel.md.tmp.36452.8fa3b97abc5b",
+    "wiki/notes/Dór-o Estel.md.tmp.36452.881e41cccaf3",
+    "wiki/log.md.tmp.36452.dbb94739d3db",
+    "wiki/notes/World Trees.md.tmp.36452.40aaa6bcaa20",
+    "wiki/notes/Aeravae.md.tmp.36452.ce32109c84f2",
+    "wiki/notes/Aeravae.md.tmp.36452.70c24b48533c",
+    "wiki/notes/The Threadbearer Crisis.md.tmp.36452.0c408ce8432f",
+    "wiki/log.md.tmp.36452.3adf9aad4a02",
+    "wiki/mocs/Dór-o Estel Cosmology MOC.md.tmp.36452.756a06ce0997",
+    "wiki/getting-started.md",
+    "Wiki Map.md",
+    "wiki/mocs/Dór-o Estel Cosmology MOC.md",
+    "wiki/mocs/Dór-o Estel Setting & Campaign MOC.md",
+    "wiki/mocs/FEARS MOC.md",
+    "wiki/entities/Claudian-YishenTu.md",
+    "wiki/concepts/Compounding Knowledge.md",
+    "wiki/comparisons/Wiki vs RAG.md",
+    "wiki/meta/lint-report-2026-07-14.md",
+    "wiki/comparisons/claude-obsidian-ecosystem.md",
+    "wiki/canvases/main.canvas",
+    "wiki/canvases/claude-obsidian-presentation.canvas",
+    "wiki/canvases/welcome.canvas",
+    "wiki/canvases/youtube-explainer.canvas",
     "assets/social-preview.png",
     "assets/diagrams/vault-flow.svg",
-    "assets/diagrams/multi-writer-locking.svg",
     "assets/diagrams/hybrid-retrieval.svg",
-    "wiki/canvases/welcome.canvas"
+    "AGENTS.md",
+    "skills/wiki-query/SKILL.md",
+    "skills/autoresearch/SKILL.md",
+    "skills/defuddle/SKILL.md",
+    "skills/obsidian-markdown/SKILL.md",
+    "skills/wiki-fold/SKILL.md",
+    "skills/wiki-lint/SKILL.md",
+    "GEMINI.md",
+    "FEARS_Subclass_Names_and_Flavour.md",
+    "PRIVACY.md",
+    "wiki/overview.md",
+    "wiki/log.md",
+    "wiki/Wiki Map.canvas",
+    "wiki/questions/How does the LLM Wiki pattern work.md",
+    "wiki/notes/Triton (Lineage).md",
+    "wiki/notes/Natural Philosophy of Elarion.md",
+    "assets/diagrams/multi-writer-locking.svg"
   ]
 }

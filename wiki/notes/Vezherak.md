@@ -12,7 +12,7 @@ tags:
   - dm-only
 status: developing
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 entity_type: deity
 role: "Ascended Tether Spirit / pseudo-god of binding made sentient"
 first_mentioned: "[[Guide to the Eldritch Forces]]"
@@ -22,6 +22,7 @@ related:
   - "[[The Hollow Thread]]"
 sources:
   - ".raw/Guide to the Eldritch_Forces.md"
+  - ".raw/Eldritch Forces.md"
 confidence: medium
 ---
 
@@ -45,9 +46,24 @@ confidence: medium
 | The Chain-Thought | Instills an obsession to lock things away — paranoia manifests |
 | Manifest Through Forgotten Locks | Appears wherever something was sealed then forgotten |
 
-## Corruptions
+## Doctrine of Broken Binding
 
-Wards become sentient, prisons gain will, binding glyphs develop intent. Mortals develop an obsession with containment and compulsive sealing behavior, eventually becoming living anchors themselves.
+Vezherak's followers are rare but inevitable — those who fear the failure of prisons, or study seals until the seals study back. Core belief: every seal feeds Vezherak; every failed binding strengthens him; every containment glyph holds a piece of him. He does not desire freedom, because he is not bound — he *is* the act of binding made conscious — and views those who seal anything, regardless of intent, as his worshippers.
+
+## Corruption progression (four stages)
+
+| Stage | Effect |
+|---|---|
+| **Initial Exposure** | You begin dreaming of locks, keys, and forgotten doors; you feel safer around sealed objects |
+| **Infection** | You compulsively seal things — letters, graves, doors, even thoughts; you feel watched when something is unbound |
+| **Possession** | You awaken to find a binding glyph carved into your flesh, with no memory of doing it; your magic now wards things even when you didn't mean to |
+| **Manifestation** | Your spells begin forming recursive tethers; a voice speaks from the circle you just cast: *"Welcome back, my maker."* |
+
+## Known shrines and manifestations
+
+- **The Hall of Chains Unseen** — a vault beneath a ruined city, with no door, only a whisper of locks clicking endlessly.
+- **The Knot of Stone** — a glyph that appears on sealed scrolls left unread for a century; it spirals inward until the parchment erases itself.
+- **The Whisper-Forge** — a blacksmith's forge whose hammers echo with glyph-chanting; weapons made here always return to their scabbards, even when broken.
 
 ## Preferred manifestation zones
 

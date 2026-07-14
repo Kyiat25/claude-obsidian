@@ -35,6 +35,7 @@ sources:
   - "[[Evasion]]"
   - "[[Weapon Mastery System]]"
   - ".raw/Monk.md"
+  - ".raw/Class_Lore_Compendiums_DorOEstel_UPDATED.md"
 confidence: high
 ---
 
@@ -211,6 +212,14 @@ Twelfth class confirming [[Last Stand]] as universal; all three options reaffirm
 | Fluid Reversal | 2nd | A creature within 5 ft makes a melee attack | Miss: unarmed strike with advantage, DEX save (DC = Technique Save DC) or prone on hit. Hit: reduce damage by Martial Arts die + WIS mod, then unarmed strike. Against bloodied attackers: DC +2, failed save also stuns, free (no pool use) | 1 shared PB pool use |
 | Flowing Reversal | 3rd | A creature enters reach or melee-attacks | Unarmed strike; on hit, STR save (DC = Technique Save DC) or prone/pushed 10 ft (Monk's choice); move 10 ft without provoking if triggered by reach-entry. Against bloodied: push 20 ft, failed save also −10 ft speed for 1 minute + disadvantage standing up | 1 shared PB pool use |
 | Perfect Counter | 11th | Evasion roll beats a melee/ranged attack by 5+ | Teleport adjacent to the attacker, two unarmed strikes with advantage; both hit: 1 more pool use stuns until Monk's next turn. Against bloodied: free (no pool use), auto-crit below 25% HP, Stunning Strike usable without extra TP | 1 shared PB pool use (+1 to stun) |
+
+## Mythology & Cultural Lore (from the Class Lore Compendium)
+
+*"Body-Masters: Those Who Perfect the Self."* Monks emerged from a simple observation — mortals are born weak but can become strong without limit. The **Ascetic Rebellion** (First Age) terrified religious authorities: monks demonstrating water-walking, stone-breaking bare hands, and surviving without food, proving enlightenment required neither gods nor glyphs. The Faith of the Bound Pattern couldn't integrate monks — they refuse divine authority, use no glyphs, sit entirely outside the Thread system — so it simply buried them: monasteries "closed," masters "retired." It didn't work, because monastic knowledge is embodied in muscle memory and breath control, not books that can be burned.
+
+**Source of Power (DM truth):** What monks call "ki" is their own interpretation of the [[Personal Glyphs]] — the Fundamental Force governing individual will and self-determination. Physical discipline lets a monk rewrite their own personal reality, editing their own source code through the body itself. Master monks don't transcend mortality; they redefine what "mortal" means.
+
+**Philosophy**, from "The Manual of Self-Perfection": *"The wizard says: study glyphs, cast spells, reshape reality. The cleric says: pray to gods... We say: become. Not become something. Just become... My body is weapon. My breath is spell. My discipline is armor. I need nothing external because everything necessary exists within."*
 
 ## See also
 

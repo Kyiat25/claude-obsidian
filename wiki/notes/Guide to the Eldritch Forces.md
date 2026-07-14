@@ -13,7 +13,7 @@ tags:
   - canonical
 status: developing
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 related:
   - "[[Nhal'Zereth]]"
   - "[[Ith'Quess]]"

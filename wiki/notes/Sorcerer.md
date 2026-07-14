@@ -27,6 +27,7 @@ sources:
   - "[[Class_breakdown]]"
   - "[[Classes_Summary]]"
   - ".raw/Sorcerer.md"
+  - ".raw/Class_Lore_Compendiums_DorOEstel_UPDATED.md"
 confidence: high
 ---
 
@@ -181,6 +182,18 @@ Unlike every other class, this source never groups its reactions under a single 
 | Volatile Aura | 3rd | Damage from any source | Elemental Retaliation, Momentum Surge (+2 Momentum), or Arcane Echo | Yes, explicit |
 | Arcane Intercept | 4th | A visible creature casts a spell targeting another | Redirect (1 SP) or cancel (2 SP, gain temp SP) | Yes, explicit |
 | Metaflux Veil | 7th | Damage from a visible spell | 1 SP; Deflect (half) or Charge (quarter + temp SP) | Not in feature text (only in summary table) |
+
+## Mythology & Cultural Lore (from the Class Lore Compendium)
+
+*Bloodline-Touched: Those Born With Power Running Through Their Veins.*
+
+When Astralor wove the nine Fundamental Forces into reality, some mortals were born with fragments of those forces already embedded in their souls — not learned, not granted, but inherited. The First Age's Sorcerous Houses cultivated distinct bloodline types (Dragon-Blooded, Fey-Touched, Shadow-Born, Divine-Sparks, Elemental-Veined) through selective breeding, most infamously the Sorcerous Emperors — a dragonborn dynasty that ruled Ashkarra entirely through inherited fire-magic, concentrating power in a single lineage until the city's fall scattered or destroyed it. The Fourth Age's Thread instability now triggers spontaneous sorcerous manifestation in mortals with no magical ancestry at all, a crisis for any society that tried to regulate magic as a bloodline-inheritable resource.
+
+**Source of Power (DM truth):** Sorcerers believe their power is literally genetic — cosmic fragments diluted but never eliminated across generations. In truth, sorcerous "bloodlines" are karmic rather than biological: sorcerers inherit metaphysical patterns, echoes of cosmic forces their ancestors touched, carried in the soul rather than the blood. When a sorcerer manifests power, they access ancestral memory embedded in spirit — which is why sorcery can theoretically manifest in anyone whose soul carries sufficient cosmic imprint, explaining the Fourth Age's spontaneous awakenings independent of known lineage.
+
+**Legendary figures:** The Sorcerous Emperors, the dragonborn dynasty whose every ruler was born sorcerer, concentrating inherited fire-magic into a single bloodline that governed Ashkarra until its fall.
+
+*"I didn't ask for this. Didn't earn it. Didn't deserve it. I was simply born with fire in my veins and lightning in my heart... I didn't choose magic. Magic chose me. And I'll spend my life proving I'm worthy of that choice."* — The Sorcerer's Burden
 
 ## See also
 

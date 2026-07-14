@@ -32,6 +32,7 @@ sources:
   - "[[Classes_Summary]]"
   - "[[Bloodied Breaking Points Rally]]"
   - ".raw/Warlock.md"
+  - ".raw/Class_Lore_Compendiums_DorOEstel_UPDATED.md"
 confidence: high
 ---
 
@@ -167,6 +168,18 @@ Draws from the shared **Proficiency Bonus pool**, refreshing short/long rest, no
 
 - **[[Called Shot]]**: **Chaos Shot** invocation reduces the Called Shot penalty by 1 when delivered via Eldritch Blast; on a success, the target also gets disadvantage on its next Evasion roll or area-effect save — a new invocation-gated access route, distinct from the already-documented Hexblade subclass hook.
 - **[[Momentum]]**: Darkness Veil's miss-triggered **+1 Momentum to the protected target** (self or ally) is a new shape — Momentum awarded to whoever was defended, not to the Warlock casting the reaction, distinct from every self-directed or attacker-penalizing trigger seen so far.
+
+## Mythology & Cultural Lore (from the Class Lore Compendium)
+
+*Pact-Bound: Those Who Trade Soul for Power.*
+
+Warlocks emerged from a simple, terrible bargain: powerful entities want mortal servants, mortals want power, and trade is always possible. Patron types range from capricious Archfey to soul-collecting Fiends, sanity-destroying Great Old Ones, service-demanding Celestials, and environmentally-obligated Primordials — each granting a different flavor of power at a different cost. The Thirteen Doomed, the first recorded warlocks, attempted to serve thirteen patrons simultaneously and went mad within days, their screaming leaving a permanent audio-echo at the pact-site still audible 4,000 years later. At Ashkarra's Fall, warlocks who tried to break their pacts en masse — reasoning the city's destruction voided all contracts — found their patrons simply relocated the survivors and continued collecting.
+
+**Source of Power (DM truth):** Warlock pacts create a karmic exchange — mortals trade their future (soul, service, freedom) for present power, knowledge, or ability, while patrons access the mortal world through the connection the warlock provides. This makes warlocks living bridges between planes, neither fully mortal nor fully spiritual, and — unlike most classes — their power largely bypasses the Thread system and Glyph layers entirely, flowing directly from patron to servant instead.
+
+**Legendary figures:** The Thirteen Doomed, whose attempt to bind thirteen patrons simultaneously drove them to madness within days and left a permanent scream-echo at their pact-site.
+
+*"They judge us for selling souls. But everyone sells something. Time. Freedom. Integrity. We're just honest about transaction... when Thread system fails and gods go silent, my patron still answers... At least I read the fine print."* — The Pact-Holder's Truth
 
 ## See also
 

@@ -12,7 +12,7 @@ tags:
   - dm-only
 status: developing
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 related:
   - "[[How the Five Layers Shape the Creation World]]"
   - "[[Weave and Magic]]"
@@ -22,6 +22,7 @@ related:
 sources:
   - ".raw/Weave and Magic.md"
   - ".raw/Weave of Creation.md"
+  - ".raw/Saga of the Glyphs.md"
 ---
 
 # Universal Glyphs
@@ -37,6 +38,19 @@ Second-Law Glyphs that don't shape the Creation World directly but keep whatever
 | **The Glyph of Dreaming** (The Lantern Below) | Seeds new leylines through vision, prophecy, or subconscious creation — paths imagined before they're real |
 
 None of these five forces directly interfere in mortal affairs, but their presence ensures no single power can dominate magic entirely. [[Veiled Star]] is explicitly linked to (but distinct from) this layer — described as "the reason those Glyphs do not destroy those who bear them," particularly Shadows/Veiled Hand, Dreaming/Lantern, and Understanding.
+
+## Minor variations
+
+Per `Saga of the Glyphs.md`, even the hidden, unseen Universal Glyphs adapt their expression by context rather than splitting into a wholly separate glyph tier:
+
+| Primary Glyph | Minor variation | Purpose |
+|---|---|---|
+| **Glyph of Understanding** (Truth & Secrets) | Glyph of Memory | Ensures memories linger, even in forgotten minds |
+| | Glyph of Lost Knowledge | Secrets deliberately erased — forbidden history, hidden runes |
+| **Glyph of Life** (Instinct & Growth) | Glyph of Ferocity | Ensures warriors and predators thrive through instinct |
+| | Glyph of Harmony | Ensures cooperation and coexistence flourish instead of conflict |
+| **Glyph of Motion** (Equilibrium & Time) | Glyph of Change | Ensures progress is driven by innovation rather than force |
+| | Glyph of Eternal Return | Governs cyclical patterns — historical repetition, reincarnation loops |
 
 ## See also
 

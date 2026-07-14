@@ -12,7 +12,7 @@ tags:
   - dm-only
 status: developing
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 entity_type: phenomenon
 role: "Eldritch Moon — total obfuscation"
 first_mentioned: "[[Guide to the Eldritch Forces]]"
@@ -22,6 +22,7 @@ related:
   - "[[Nhal'Zereth]]"
 sources:
   - ".raw/Guide to the Eldritch_Forces.md"
+  - ".raw/Eldritch Moons.md"
 confidence: medium
 ---
 
@@ -44,6 +45,10 @@ No visible orb; the world simply forgets what light does. Possibly an impossible
 ## Madness
 
 Short-term: discomfort with illumination. Long-term: phobia of faces, especially one's own. Indefinite: belief a shadow not one's own must be obeyed.
+
+## Glyph interactions and resistance
+
+Illusion Glyphs become self-referential, looping or spawning identical decoy casters that act semi-independently; Spirit Glyphs tied to truth, memory, or rest flicker or cause nightmares; Universal Glyphs begin unraveling local definitions of up, real, and next. The Fate-Weaver's threads are cut off entirely, making prophecy and augury fail; the Earth Pantheon's sealing glyphs hold but resonate with low-frequency vibrations like a distant breath against stone; Ceymarn, the Whisper-Vigil, stands vigil at shadowgates trying to contain what stirs beneath reflection.
 
 ## Campaign use
 

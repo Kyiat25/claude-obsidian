@@ -2,7 +2,9 @@
   "obsidian-banners",
   "calendar",
   "thino",
-  "calendar-beta",
   "obsidian-memos",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian42-brat",
+  "semantic-vault-mcp",
+  "agent-client"
 ]

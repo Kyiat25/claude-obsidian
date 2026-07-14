@@ -12,7 +12,7 @@ tags:
   - dm-only
 status: developing
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 related:
   - "[[Guide to the Eldritch Forces]]"
   - "[[The Null Reflection]]"
@@ -20,6 +20,7 @@ related:
   - "[[The Hollow Thread]]"
 sources:
   - ".raw/Guide to the Eldritch_Forces.md"
+  - ".raw/Eldritch Moons.md"
 ---
 
 # Eldritch Moons
@@ -51,6 +52,8 @@ Not celestial bodies — Weave-wounds, lunar overlays, echoes of impossible orbi
 
 > [!contradiction] Fourteen full profiles, twelve chronological entries
 > The source's own "Detailed Moon Profiles" section gives full write-ups to **fourteen** moons — the twelve above, plus [[Weeping Waxing]] and [[False Dawn]] — but neither of those two appears in the chronological "Twelve Eldritch Moons" table. Both are documented on their own pages regardless, flagged as a source-internal inconsistency rather than silently folded into (or excluded from) the twelve.
+
+A closely-related second source, `Eldritch Moons.md`, restates all fourteen moons with deeper mechanical detail — full "World Effects," "Monster Effects," and "Madness" tables (already reflected on each moon's page from the first source) plus two subsections the first source lacked: **Glyph Interactions** (how each moon warps a specific Glyph category) and **Divine & Mythic Response** (how named Pantheon figures react). Both have now been folded into all 14 individual moon pages under a "Glyph interactions and resistance" heading.
 
 ## The Ashkarra Convergence
 

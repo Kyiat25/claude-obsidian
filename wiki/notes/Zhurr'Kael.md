@@ -12,7 +12,7 @@ tags:
   - dm-only
 status: developing
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 entity_type: deity
 role: "Eldritch God of self-consuming logic"
 first_mentioned: "[[Guide to the Eldritch Forces]]"
@@ -58,6 +58,10 @@ Mathematics stops working correctly; logical arguments lead to impossible conclu
 | 2 (5-10) | University where logic fails |
 | 3 (11-16) | City where geometry doesn't work |
 | 4 (17-20) | Fundamental laws of reality become inconsistent |
+
+## Unwitting agent: Thalanis the Void-Scholar
+
+Per [[Arc 4C - The Eldritch Rewriter|Campaign Arc 4C]], a wizard named Thalanis is infected with Zhurr'Kael corruption and genuinely cannot perceive it — his "upgraded mathematics" are Zhurr'Kael thought-loops, and his happy, transformed followers are caught in the same self-consuming logic mistaken for enlightenment.
 
 ## See also
 

@@ -12,7 +12,7 @@ tags:
   - dm-only
 status: seed
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 entity_type: phenomenon
 role: "Eldritch Moon — illusory hope"
 first_mentioned: "[[Guide to the Eldritch Forces]]"
@@ -21,6 +21,7 @@ related:
   - "[[Guide to the Eldritch Forces]]"
 sources:
   - ".raw/Guide to the Eldritch_Forces.md"
+  - ".raw/Eldritch Moons.md"
 confidence: low
 ---
 
@@ -44,6 +45,10 @@ Appears as a premature sunrise with soft amber-gold light, feeling warm, hopeful
 ## Madness
 
 Short-term: confusion between past and future. Long-term: emotional detachment, belief that this is a dream. Indefinite: worship of False Dawn as a benevolent god.
+
+## Glyph interactions and resistance
+
+Glyphs of restoration, healing, and purity behave as though empowered, functioning above their spell level — but anything empowered by the False Dawn destabilizes at sunrise (cure wounds reopens the injury, sanctuary becomes entrapment, raise dead may succeed but return the wrong soul); illusions become "sticky," persisting even after being dispelled. The Goddess of Magic is absent, spellcasters feeling as if the Weave scripts itself through their hands; the Echoed Mother cannot recognise the souls that return, unable to reincarnate what was not truly dead; [[Mirag'Nael]] is suspected to have written the False Dawn into the sky as a test of narrative loyalty.
 
 ## Campaign use
 

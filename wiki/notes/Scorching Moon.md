@@ -12,7 +12,7 @@ tags:
   - dm-only
 status: developing
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 entity_type: phenomenon
 role: "Eldritch Moon — heat without source"
 first_mentioned: "[[Guide to the Eldritch Forces]]"
@@ -21,6 +21,7 @@ related:
   - "[[Guide to the Eldritch Forces]]"
 sources:
   - ".raw/Guide to the Eldritch_Forces.md"
+  - ".raw/Eldritch Moons.md"
 confidence: medium
 ---
 
@@ -43,6 +44,10 @@ All natural heat increases with no source; campfires and torches go cold even as
 ## Madness
 
 Short-term: the sensation of being watched from within one's own skin. Long-term: an obsession with purging "the impure." Indefinite: belief the world is always burning and comfort is illusion.
+
+## Glyph interactions and resistance
+
+Fire Glyphs grow uncontrollably — casting one may involuntarily ignite nearby glyphs in a chain reaction; radiant spells (moonbeam, sunburst) may blind the caster or cause feedback burns; a dangerous mutation of Fireball known as the Scorch-Sphere can erupt on a miscast, embedding burning glyphs into stone. [[Vaeldros]], the Ash-Warden, goes inert, his shrines glowing with internal heat but no longer answering prayer; [[Zerah]], Ember-Mother of Fire, weeps fire glyphs from her eyes; Seralyne, Blade of Threads, cannot stabilize burning leylines, which pulse with anger and begin cutting into time itself.
 
 ## Campaign use
 

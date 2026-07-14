@@ -14,7 +14,7 @@ tags:
   - pantheon
 status: developing
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 related:
   - "[[How the Five Layers Shape the Creation World]]"
   - "[[Hidden Cosmology Thread System]]"
@@ -56,8 +56,10 @@ They are explicitly **not allies and not opposites** — "two forces acting upon
 
 This source is emphatic that the two-force cosmology — Astralor builds, Aeloria refines, together they set the course of reality — is the *only* story mortals or gods ever receive, and states outright this is an illusion, not merely an incomplete theology. The real number of forces shaping existence is four.
 
-> [!contradiction] Does Aeloria know everything, or is she blind to two of the four forces?
-> [[Hidden Cosmology Thread System]] states plainly, under a heading literally reading **"Aeloria (The Keeper of Fate) - ONLY SHE KNOWS EVERYTHING"**: she knows the complete cosmic structure, "[[The Whispering Dark]]'s nature and function," and "[[The Restorer]]'s existence (though she may not fully comprehend it)." This source says the **opposite** on both points: "She does not know that [[The Restorer]] exists," and "She does not know that [[The Whispering Dark]] does more than merely consume." It goes further — she "assumes that all outcomes are shaped by her and her brother alone," and when she notices things that "should have been erased" reappearing (the Restorer's actual work), she questions it without ever considering a third force might be responsible. This is a direct, specific factual reversal between two sources about the exact same character, not a matter of interpretation. Neither source's frontmatter status (`canonical` vs. `complete`) offers an obvious tie-breaker in the other direction this time, since this source is *also* `complete`, same as the first. Flagged prominently, not resolved — a GM will need to pick one.
+> [!contradiction] RESOLVED — Does Aeloria know everything, or is she blind to two of the four forces?
+> [[Hidden Cosmology Thread System]] states plainly, under a heading literally reading **"Aeloria (The Keeper of Fate) - ONLY SHE KNOWS EVERYTHING"**: she knows the complete cosmic structure, "[[The Whispering Dark]]'s nature and function," and "[[The Restorer]]'s existence (though she may not fully comprehend it)." This source says the **opposite** on both points: "She does not know that [[The Restorer]] exists," and "She does not know that [[The Whispering Dark]] does more than merely consume." It goes further — she "assumes that all outcomes are shaped by her and her brother alone," and when she notices things that "should have been erased" reappearing (the Restorer's actual work), she questions it without ever considering a third force might be responsible. This is a direct, specific factual reversal between two sources about the exact same character, not a matter of interpretation. Neither source's frontmatter status (`canonical` vs. `complete`) offered an obvious tie-breaker, since this source is *also* `complete`, same as the first.
+>
+> **Ruled (2026-07-14):** this source's account is adopted as this vault's canon, judged the most accurate — backed 3-of-5 by [[Creation World]] and [[Creations Misunderstanding]] independently telling the same specific detail. Aeloria does **not** know the Restorer exists, does not understand the Whispering Dark's true nature, and believes she and Astralor alone shape all outcomes. See [[Aeloria]], [[Hidden Cosmology Thread System]], and [[The Weave]] for the same ruling applied across the cluster.
 
 ## The hidden forces, and a third account of who knows what
 

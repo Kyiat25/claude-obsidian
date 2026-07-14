@@ -31,6 +31,7 @@ sources:
   - "[[Classes_Summary]]"
   - "[[Class_breakdown]]"
   - ".raw/Apothecary.md"
+  - ".raw/Class_Lore_Compendiums_DorOEstel_UPDATED.md"
 confidence: high
 ---
 
@@ -199,6 +200,18 @@ All draw on the shared PB pool (refresh short/long rest, 1/round cap, OA-exempt)
 
 Full framework and cross-class table on [[Class Reactions]].
 
+## Mythology & Cultural Lore (from the Class Lore Compendium)
+
+*Masters of Desperate Science: Those Who Turn Chemistry Into Miracles.*
+
+Apothecaries trace their lineage to the Loomless Time, when early practitioners found chemistry more reliable than prayer ("The Empirical Oath"). Mira Blackvial's discovery of cauterization-via-explosion during the First Age's Plague of Rotting Dreams established the profession's empirical credibility against clerical suspicion, and the Second Age's Caustic Uprising proved apothecary chemistry could produce weapons even celestials feared. At Ashkarra's Fall, hundreds of apothecaries died in the "Burning Laboratories," attempting to chemically contain Eldritch corruption — a sacrifice that, alongside the Fourth Age's Thread instability vindicating their materialist philosophy ("chemistry endures where magic fails"), cemented the class's reputation as reality's most stubborn empiricists.
+
+**Source of Power (DM truth):** Apothecaries believe their power flows from natural law alone — chemistry, not magic. In truth, chemistry *is* magic under a different description: the [[Universal Glyphs]] governing magical forces are the same laws governing molecular bonds and reaction rates, which is why Thread instability degrades chemistry too, just more slowly. Apothecaries channel magic unconsciously through empirical method instead of mystical tradition — their formulas are spells written in molecular language, their materialist rejection of the supernatural is itself a kind of faith in cosmic order, and their dismissal of mysticism makes them, unknowingly, reality's philosophers.
+
+**Legendary figures:** Mira Blackvial, whose cauterization-via-explosion discovery during the Plague of Rotting Dreams established apothecary medicine as a serious discipline against clerical opposition.
+
+*"They call themselves mages. Priests. Miracle-workers... I call myself chemist. Claim nothing except knowledge... When their magic fails... my formulas work. Because chemistry follows law... It just works. Always. If you understand it. And I understand it perfectly."* — The Empirical Manifesto, Anonymous, Kel Varyan Academy
+
 ## See also
 
 - [[Narrative Identity]]
@@ -213,4 +226,5 @@ Full framework and cross-class table on [[Class Reactions]].
 - [[Unstable Magic Zones]]
 - [[Last Stand]]
 - [[Class Reactions]]
+- [[Universal Glyphs]]
 - [[FEARS MOC]]

@@ -35,6 +35,7 @@ sources:
   - "[[Cleric]]"
   - "[[Reaper]]"
   - "[[Sangromancer]]"
+  - ".raw/Corruption.md"
 ---
 
 # Corruption

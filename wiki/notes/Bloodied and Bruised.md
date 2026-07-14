@@ -21,6 +21,8 @@ related:
   - "[[Momentum]]"
 sources:
   - "[[Bloodied Breaking Points Rally]]"
+  - ".raw/Bloodied & Bruised - DCS Integration Guide.md"
+  - ".raw/The Bloodied System.md"
 ---
 
 # Bloodied and Bruised

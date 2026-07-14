@@ -24,6 +24,7 @@ sources:
   - "[[Welcome to FEARS]]"
   - "[[Eldritch Moons in Combat]]"
   - "[[Fracture Whispers]]"
+  - ".raw/The Whisper Engine.md"
 ---
 
 # Whisper Engine

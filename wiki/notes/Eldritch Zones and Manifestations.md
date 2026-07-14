@@ -12,7 +12,7 @@ tags:
   - dm-only
 status: developing
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 related:
   - "[[Guide to the Eldritch Forces]]"
   - "[[Unstable Magic Zones]]"

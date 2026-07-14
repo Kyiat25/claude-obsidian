@@ -12,7 +12,7 @@ tags:
   - dm-only
 status: developing
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Setting & Campaign MOC]]"
 entity_type: role
 role: "mortal Thread-channelers, unknowing cosmic touchpoints"
 first_mentioned: "[[Hidden Cosmology Thread System]]"

@@ -14,7 +14,7 @@ tags:
   - campaign-setting
 status: developing
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Setting & Campaign MOC]]"
 related:
   - "[[World Anchors and Thread System]]"
   - "[[Ashkarra]]"
@@ -23,6 +23,7 @@ related:
   - "[[The Threadbearer Crisis]]"
 sources:
   - ".raw/World Anchors and Thread System.md"
+  - ".raw/Dór-o Estel.md"
 ---
 
 # Loom-Cities
@@ -33,13 +34,13 @@ The five cities built around a World Anchor, plus three regions that deliberatel
 
 | City | Anchor / Thread theme | Government | Faith influence |
 |---|---|---|---|
-| **Kel Varyan** | Oldest and most stable Anchor; maritime trade hub | Imperial Monarchy | Strong — seat of Faith of the Bound Pattern orthodoxy |
-| **Veltharyn** | Volcanic, Fire-leaning Anchor | Dwarf Confederation | Moderate — Deep Law coexists alongside Faith doctrine |
-| **Thar Vornhal** | Stone-cut Anchor, judicial symbolism | Judicial Republic | Moderate — law-focused, doctrine treated as precedent |
-| **Aeravae** | Unique hybrid Anchor/World Tree ("the Echo-Cenote") — see [[Aeravae]] | Matrilineal Monarchy | Cooperative — no single tradition dominates |
-| **Selveran** | Anchor bound to the World Tree Skywood | Elven governance | Weak — Woven Reverence dominant, Faith tolerated not embraced |
+| **[[Kel Varyan]]** | Oldest and most stable Anchor; maritime trade hub | Imperial Monarchy (Prophetic Bureaucracy) | Strong — seat of Faith of the Bound Pattern orthodoxy |
+| **[[Veltharyn]]** | Volcanic, Fire-leaning Anchor | Dwarf Confederation (Forge-Caste System) | Moderate — Deep Law coexists alongside Faith doctrine |
+| **[[Thar Vornhal]]** | Stone-cut Anchor, judicial symbolism | Judicial Republic (Council of Seven Hammers) | Moderate — law-focused, doctrine treated as precedent |
+| **[[Aeravae]]** | Unique hybrid Anchor/World Tree ("the Echo-Cenote") | Matrilineal Monarchy | Cooperative — no single tradition dominates |
+| **[[Selveran]]** | Anchor bound to the World Tree Skywood | Circle of Remembrance (Memory Law) | Weak — Woven Reverence dominant, Faith tolerated not embraced |
 
-Kel Varyan currently holds special narrative weight: it is the site of the sole surviving Threadbearer following the assassination wave — see [[The Threadbearer Crisis]].
+Kel Varyan currently holds special narrative weight: it is the site of the sole surviving Threadbearer following the assassination wave — see [[The Threadbearer Crisis]]. All five now have dedicated pages (2026-07-14) with full population figures, architecture, government structure, and dominant-class integration, drawn from `Dór-o Estel.md`'s comprehensive world-bible source.
 
 ## Outside the Anchor system
 

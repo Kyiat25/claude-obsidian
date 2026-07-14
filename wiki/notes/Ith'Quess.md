@@ -12,7 +12,7 @@ tags:
   - dm-only
 status: developing
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 entity_type: deity
 role: "Eldritch God of rewritten biology"
 first_mentioned: "[[Guide to the Eldritch Forces]]"

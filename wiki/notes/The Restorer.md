@@ -12,7 +12,7 @@ tags:
   - dm-only
 status: seed
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 entity_type: deity
 role: "Primal Force — the Wheel"
 first_mentioned: "[[How the Five Layers Shape the Creation World]]"
@@ -32,6 +32,7 @@ sources:
   - ".raw/Hidden Cosmology Thread System.md"
   - ".raw/Twins of Creation.md"
   - ".raw/Creation World.md"
+  - ".raw/The Restorer.md"
 confidence: medium
 ---
 
@@ -39,8 +40,10 @@ confidence: medium
 
 One of four **Primal Forces** shaping the [[Creation World]] (see [[How the Five Layers Shape the Creation World]]), embodying **the Wheel** and **the Glyph of Echoes**. Like the other three, does not know the Creation World exists or watch it directly.
 
-> [!contradiction] The most aware force in the cosmology, per Twins of Creation — contradicting the "symmetric ignorance" framing
-> [[Twins of Creation]] elevates the Restorer above every other Primal Force, [[Aeloria]] included: **"the only force that sees the entire pattern."** It doesn't interfere, doesn't challenge, doesn't care — it simply ensures nothing is ever truly lost, and in doing so shapes the whole cycle in ways neither [[Astralor]] nor [[Aeloria]] will ever comprehend. This directly displaces [[Hidden Cosmology Thread System]]'s claim that Aeloria is the one who "knows everything" — see [[Twins of Creation]] for the full three-source comparison. Not resolved.
+> [!contradiction] RESOLVED — The most aware force in the cosmology, per Twins of Creation — contradicting the "symmetric ignorance" framing
+> [[Twins of Creation]] elevates the Restorer above every other Primal Force, [[Aeloria]] included: **"the only force that sees the entire pattern."** It doesn't interfere, doesn't challenge, doesn't care — it simply ensures nothing is ever truly lost, and in doing so shapes the whole cycle in ways neither [[Astralor]] nor [[Aeloria]] will ever comprehend. This directly displaced [[Hidden Cosmology Thread System]]'s claim that Aeloria is the one who "knows everything."
+>
+> **Ruled (2026-07-14):** [[Twins of Creation]]'s account is adopted as canon (backed 3-of-4 by [[Creation World]] and [[Creations Misunderstanding]]). The Restorer is confirmed as this cosmology's most-aware Primal Force — see [[Aeloria]], [[Hidden Cosmology Thread System]], and [[The Weave]] for the full resolved comparison.
 
 ## Domain
 

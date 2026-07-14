@@ -32,6 +32,7 @@ sources:
   - "[[Class_breakdown]]"
   - "[[Dynamic Combat System (DCS)]]"
   - ".raw/Magus.md"
+  - ".raw/Class_Lore_Compendiums_DorOEstel_UPDATED.md"
 confidence: high
 ---
 
@@ -188,6 +189,14 @@ Draws from the shared **Proficiency Bonus pool**, refreshing short/long rest —
 | Adaptive Mind | 11th | Hit by an attack | Reduce that attack's Momentum loss by 1 (min 0) | PB uses **per short rest** (its own cadence, distinct from the pool's short-or-long-rest refresh) |
 
 **New Momentum interaction**: Adaptive Mind is the second confirmed Momentum-loss-mitigation reaction after [[Cleric]]'s Ward of Faith — but where Cleric's protects an *ally* within 30 ft, Adaptive Mind protects the Magus *themself*, the first self-directed version of this exact mechanic shape.
+
+## Mythology & Cultural Lore (from the Class Lore Compendium)
+
+*"Spell-Blades: Those Who Unite Steel and Sorcery."* Magi emerged from a rejection of a false dichotomy — the first practitioners simply refused to choose between sword and spell. Elven **Blade-Singers** perfected combat-as-art with magic-as-movement; Dwarven **Rune-Smiths** developed a parallel tradition of weapons that stored spells for release through strikes. Elf **Arannis Spell-Strike** defeated the legendary fighter Kara Ironbreaker through superior integration, proving mixed discipline could transcend pure specialization. Ashkarra's Fall devastated the tradition — the Dragonborn Empire's thousands of fire-specialist **Flame-Blades** mostly died in the collapse, their techniques scattered and forgotten.
+
+**Source of Power (DM truth):** Magi unconsciously access the [[Universal Glyphs]] — the Fundamental Force governing connection and relationship. True integration isn't learning two separate skills; it's discovering the single skill that underlies both magic and martial art, approaching the same cosmic operating system from two directions until a back door opens between them.
+
+**Philosophy**, from "The Path of Integration": *"They say specialization is strength. I say: specialization is weakness disguised as expertise... The spell-gesture becomes the sword-strike. The blade-form becomes the incantation. Movement is magic. Magic is movement. At highest level, there's no difference... Then you transcend both. Then you become magus."*
 
 ## See also
 

@@ -33,6 +33,7 @@ sources:
   - "[[Four Threads of the Mind]]"
   - "[[Sanity & Focus in Combat]]"
   - "[[Fracture Whispers]]"
+  - ".raw/Focus.md"
 ---
 
 # Focus
@@ -48,6 +49,10 @@ Every spell cast in chaos tests a **Focus Save**. At **0 Focus**, a character is
 ## Focus Pool (confirmed, from Sanity & Focus in Combat)
 
 Beyond the Focus *stat* (mental-triad attribute) above, Focus is also FEARS's primary reaction/tactical **currency**, spent to power Reactions, class abilities, or resist certain effects. **Max Focus = 3**, unless modified by class/feat/trait — the first concrete cap given for this pool. Gained by: dropping an enemy (+1), Critical Hit (+1), regaining a Momentum tier (+1), passing a [[Fracture Save]] (+1), Sanity Stabilization (+1). An optional toggle (Momentum Synergy) raises the cap by +1 per 3 [[Momentum]]. Full detail on [[Sanity & Focus in Combat]]. [[Fracture Whispers]]'s Fracture Table can also drain this pool entirely (Weep Unseen: lose all Focus, can't regain it for 1 minute) — the clearest confirmed example of a failed Fracture Save costing Focus, not just Sanity. **[[Druid]]**'s Draw Power spends 1 Focus (alongside 1 Wild Shape use) to recover an expended spell slot — a direct class-specific draw against this pool, on top of its existing Reaction/tactical-currency uses.
+
+## Threshold table and generation (from a dedicated `Focus.md` player-guide source)
+
+A previously-untracked standalone source, structurally parallel to [[Sanity]]'s own dedicated guide, gives Focus the same treatment: point-buy generation (`10 + class primary/spellcasting modifier + CON modifier`), and a 5-tier threshold table — **13-20 Steady** (no effect), **9-12 Strained** (disadvantage on Focus saves under active spellcasting/chaos), **5-8 Fragmenting** (disadvantage on all Focus checks/saves, concentration breaks on damage), **1-4 Splintered** (auto-fail Wild Magic control, glyphs backlash on touch), **0 Collapsed** (cannot cast; Sanity Save or gain Corruption + Trauma) — with its own d6 Mental Disruptions table (Arcane Reverb, Glyph Flicker, Fractal Confusion, Memory Echo, Surge Pulse, Shatter Pulse) rolled on failure. This gives the previously-DC-less Focus Save from [[Four Threads of the Mind]] a concrete guideline: `8 + CR or Zone Rating` (Chaotic Spell Discharge 10-12, Wild Magic Pulse 13-15, Eldritch Spell Glyph 16-18, Dead Zone Anchor Collapse 20+) — not explicitly reconciled with [[Druid]]'s `1d20 + WIS` concentration-check formula, but compatible as a different named roll (Save vs. check).
 
 ## Provenance note
 

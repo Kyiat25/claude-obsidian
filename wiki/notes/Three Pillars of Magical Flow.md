@@ -11,13 +11,13 @@ tags:
   - dm-only
 status: developing
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 related:
   - "[[Leylines]]"
   - "[[Wells of Power]]"
   - "[[Astral Conduits]]"
   - "[[Earth Pantheon]]"
-  - "[[Faith of the Bound Pattern]]"
+  - "[[The Faith of the Bound Pattern]]"
   - "[[Vel'Zyren]]"
   - "[[Personal Glyphs]]"
   - "[[Form Glyphs]]"

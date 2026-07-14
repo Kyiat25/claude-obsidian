@@ -11,6 +11,7 @@ tags:
 status: developing
 mocs:
   - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 complexity: intermediate
 domain: fears
 related:
@@ -50,18 +51,20 @@ The cosmological force underlying fate and magic in the FEARS setting. Reference
 
 [[How the Five Layers Shape the Creation World]] is the first source to actually structure the Weave rather than gesture at it. It describes five interlocking "Layers": Primal Glyphs (embodied by four Primal Forces — [[Astralor]], [[Aeloria]], [[The Whispering Dark]], [[The Restorer]]), Universal Glyphs, Elemental Glyphs, Form Glyphs, and Personal Glyphs, all shaping a "Creation World" proving-ground where new realities are tested before becoming permanent. Its own "Final Truth" is that none of the five Layers — including the four Primal Forces — realize they're secretly one connected design.
 
-> [!contradiction] Does the Weave watch, or is it blind? And who, if anyone, actually knows?
-> [[Four Threads of the Mind]] personifies the Weave with apparent will and awareness — "The Weave watches. The Weave waits," and it "may mark you" for being Blessed while Corrupted. Three DM-only cosmology sources since then have each given a *different* answer to who (if anyone) actually has that awareness:
+> [!contradiction] RESOLVED — Does the Weave watch, or is it blind? And who, if anyone, actually knows?
+> [[Four Threads of the Mind]] personifies the Weave with apparent will and awareness — "The Weave watches. The Weave waits," and it "may mark you" for being Blessed while Corrupted. Three DM-only cosmology sources since then had each given a *different* answer to who (if anyone) actually has that awareness:
 >
 > | Source | Who knows the most | Framing |
 > |---|---|---|
 > | [[How the Five Layers Shape the Creation World]] | No one | Symmetric ignorance across all 4 Primal Forces / 5 Layers |
-> | [[Hidden Cosmology Thread System]] | [[Aeloria]] | Deliberate, near-total, self-concealed omniscience |
-> | [[Twins of Creation]] | [[The Restorer]] | Aeloria and Astralor both blind to 2 of 4 forces; Whispering Dark aware of the Restorer but unable to explain it |
+> | [[Hidden Cosmology Thread System]] | [[Aeloria]] | Deliberate, near-total, self-concealed omniscience — **superseded, see ruling below** |
+> | [[Twins of Creation]] | [[The Restorer]] | **Adopted as canon** — Aeloria and Astralor both blind to 2 of 4 forces; Whispering Dark aware of the Restorer but unable to explain it |
 >
-> These cannot all be true as stated. Genuinely the largest unresolved contradiction in this cosmology cluster — three internally-coherent, mutually-incompatible answers to the same question, from three sources of comparable authority (two marked `complete`, one marked `canonical`). Flagged, not resolved. Reads best as deliberately unreliable in-universe mythology — different tellings from different vantage points — rather than a single continuity error to fix.
+> These couldn't all be true as stated — the largest contradiction in this cosmology cluster, three internally-coherent, mutually-incompatible answers to the same question, from three sources of comparable authority (two marked `complete`, one marked `canonical`). Read as deliberately unreliable in-universe mythology — different tellings from different vantage points — right up until it was resolved below.
 >
-> [[Creation World]] — the likely narrative root [[How the Five Layers Shape the Creation World]] partially systematizes — adds a fourth data point, but doesn't break the tie: it independently tells the same specific detail [[Twins of Creation]] states directly, that Aeloria does not know [[The Restorer]] exists and only ever questions, never resolves, what she witnesses. [[Creations Misunderstanding]] makes it a fifth: an independent essay stating the exact same pairing outright (Aeloria unaware of the Restorer; the Whispering Dark aware but unable to communicate it). That's now **3-of-5 sources** (Creation World, Twins of Creation, Creations Misunderstanding) agreeing on this specific point, against 1 (Hidden Cosmology Thread System) claiming Aeloria secretly knows almost everything, with How the Five Layers' "no one knows" framing compatible with either reading. Still treated as unresolved, not majority-rules — this cluster documents disagreement rather than voting on a winner.
+> [[Creation World]] — the likely narrative root [[How the Five Layers Shape the Creation World]] partially systematizes — added a fourth data point in Twins of Creation's favor: it independently tells the same specific detail, that Aeloria does not know [[The Restorer]] exists and only ever questions, never resolves, what she witnesses. [[Creations Misunderstanding]] made it a fifth: an independent essay stating the exact same pairing outright (Aeloria unaware of the Restorer; the Whispering Dark aware but unable to communicate it). That gave **3-of-5 sources** (Creation World, Twins of Creation, Creations Misunderstanding) agreeing on this specific point, against 1 (Hidden Cosmology Thread System) claiming Aeloria secretly knows almost everything, with How the Five Layers' "no one knows" framing compatible with either reading.
+>
+> **Ruled (2026-07-14):** [[Twins of Creation]]'s account is adopted as this vault's canon on the strength of that 3-of-5 majority. The Restorer is the cosmology's most-aware Primal Force; Aeloria does not know the Restorer exists and does not understand the Whispering Dark's true nature; [[Hidden Cosmology Thread System]]'s "Aeloria knows almost everything" framing is superseded. [[How the Five Layers Shape the Creation World]]'s "no one knows" framing remains compatible as a broader statement (none of the four Primal Forces grasp the full Five-Layer design) — it just no longer implies the four are *symmetrically* ignorant of each other specifically. All disagreeing source text is left in place on each page as historical record rather than deleted.
 
 ## Structure now known: three layers of cosmological detail
 

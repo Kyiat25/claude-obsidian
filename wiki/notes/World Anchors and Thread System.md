@@ -15,7 +15,7 @@ tags:
   - campaign-setting
 status: developing
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 related:
   - "[[Hidden Cosmology Thread System]]"
   - "[[How the Five Layers Shape the Creation World]]"
@@ -67,8 +67,10 @@ A Thread aligning twice consecutively to the same Anchor is safe and has happene
 | Memory | Encode ancestral/regional memory biologically | No inherent memory storage |
 | Failure state | Corruption → warning signs → slow decay | Corruption → explosion (see [[Ashkarra]]) |
 
-> [!contradiction] Does anyone know why World Trees exist, or is it a deliberate permanent mystery?
-> [[World Trees]] (from [[Hidden Cosmology Thread System]]) is explicit that their true origin should stay unknown **even to the DM** — five competing theories, no canonical answer, framed as a design choice to preserve wonder. This source instead states flatly, as settled background fact with no ambiguity or competing theory offered: World Trees are "ancient trees of immense size **planted by Vatharun** (Earth Pantheon deity)." No hedge, no "some say," no alternate theory — just an origin. This directly undercuts the earlier source's explicit instruction. Possible readings: this document represents in-world *scholarly consensus* (which could still be wrong, preserving the DM-only mystery underneath it) rather than DM-facing absolute truth; or the two sources simply weren't written to be consistent with each other, same as the three-way Aeloria/Restorer/Whispering-Dark knowledge contradiction already flagged on [[The Weave]]. Flagged, not resolved — a GM should decide whether "Vatharun planted them" is the in-world lie mortals believe, or the actual DM-facing truth, given the explicit instruction elsewhere that this should stay mysterious.
+> [!contradiction] RESOLVED — Does anyone know why World Trees exist, or is it a deliberate permanent mystery?
+> [[World Trees]] (from [[Hidden Cosmology Thread System]]) is explicit that their true origin should stay unknown **even to the DM** — five competing theories, no canonical answer, framed as a design choice to preserve wonder. This source instead states flatly, as settled background fact with no ambiguity or competing theory offered: World Trees are "ancient trees of immense size **planted by Vatharun** (Earth Pantheon deity)." No hedge, no "some say," no alternate theory — just an origin, directly undercutting the earlier source's explicit instruction.
+>
+> **Ruled (2026-07-14):** this document's flat "planted by Vatharun" is the mortal tier of a tiered-comprehension hierarchy, not the DM-facing truth — see [[World Trees]] for the full ruling. World Trees are woven into the cosmos at its creation; true DM-facing certainty about their origin remains deliberately withheld, per [[Hidden Cosmology Thread System]]'s original instruction. Mortals land on Vatharun specifically because he's the largest, most comprehensible act-of-creation a mortal mind can conceive of — a single, nameable, geologically-themed deity — not because it's actually true. This source's own note below, on Wood Elves' and Druids' cultural bond to the Trees, is kept and expanded on [[World Trees]]'s "Who understands the stakes" section: some elder gods and long-lived, Tree-bonded races understand the *consequences* of a Tree's destruction far better than ordinary mortals, without that implying they understand the origin any better either.
 
 World Trees: 73-75 confirmed worldwide, 6-7 "Major Root Anchors," at least 5 known-corrupted, 7-9 lost to Loom-City expansion. For roughly 15,000 years (the "Loomless Time") they were the *only* stabilization system, requiring no ritual or maintenance — defended culturally by Wood Elves (Verdant Accord), Druids, Orcs (ancestral judges), Halflings (tied to joy/grief/death rites), and Dwarves (oath-vaults, Stone-Song resonance).
 

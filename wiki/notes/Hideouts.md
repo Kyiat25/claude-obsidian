@@ -21,6 +21,7 @@ related:
   - "[[Black Market]]"
 sources:
   - "[[A World that Watches]]"
+  - ".raw/Hideouts.md"
 ---
 
 # Hideouts

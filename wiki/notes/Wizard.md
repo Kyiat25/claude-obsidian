@@ -28,6 +28,7 @@ sources:
   - "[[Class_breakdown]]"
   - "[[Classes_Summary]]"
   - ".raw/Wizard.md"
+  - ".raw/Class_Lore_Compendiums_DorOEstel_UPDATED.md"
 confidence: high
 ---
 
@@ -152,6 +153,18 @@ Draws from the shared **Proficiency Bonus pool**, refreshing short/long rest —
 
 Counterspell Instinct joins [[Cleric]]'s Sacred Interposition, [[Investigator]]'s Predictive Step, and [[Monk]]'s total departure as confirmed partial/total exceptions to the shared-pool default — the fourth distinct exception shape this cluster, and the only one explained in-text by a specific class feature (Magic Sense) rather than left as a bare rules statement.
 
+## Mythology & Cultural Lore (from the Class Lore Compendium)
+
+*Arcane Linguists: Those Who Speak Reality's Language.*
+
+Wizards emerged from the realization that magic isn't random but has grammar — patterns, rules, syntax — and that the universe speaks to itself through an arcane language some mortals learn to read, then compose original sentences in. Elensar Glyph-Reader's revelation that spells aren't invented but *discovered*, existing as potential sentences in reality's language awaiting a literate enough speaker, transformed wizardry from art into systematic linguistics and led to the Echo Glyph discovery (resonant spell-variations persisting in the Weave, letting wizards attune to more spell-variants than any other class). At Ashkarra's Fall, the Ritual of Twelve Thousand — every wizard in the city casting simultaneously to repel Eldritch corruption — failed not from lack of power but because magical grammar has limits: some sentences cannot be spoken chorally without catastrophic grammatical collapse.
+
+**Source of Power (DM truth):** Wizards access all nine Fundamental Forces through linguistic mastery of [[Secondary Glyphs]] — reality's actual mortal-accessible vocabulary, not arbitrary symbols but literally what reality calls things. Casting a spell is, in sequence: composing a grammatically-correct sentence in arcane language, articulating it through gesture/word/material component, and having reality read and implement that sentence. This makes wizards reality-programmers, writing code in the universe's own operating language — the only class whose power is explicitly a comprehension of the same Secondary Glyph vocabulary the setting's magic-item and ritual-crafting traditions already draw on.
+
+**Legendary figures:** Elensar Glyph-Reader, the elf whose discovery that spells are found rather than invented reframed wizardry as systematic linguistics rather than art.
+
+*"They say magic is art. Lie. Art is subjective. Magic is linguistics—objective grammar governing reality's self-description... I don't cast magic—I speak fluent reality... They have power. I have literacy in reality's own language. And language, fully understood, surpasses every brute force."* — The Arcane Grammarian's Thesis
+
 ## See also
 
 - [[Class_breakdown]]
@@ -162,4 +175,5 @@ Counterspell Instinct joins [[Cleric]]'s Sacred Interposition, [[Investigator]]'
 - [[Weapon Mastery]]
 - [[Last Stand]]
 - [[Class Reactions]]
+- [[Secondary Glyphs]]
 - [[FEARS MOC]]

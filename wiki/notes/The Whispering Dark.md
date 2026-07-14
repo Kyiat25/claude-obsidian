@@ -12,7 +12,7 @@ tags:
   - dm-only
 status: seed
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 entity_type: deity
 role: "Primal Force — the Maw"
 first_mentioned: "[[How the Five Layers Shape the Creation World]]"
@@ -32,6 +32,7 @@ sources:
   - ".raw/Hidden Cosmology Thread System.md"
   - ".raw/Twins of Creation.md"
   - ".raw/Creation World.md"
+  - ".raw/The Whispering Dark.md"
 confidence: medium
 ---
 
@@ -55,8 +56,10 @@ A named historical case study of the rotation system failing: on a third consecu
 
 The Fourth Law (Form Glyphs) states explicitly that The Whispering Dark "cannot consume them all" — the five recurring life-patterns (Mortals, Beasts, Titans, Spirits, Aberrations) survive its culling every cycle regardless of intent. Its counterpart, [[The Restorer]], is explicitly framed as reclaiming what The Whispering Dark erases — "what is erased is never truly gone" — suggesting the two Primal Forces function as a matched destruction/restoration pair.
 
-> [!contradiction] Does the Whispering Dark know the Restorer exists?
+> [!contradiction] RESOLVED — Does the Whispering Dark know the Restorer exists?
 > [[How the Five Layers Shape the Creation World]] and [[Hidden Cosmology Thread System]] both imply the four Primal Forces act independently with no stated awareness of each other. [[Twins of Creation]] contradicts this specifically for the Whispering Dark: **"The Whispering Dark knows the Restorer exists. But it cannot explain this to anyone."** This gives the Whispering Dark the second-highest awareness in this source's hierarchy (below only [[The Restorer]] itself), a notable elevation from "unaware Primal Force" to "aware, but constrained from communicating it" — the nature of that constraint (linguistic? metaphysical? a property of the Dark itself?) is never specified.
+>
+> **Ruled (2026-07-14):** confirmed as canon alongside the broader knowledge-hierarchy ruling on [[The Weave]] — [[Twins of Creation]]'s account (adopted 3-of-5 sources) is the vault's canon. Yes: the Whispering Dark knows the Restorer exists but cannot explain this to anyone.
 
 ## Aware, but silenced
 
@@ -65,6 +68,14 @@ Per [[Twins of Creation]], the Whispering Dark occupies a strange middle positio
 ## Divine Sparks
 
 Per [[Creation World]], the Whispering Dark unintentionally contributed to the creation of **[[Divine Sparks]]** — it rejected fragments of unresolved divinity but could not unmake them fully, letting them persist as raw godhood material alongside contributions from the other three Primal Forces.
+
+## The Void That Hungers: absolute erasure, not destruction
+
+A later, more essay-like source sharpens what "the Maw" actually means: not destruction (which leaves ruins), not death (which leaves echoes), not chaos (which still creates something new) — true, absolute erasure. To be taken by it is not to be dead or broken, but to have **never existed at all**. It does not think, want, or act with intent; it simply is, and it does not need to win, only to wait. Named victims across this framing include the Forgotten Kings (rulers whose empires have no ruins), the Silent Prophets (whose truths were swallowed before they could shape reality), and the Lost Wars (conflicts that never happened, yet leave a felt absence). Even [[Aeloria]] cannot weave fate for those it fully consumes, and even [[The Restorer]] struggles to reclaim what it has taken completely.
+
+### Game mechanics: the Void That Listens
+
+This same source frames the Whispering Dark as an in-game consequence system for characters who "whisper too loudly into fate" — using excessive Whisper-based abilities, forcing reality past its limits, or attempting to undo death/rewrite history. It intervenes in three escalating phases: **Phase 1, the Echoes of Fate** (déjà vu, memory gaps in NPCs, flickering shadows — a soft warning, resolved by pausing and regaining Sanity); **Phase 2, the World Rejects You** (mirrors stop matching reality, names vanish from records, a final warning is issued); **Phase 3, Erasure** (NPCs completely forget the character, written history stops acknowledging them, and no power can bring them back). Presented as neither villain nor monster but an inevitability — "it does not kill, it removes; it does not judge, it corrects; it does not bargain, it takes."
 
 ## Naming/tone note
 

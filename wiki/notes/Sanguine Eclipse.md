@@ -12,7 +12,7 @@ tags:
   - dm-only
 status: developing
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 entity_type: phenomenon
 role: "Eldritch Moon — celestial erasure"
 first_mentioned: "[[Guide to the Eldritch Forces]]"
@@ -22,6 +22,7 @@ related:
   - "[[Ul'Naresh]]"
 sources:
   - ".raw/Guide to the Eldritch_Forces.md"
+  - ".raw/Eldritch Moons.md"
 confidence: medium
 ---
 
@@ -44,6 +45,10 @@ Known as "The Bleeding Eye" or "The Hush Above" — the moment the Veiled Hand l
 ## Madness
 
 Short-term: feeling watched, not now but retroactively. Long-term: hallucinations of forgotten or failed people. Indefinite: the belief that one already died and the world is a delusion.
+
+## Glyph interactions and resistance
+
+Shadow glyphs expand unnaturally, often fusing with nearby markings into new, unreadable symbols; illusion spells become self-aware, an invisibility spell hiding something other than the caster; necromancy grows more potent but unpredictable — animate dead may revive something not chosen, speak with dead may summon a wrong voice that knows too much. The Restbringer is unreachable, souls rising, hesitating, then vanishing into echoes rather than the Weave; the Veiled Hand's agents report glyph-masks weeping blood before cracking silently; Seralyne, Blade of Threads, becomes immobile, her sword caught in the frozen Weave trying to sever something that cannot be seen.
 
 ## Campaign use
 

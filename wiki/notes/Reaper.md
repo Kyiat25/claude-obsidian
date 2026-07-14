@@ -37,6 +37,7 @@ sources:
   - "[[Classes_Summary]]"
   - "[[Class_breakdown]]"
   - ".raw/Reaper.md"
+  - ".raw/Class_Lore_Compendiums_DorOEstel_UPDATED.md"
 confidence: high
 ---
 
@@ -213,6 +214,18 @@ Plus two Covenant reactions layering the same pattern: Grave Warden's Guardian's
 - **[[Injury System]]**: Soul Drinkers have advantage on saves against injuries while Hunger's Call is active — narrow, subclass-and-duration-gated, a new shape distinct from every downgrade/removal/suppression hook seen so far (a temporary save-advantage rather than altering the injury itself).
 - **Enemy morale** ([[Breaking Points]], [[Enemy Rally]]): the richest morale-harvesting kit of any class — Morale Harvester, Harvest the Broken, Reaper's Presence's Dread Presence, Execution's Morale Break/Rally Interrupt, and Deathblow Panic all independently tie into the Bloodied/Breaking Points/Rally system, reinforcing rather than contradicting its existing rules.
 
+## Mythology & Cultural Lore (from the Class Lore Compendium)
+
+*Harvesters of Souls: Those Who Channel Death Itself.*
+
+Death predates gods, magic, and civilization; the first reapers didn't learn their power, they *noticed* it, sensing departed essence at mass-death sites and learning to capture it. The First Age's Grave Warden tradition (reverent, ethical harvesting) split from harvest-for-power philosophy after Mordain Gray-Hand discovered peaceful and violent deaths taste different, and the Second Age's Death Knight Companies weaponized this as psychological warfare — enemies who knew their deaths would empower the reaper facing them sometimes surrendered rather than fight. Ashkarra's Fall brought the "Tainted Harvest": thousands of reapers attempting to harvest Eldritch-corrupted souls died as the poisoned essence overwhelmed them, a catastrophe that still shapes the class's caution around corrupted harvests.
+
+**Source of Power (DM truth):** Reapers believe they capture departing "soul" in a theological sense. In truth what they harvest is consciousness-energy — the force binding body to mind to existence — and the [[Universal Glyphs]] governing all existence include the death-transitions by which that binding severs. Reapers instinctively read these glyphs, positioning themselves to intercept escaping essence before it disperses into ambient magic, follows natural paths to other realms, or lingers as a ghost. This makes reapers unwitting reality-hackers, proving consciousness itself is a transferable, storable form of energy.
+
+**Legendary figures:** Mordain Gray-Hand, the dwarf who discovered harvested souls taste different depending on how peacefully their bearer died, founding the ethics-driven Grave Warden tradition; Mordrek Gray-Hand, the First Death Knight, whose Second Age philosophy of "harvesting inevitability" is preserved in the class's foundational manifesto.
+
+*"They fear me. I understand why. I grow stronger when others die... But listen carefully: I don't cause these deaths... I simply collect what's released... My power isn't mine—it's borrowed from those who no longer need it... I don't fight inevitability. I harvest it. And harvest is always plentiful."* — Mordrek Gray-Hand, The First Death Knight, Second Age
+
 ## See also
 
 - [[Narrative Identity]]
@@ -232,4 +245,5 @@ Plus two Covenant reactions layering the same pattern: Grave Warden's Guardian's
 - [[Enemy Rally]]
 - [[Last Stand]]
 - [[Class Reactions]]
+- [[Universal Glyphs]]
 - [[FEARS MOC]]

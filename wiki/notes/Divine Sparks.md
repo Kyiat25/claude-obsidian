@@ -12,7 +12,7 @@ tags:
   - dm-only
 status: seed
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 entity_type: phenomenon
 role: "the accidental origin point of the first gods"
 first_mentioned: "[[Creation World]]"
@@ -65,8 +65,10 @@ Seeking a Divine Spark means seeking war: against rival ascendants who hunt Spar
 
 A glyph believed by kings and demigods to represent rulership — it grants burden, not control. It binds the divine to the structure; it is a shackle, not a crown. The first who wore it is said to have screamed for a hundred years, their voice still echoing in forgotten leylines; no god has ever removed it once bound.
 
-> [!contradiction] Is Astralor a Primal Force, or "not a god" — the Law of Becoming?
-> Every other cosmology source in this cluster ([[How the Five Layers Shape the Creation World]], [[Hidden Cosmology Thread System]], [[Twins of Creation]], [[Creation World]], [[Creations Misunderstanding]]) treats [[Astralor]] as one of four Primal Forces and [[Aeloria]]'s literal sibling — a person, however cosmic. [[The Lie of Godhood]] instead states flatly that the Divine Rank System governing ascension "was not created by the gods... shaped by the glyphic Will of Astralor, one of the Universal Forces — **not a god, but the Law of Becoming**. It is a pattern, not a person." It adds that no god knows of Astralor before ascending, and doesn't understand it even afterward — only feeling "the inescapable weight of the structure into which they are drawn." This is a direct reframing, not a minor detail: every other source's Astralor has personality, memory, and a sibling; this source's Astralor is an impersonal cosmic law. Flagged on [[Astralor]]'s own page as well — not resolved, treated the same as the standing three-way knowledge-hierarchy contradiction on [[The Weave]].
+> [!contradiction] RESOLVED — Is Astralor a Primal Force, or "not a god" — the Law of Becoming?
+> Every other cosmology source in this cluster ([[How the Five Layers Shape the Creation World]], [[Hidden Cosmology Thread System]], [[Twins of Creation]], [[Creation World]], [[Creations Misunderstanding]]) treats [[Astralor]] as one of four Primal Forces and [[Aeloria]]'s literal sibling — a person, however cosmic. [[The Lie of Godhood]] instead states flatly that the Divine Rank System governing ascension "was not created by the gods... shaped by the glyphic Will of Astralor, one of the Universal Forces — **not a god, but the Law of Becoming**. It is a pattern, not a person." It adds that no god knows of Astralor before ascending, and doesn't understand it even afterward — only feeling "the inescapable weight of the structure into which they are drawn." This is a direct reframing, not a minor detail: every other source's Astralor has personality, memory, and a sibling; this source's Astralor is an impersonal cosmic law.
+>
+> **Ruled (2026-07-14):** both readings are kept, split across ontology and epistemology. Astralor (and Aeloria) are genuine entities — literal overgods — not impersonal laws. But they operate so far beyond even the gods' comprehension that what a god (or a mortal, far more diluted still) actually perceives of Astralor is indistinguishable from an impersonal structural force. [[The Lie of Godhood]]'s "Law of Becoming" is true as a description of *how gods experience him*, not of what he *is*. Distinct from the separate knowledge-hierarchy contradiction on [[The Weave]] (who among Astralor/Aeloria/the Whispering Dark/the Restorer is aware of the others), which was ruled 2026-07-14 in [[Twins of Creation]]'s favor — that's a different question this ruling doesn't touch.
 
 ## Open questions
 

@@ -34,6 +34,7 @@ sources:
   - "[[Class_breakdown]]"
   - "[[Dynamic Combat System (DCS)]]"
   - ".raw/Shaman.md"
+  - ".raw/Class_Lore_Compendiums_DorOEstel_UPDATED.md"
 confidence: high
 ---
 
@@ -184,6 +185,18 @@ Draws from the shared **Proficiency Bonus pool**, refreshing short/long rest, no
 | Totemic Shield | 5th (see gap above) | An ally within 30 ft is hit | A Totem flares: resistance to that damage type + temp HP (PB+WIS mod); attacker WIS saves (DC 8+PB+WIS) or Marked by Spirits. At 11th, also +2 AC to the ally until the Shaman's next turn |
 | Spirit Intercession | 6th | An ally within 15 ft is hit | Reduce that damage by WIS mod (min 1) |
 
+## Mythology & Cultural Lore (from the Class Lore Compendium)
+
+*Spirit-Hosts: Those Who Become Living Bridges.*
+
+Shamans emerged from a question no witch or warlock asked: "What if I become the vessel?" Rather than binding spirits into objects (witches) or bargaining with distant patrons (warlocks), shamans invite spirits to inhabit living flesh directly, guided by one of four Sacred Focuses (Body, Heart, Mind, or Soul) that anchor the hosting and prevent full possession. Vorga the Hundred-Spirited, an orc shaman who hosted 47 spirits simultaneously through a Totem-network and lived 200 years before her final Totem shattered, represents the tradition's furthest extreme. Ashkarra's Fall killed thousands of shamans as hosted spirits fled or died with their hosts — survivors described it as "being abandoned by half your consciousness," and some who recovered learned to host corrupted spirits fleeing the dimensional collapse, gaining power at the risk of contamination.
+
+**Source of Power (DM truth):** The Compendium names this "**Spirit Glyphs**" — consciousness itself as a fundamental cosmic force accessed directly through hosting. *Flagged discrepancy:* the established Five Laws framework ([[How the Five Layers Shape the Creation World]]) recognizes only five Glyph layers — Primal, Universal, Elemental, Form, and Personal — with no "Spirit" layer among them. Since [[Personal Glyphs]] govern how individual souls channel power and fate, that layer is the closest existing analog, but the Compendium's own framing treats spirit-hosting as accessing something distinct: a hybrid-consciousness synthesis (mortal experience + spiritual essence) that neither component could achieve alone. Left unresolved pending a future source clarifying whether "Spirit Glyphs" is a sixth layer or a Compendium-specific gloss on Personal Glyphs.
+
+**Legendary figures:** Vorga the Hundred-Spirited, the orc shaman who hosted 47 spirits simultaneously and lived two centuries before her Totem-network finally shattered.
+
+*"Wizard studies alone. Cleric prays alone. Warlock bargains alone. I am never alone... They call this possession. I call it partnership. My body is temple. Spirits are honored guests... Death doesn't end—it redistributes."* — The Spirit-Host's Testimony
+
 ## See also
 
 - [[Welcome to FEARS]]
@@ -198,4 +211,6 @@ Draws from the shared **Proficiency Bonus pool**, refreshing short/long rest, no
 - [[Weapon Mastery]]
 - [[Last Stand]]
 - [[Class Reactions]]
+- [[Personal Glyphs]]
+- [[How the Five Layers Shape the Creation World]]
 - [[FEARS MOC]]

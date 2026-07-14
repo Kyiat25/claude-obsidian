@@ -32,6 +32,7 @@ sources:
   - "[[Classes_Summary]]"
   - "[[Dynamic Combat System (DCS)]]"
   - ".raw/Rogue.md"
+  - ".raw/Class_Lore_Compendiums_DorOEstel_UPDATED.md"
 confidence: high
 ---
 
@@ -190,6 +191,16 @@ Draws from the shared **Proficiency Bonus pool**, refreshing short/long rest, no
 | Killing Opportunity | 11th | An ally within 30 ft hits a creature | If the target is within Sneak Attack range, make one weapon attack against it as part of the reaction |
 
 Shadow Slip's +1 Momentum on an enemy's miss is a new gain-trigger shape — self-benefit from an *opponent's* failure, distinct from every prior "attacker loses Momentum" hook (Cleric, Bard, Inventor) which penalized the enemy rather than rewarding the Rogue directly.
+
+## Mythology & Cultural Lore (from the Class Lore Compendium)
+
+*Shadow-Dancers: Those Who Exploit Rules by Ignoring Them.*
+
+Rogues trace their lineage to the first mortal to realize that every system has vulnerabilities and every authority a blind spot; as cities formed, the First Thieves' Guilds rose alongside them as an alternative order rather than pure chaos, formalized in Kel Varyan's Shadowmarket Accords — a treaty in which the government agreed not to eradicate crime in exchange for guild self-regulation. Ashkarra's Fall devastated the dragonborn empire's continental smuggling networks and triggered the Crime Wars as factions fought over the resulting power vacuum; the Fourth Age's Thread instability favors rogues further still, with Veltharyn's criminal parliament (the Ashseats) now rivaling legitimate government in influence.
+
+**Source of Power (DM truth):** Rogues believe — correctly, as far as they know — that they have no supernatural power, only observation, timing, and audacity refined to superhuman precision. The deeper truth is that rogues unknowingly access probability manipulation through pure systemic exploitation: by understanding a system perfectly, they collapse favorable outcomes out of possibility space faster than chance should allow. Every lock has a combination; rogues just find it before probability says they should be able to.
+
+*"Society is system. Systems have rules. Rules have exceptions. Exceptions have exploits. We are the exploit... We are shadows in their light. Chaos in their order. Freedom in their control. And we'll be here long after their systems collapse."* — The Shadow Manifesto
 
 ## See also
 

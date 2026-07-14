@@ -11,7 +11,7 @@ tags:
   - dm-only
 status: developing
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 entity_type: infrastructure
 role: "The reservoirs of magic — stationary pools of condensed arcane energy"
 first_mentioned: "[[Three Pillars of Magical Flow]]"

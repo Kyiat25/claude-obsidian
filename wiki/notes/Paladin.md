@@ -33,6 +33,7 @@ sources:
   - "[[Dynamic Combat System (DCS)]]"
   - "[[Injury System]]"
   - ".raw/Paladin.md"
+  - ".raw/Class_Lore_Compendiums_DorOEstel_UPDATED.md"
 confidence: high
 ---
 
@@ -180,6 +181,14 @@ Draws from the shared **Proficiency Bonus pool**, refreshing short/long rest, no
 | Divine Intercession | 2nd | An ally within 10 ft is targeted by an attack | Force the attack to target the Paladin instead; reduce the damage by PB+CHA mod |
 | Aegis of Oath | 3rd | A creature within the Paladin's Aura targets an ally | The ally gains +PB to Evasion for that attack; if it still hits, the ally takes half damage and the Paladin takes the other half as radiant damage |
 | Radiant Judgment | 11th | The Paladin smites a creature with Divine Smite | Chosen hostile creatures within 10 ft of the target CON save (DC 8+PB+CHA — tenth confirmation of the `8+PB+ability mod` formula) or take PBd6 radiant damage and are blinded until end of their next turn |
+
+## Mythology & Cultural Lore (from the Class Lore Compendium)
+
+*"Oath-Bound: Those Who Make Promises Weapons."* Paladins require civilization to exist against — sacred codes to uphold, ideals to hold society to even when society forgets them. The Second Age's **Oath Wars** proved a troubling truth: oath-power flows from *conviction*, not correctness — evil paladins swearing an Oath of Conquest prove exactly as powerful as good ones, since what matters is absolute belief, not the content of the belief. **Saint Thaldris the Unbreakable** (First Age) survived three divine assassination attempts after declaring, when shown proof the gods lied about creation, *"My oath is to principles, not persons. If gods betray principles, I oppose gods."* Thousands of paladins died at Ashkarra trying to hold the city through pure conviction alone — their oaths weren't enough, breaking many survivors' faith in the entire concept.
+
+**Source of Power (DM truth):** Oath-power accesses the [[Form Glyphs]] — reality's self-image. When a paladin swears with sufficient conviction, reality *agrees*, reshaping local probability to favor the oath's fulfillment; gods can amplify this but don't create it. This makes paladins the most dangerous mortals in a structural sense: reality-hackers using conviction itself as a programming language.
+
+**Philosophy**, from "The Oath-Keeper's Manifesto": *"They ask: How do you have divine power without a god? I answer: Define 'god.' I swore oath. Reality heard. Reality responded... My oath makes me powerful. My oath makes me inflexible. These are same fact... And if reality won't bend? I break it."*
 
 ## See also
 

@@ -14,7 +14,7 @@ tags:
   - glyphic
 status: developing
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 related:
   - "[[Astralor]]"
   - "[[Aeloria]]"

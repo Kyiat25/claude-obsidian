@@ -207,6 +207,21 @@ Choose: **Boon of Elemental Apotheosis** (Primordial Avatar becomes indefinite o
 
 Full framework and cross-class table on [[Class Reactions]].
 
+## Mythology & Cultural Lore
+
+> [!note] Original composition — no raw source
+> Bender is absent from all three `Class_Lore_Compendiums_DorOEstel` variants (they cover Runesmith/Shadowbinder/Tamer instead, three retired classes Bender/Warden/Binder replaced on the current roster). No `.raw/` source treats Bender's mythology. The section below was composed to fill that gap, following the Compendium's own template (epithet, origin myth, DM-truth Glyph reveal, legendary figure, philosophy quote) and staying consistent with established Dór-o Estel cosmology — it is original wiki content, not an ingestion, and carries no `.raw/` source citation.
+
+*Motion Incarnate: Those Who Are the Space Between the Elements.*
+
+Benders trace their tradition to warrior-ascetics who noticed that no element ever holds its shape — fire collapses to ash and smoke, water becomes ice then steam, earth erodes to dust on the wind — and concluded that whoever masters the *transition* between elements commands more than whoever masters any single one. This sets Benders apart from both [[Warden]] (who chooses permanence in one Prime Element) and [[Sorcerer]] (who inherits fixed elemental bloodlines): the Bender tradition holds that true mastery is the refusal to stay one thing. During Ashkarra's Fall, single-element specialists found their magic curdled or resisted by the spreading Eldritch corruption; a handful of Benders survived the Day of Twelve Shadows by cycling elements faster than the corruption could adapt to any one of them — a narrow, individual defense that saved lives but couldn't save the city.
+
+**Source of Power (DM truth):** Benders access the [[Elemental Glyphs]] — but not any single one of the five (Fire, Water, Earth, Air, Spirit). Where most elemental practitioners fix themselves to one Glyph's expression, a Bender reads the *fluidity between* them, becoming a living demonstration of the Third Law's own claim that these Glyphs are "still-fluid testing material," not locked physics. Elemental Combo's chained sequencing is, mechanically, this fluidity given form — each strike a transition rather than a destination.
+
+**Legendary figures:** Kestrel Fourfold, said to be the first to cycle all four classical elements without a single break in the combo chain, reputedly ending a duel against a Sorcerous Emperor's bodyguard by becoming wind, then stone, then flame, then flood before the guard could counter any single form.
+
+*"They ask which element I serve. Wrong question. I don't serve elements — I serve the space between them, the moment fire becomes smoke becomes wind becomes rain becomes river becomes stone again. Stand still long enough to be one thing, and one thing is all a blade needs to find. I am never there long enough to be found."* — attributed to Kestrel Fourfold
+
 ## See also
 
 - [[Narrative Identity]]
@@ -223,4 +238,5 @@ Full framework and cross-class table on [[Class Reactions]].
 - [[Bard]]
 - [[Last Stand]]
 - [[Class Reactions]]
+- [[Elemental Glyphs]]
 - [[FEARS MOC]]

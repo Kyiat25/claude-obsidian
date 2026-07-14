@@ -32,6 +32,7 @@ sources:
   - "[[Classes_Summary]]"
   - "[[Class_breakdown]]"
   - ".raw/Sangromancer.md"
+  - ".raw/Class_Lore_Compendiums_DorOEstel_UPDATED.md"
 confidence: high
 ---
 
@@ -208,6 +209,18 @@ Draws from the shared **Proficiency Bonus pool**, refreshing short/long rest —
 | Haemorrhagic Retaliation | 7th | A creature within 30 ft casts a spell or attacks | CON save (DC = Spell Save DC) or 2d8 necrotic + loses one daily ability use; disadvantage on the save if the creature is Bloodied | 1 use |
 | Blood Transfusion | 11th | An ally within 30 ft drops to 0 HP | Ally regains HP = HP spent (min 8); may also transfer one condition from the ally to the Sangromancer | 2 uses + 8+ HP |
 
+## Mythology & Cultural Lore (from the Class Lore Compendium)
+
+*Blood-Weavers: Those Who Make Life Into Currency.*
+
+Sangromancers claim the oldest observation of all — blood is life, and what carries life can be made to transfer it — with the first practitioners simply noticing blood magic was already happening around them. Velara the Red, an elf who extended her life over 2,000 years through blood manipulation before her accumulated blood-debt manifested as a valley-killing plague, embodies the art's central bargain: power purchased on credit against your own body. Gods responded to sangromancy's weaponization during the Second Age Rebellions with the Sanguine Persecution, driving the practice underground into the Crimson Veil; at Ashkarra's Fall, thousands of sangromancers died attempting to channel the city's collective lifeforce into a protective barrier, a paradox that killed them (you cannot sacrifice an entire population to save itself).
+
+**Source of Power (DM truth):** Sangromancers believe they channel life-energy directly, bypassing gods, glyphs, and Threads entirely. In truth, blood magic accesses the [[Primal Glyphs]] — life force itself as a fundamental cosmic element, with every living thing carrying a fragment of the original creative energy that shaped reality. This makes sangromancy among the most powerful magic in existence, drawing from the same source that created the world, and among the most dangerous, since mishandling life-force causes cascading failures.
+
+**Legendary figures:** Velara the Red, the elf sangromancer whose 2,000-year blood-extended life ended when her accumulated blood-debt manifested as a plague that killed an entire valley, her body finally dissolving into crimson mist.
+
+*"Every spell requires sacrifice... We're honest about ours... You can't fake bleeding. Can't lie about pain... that's why they fear us. Not because we're powerful... But because we make visible what they hide: all magic requires sacrifice. We just don't hide the knife."* — The Hemomancer's Defense
+
 ## See also
 
 - [[Welcome to FEARS]]
@@ -220,4 +233,5 @@ Draws from the shared **Proficiency Bonus pool**, refreshing short/long rest —
 - [[Weapon Mastery]]
 - [[Last Stand]]
 - [[Class Reactions]]
+- [[Primal Glyphs]]
 - [[FEARS MOC]]

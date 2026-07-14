@@ -12,7 +12,7 @@ tags:
   - dm-only
 status: developing
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 related:
   - "[[How the Five Layers Shape the Creation World]]"
   - "[[Weave of Creation]]"
@@ -22,6 +22,7 @@ sources:
   - ".raw/Weave of Creation.md"
   - ".raw/Luminous Echo.md"
   - ".raw/Umbral Veil.md"
+  - ".raw/Saga of the Glyphs.md"
 ---
 
 # Personal Glyphs
@@ -57,6 +58,23 @@ The same nine glyphs manifest completely differently depending on which of the T
 | Mind | Mental control | Illusions indistinguishable from truth | Muddled, sluggish, prone to decay |
 
 The pattern is consistent across both reflections: the Feywild ([[Luminous Echo]]) amplifies and exaggerates every glyph into raw creative potential, while the Shadowfell ([[Umbral Veil]]) mutes, fragments, or chains every glyph to the past. Neither reflection *empowers* the way the Material Plane does — Feywild empowers through excess, Shadowfell burdens through persistence.
+
+## Attunement
+
+Per `Saga of the Glyphs.md`, every mortal is born attuned to one Personal Glyph, sometimes more, but never none — the glyph is the key to personal identity, deciding whether one fights with blade or mind, leads with fear or wisdom, creates or destroys. Most beings carry a single Glyph, their fate woven around its nature; some are born of two, creating paradoxes (a warrior of Power and Shadows, a mystic of Spirit and Flow); the rarest — often champions of fate itself — manifest three.
+
+## Minor variations
+
+Per `Saga of the Glyphs.md`, personalities differ even within a shared Personal Glyph:
+
+| Primary Glyph | Minor variation | Purpose |
+|---|---|---|
+| **Glyph of Power** (Strength & Dominance) | Glyph of the Warlord | Strength through strategy and leadership |
+| | Glyph of the Berserker | Strength through uncontrolled fury and raw instinct |
+| **Glyph of Knowledge** (Study & Mastery) | Glyph of the Scholar | Knowledge gained through study, books, and learning |
+| | Glyph of the Seeker | Knowledge gained through experience, travel, and discovery |
+| **Glyph of Passion** (Emotion & Instinct) | Glyph of the Lover | Passion as connection, inspiration, and devotion |
+| | Glyph of the Mad Flame | Passion as uncontrollable obsession, recklessness, and destruction |
 
 ## See also
 

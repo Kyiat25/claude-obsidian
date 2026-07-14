@@ -32,6 +32,7 @@ sources:
   - "[[Classes_Summary]]"
   - "[[Class_breakdown]]"
   - ".raw/Tattooist.md"
+  - ".raw/Class_Lore_Compendiums_DorOEstel_UPDATED.md"
 confidence: high
 ---
 
@@ -183,6 +184,18 @@ Draws from the shared **Proficiency Bonus pool**, refreshing short/long rest. In
 
 Inkguard's retroactive hit-to-miss conversion is a genuinely novel Evasion interaction — no other class's reaction turns a confirmed hit into a miss after the fact rather than reducing/preventing damage.
 
+## Mythology & Cultural Lore (from the Class Lore Compendium)
+
+*Ink-Weavers: Those Who Write Magic on Living Canvas.*
+
+Tattooists claim their art predates civilization — the first tattoos were survival tools, not decoration: protection-marks warding evil, strength-symbols channeling power, identity-glyphs preventing soul-theft. Kira the Illustrated, a human whose entire body carried 347 active functional spells, exemplifies the tradition's furthest extreme; her tattoos eventually gained semi-consciousness, her skin becoming a living spellbook that sometimes cast independently of her will. The Second Age's god-binding ink provoked the Ink-Purge, gods burning tattooed rebels alive to destroy their art with them, and Ashkarra's Fall killed thousands of tattooists whose living tattoo-libraries — the "Burning Archives" — died with their bearers. Thread instability now drives a Fourth Age renaissance, since ink written directly onto living flesh stays stable where stored spells fail.
+
+**Source of Power (DM truth):** Tattoo magic accesses the [[Personal Glyphs]] — the fundamental force governing individual identity. Because the magic is written directly onto flesh, it becomes genuinely *part* of the bearer rather than a separate tool, making tattoo magic the most intimate form of magic in Dór-o Estel: the tattooist is literally editing their own existence.
+
+**Legendary figures:** Kira the Illustrated, whose 347 active tattoos eventually became semi-conscious, her skin functioning as a living spellbook capable of casting independently.
+
+*"Your power lives in books. In staves. In holy symbols you can lose. Mine? Mine is written on my skin. Permanent. Present. Personal... I am my magic. My magic is me. Inseparable. Eternal. True."* — The Tattooist's Truth
+
 ## See also
 
 - [[Welcome to FEARS]]
@@ -197,4 +210,5 @@ Inkguard's retroactive hit-to-miss conversion is a genuinely novel Evasion inter
 - [[Weapon Mastery]]
 - [[Last Stand]]
 - [[Class Reactions]]
+- [[Personal Glyphs]]
 - [[FEARS MOC]]

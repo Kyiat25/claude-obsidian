@@ -206,6 +206,21 @@ All three options reaffirm the standard permanent-death clause explicitly ("Once
 
 Multiclass prerequisite: CHA 13+. Bleed Points don't merge with other classes' point pools. Remnants Bound/Tier are read off the Binder table using only Binder levels. Recommended multiclass pairings: Charisma casters (Warlock/Sorcerer/Bard) for shared stat, Fighter/Barbarian for a durable host chassis, Rogue for the Severed's double tactics. A 1-level dip nets one Tier-1 remnant + 2 BP; a 3-level dip is the practical minimum to pick up a Binding Order. In [[Dór-o Estel]], Binders draw the same wariness once reserved for the old Summoners (sometimes worse, since the Marks are visible) — registration, monitoring, or arrest in some Loom-Cities; "mourner-for-hire" status in others that lost people to the Fracture.
 
+## Mythology & Cultural Lore
+
+> [!note] Original composition — no raw source
+> Binder is absent from all three `Class_Lore_Compendiums_DorOEstel` variants (they cover Runesmith/Shadowbinder/Tamer instead, three retired classes Bender/Warden/Binder replaced on the current roster). No `.raw/` source treats Binder's mythology. The section below was composed to fill that gap, following the Compendium's own template and staying consistent with established Dór-o Estel cosmology and the retired-Summoner note already on this page — it is original wiki content, not an ingestion, and carries no `.raw/` source citation. It also resolves, in-world, a detail this class's own mechanical source left unexplained: why every Binder's starting equipment includes "a personal effect belonging to the first remnant ever bound."
+
+*Keepers of the Unfinished: Those Who Give the Dead One More Task.*
+
+Binders trace their tradition to a single night at Ashkarra: Maren Duskhollow, fleeing the Burning Laboratories district, felt her brother Joran die beside her mid-sentence — cut off so suddenly that whatever in him carried his voice, his stubbornness, his half-said warning, never finished leaving. Rather than let that unfinished piece scatter into the corruption spreading through the city, or drift to whatever a Reaper or a psychopomp spirit might claim, Maren instinctively caught it and held it inside her own hands, her own mind, her own next breath. Joran never fully departed, and neither did Maren's grief — the two became the first binding, and Joran's own effects (a cracked signal-whistle, by most tellings) are still passed from Binder to Binder today as the "personal effect belonging to the first remnant ever bound" every new Binder is given at their own Binding Rite. Unlike the retired Summoner tradition it replaced — which called wholly separate creatures from outside — Binding only ever works on the specific, already-known dead; it is a grief practice as much as a magical one, which is why Loom-City authorities that once merely regulated Summoners now watch Binders with the same wariness reserved for necromancy, and why some cities that lost the most people to the Fracture instead treat Binders as licensed mourners-for-hire.
+
+**Source of Power (DM truth):** Binders access the [[Personal Glyphs]] — not their own, but the dying, incomplete Personal Glyph pattern of someone specific who did not finish unraveling at death. A remnant is not a soul in the sense a [[Reaper]] harvests (full consciousness-energy released cleanly through the [[Universal Glyphs]]); it is a fragment that never fully detached from the fate-pattern reality had marked for that person, still faintly asking to finish being them. A Binder doesn't command the dead, exactly — they lend their own living Personal Glyph as scaffolding for someone else's unfinished one to keep operating a little longer, which is why the class's own founding line ("I let them borrow my hands, and I ask, politely, that they give them back") is mechanically literal, not just poetic.
+
+**Legendary figures:** Maren Duskhollow, the first Binder, and Joran Duskhollow, her brother and the first remnant ever bound — his personal effect is still the oldest continuously-carried Binder relic in Dór-o Estel, older than any Loom-City's current government.
+
+*"They ask if I command the dead. I don't. Commanding implies they have nowhere else to be. My brother had somewhere else to be — he just didn't get to finish the sentence. So I finish it with him, one borrowed hand at a time, for as long as he'll let me, until the day he finally does."* — attributed to Maren Duskhollow
+
 ## See also
 
 - [[Classes_Summary]]
@@ -218,4 +233,7 @@ Multiclass prerequisite: CHA 13+. Bleed Points don't merge with other classes' p
 - [[Dór-o Estel]]
 - [[Last Stand]]
 - [[Class Reactions]]
+- [[Personal Glyphs]]
+- [[Universal Glyphs]]
+- [[Reaper]]
 - [[FEARS MOC]]

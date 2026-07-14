@@ -12,7 +12,7 @@ tags:
   - dm-only
 status: developing
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 entity_type: phenomenon
 role: "Eldritch Moon — memory of celestial catastrophe"
 first_mentioned: "[[Guide to the Eldritch Forces]]"
@@ -21,6 +21,7 @@ related:
   - "[[Guide to the Eldritch Forces]]"
 sources:
   - ".raw/Guide to the Eldritch_Forces.md"
+  - ".raw/Eldritch Moons.md"
 confidence: medium
 ---
 
@@ -43,6 +44,10 @@ Physical structures creak, fracture, and collapse; non-magical buildings have a 
 ## Madness
 
 Short-term: hallucinations of cracking and splintering. Long-term: belief the world is a dream being broken. Indefinite: phobia of containment, compulsively breaking things.
+
+## Glyph interactions and resistance
+
+Universal Glyphs of Balance, Time, and Arcane Flow destabilize — time-glyphs repeat or skip, form-glyphs cause polymorph failures or doubled body parts; Personal Glyphs visibly vibrate when cast, as if struggling to stay bound; Shatter, Dispel Magic, and Counterspell all function at +1 spell level but risk backlash on repeated same-day use. [[Gaeldros]], the Stone of Judgment, becomes volatile, his bones said to groan under pressure trying to keep the land from unraveling; the Fate-Weaver cannot maintain her Thread of Prediction, returning only fragmented riddles; Ceymarn, the Whisper-Vigil, is overwhelmed, sometimes seen sealing cracks in empty air while weeping threads of light.
 
 ## Campaign use
 

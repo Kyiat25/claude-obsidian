@@ -14,7 +14,7 @@ tags:
   - campaign-stakes
 status: developing
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 related:
   - "[[Guide to the Eldritch Forces]]"
   - "[[The Whispering Dark]]"

@@ -33,6 +33,7 @@ sources:
   - "[[Class_breakdown]]"
   - "[[Dynamic Combat System (DCS)]]"
   - ".raw/Investigator.md"
+  - ".raw/Class_Lore_Compendiums_DorOEstel_UPDATED.md"
 confidence: high
 ---
 
@@ -203,6 +204,14 @@ Draws from the shared **Proficiency Bonus pool**, refreshing short/long rest —
 | Quick Analysis | 2nd | A visible creature makes an attack roll | Force a reroll with disadvantage; if it still hits, mark with Exploit Weakness (+PB damage on the next hit against them). Against a Studied bloodied attacker whose Strength effect is known: spend 2 uses to also apply Analytical Counter | Shared PB pool |
 | Exploit Interruption | 5th | A Studied creature within 30 ft attacks, casts, or moves | Trip (STR save or movement halved/stopped), Expose (disadvantage on next attack; next ally attack has advantage), or Distract (if casting, STR save or the spell fails, slot not expended). At 11th, apply two counters to the same trigger | Shared PB pool |
 | Predictive Step | 7th | The designated Quarry makes an attack roll | Impose disadvantage on that attack roll | **INT mod per long rest — not the shared pool** |
+
+## Mythology & Cultural Lore (from the Class Lore Compendium)
+
+*"Truth-Seekers: Those Who Solve Mysteries."* Investigation as a discipline required civilization — you can't investigate murders without a society that creates murderers. Dwarven **Truthsayers** built legally unquestionable testimony on rigorous methodology rather than divine insight; [[Kel Varyan]] developed **Tide-Investigators** using water-scrying and emotional analysis, while [[Thar Vornhal]] created **Stone-Investigators**, judges who use earth magic to detect lies. **Ashkarra's Fall created the class's greatest unsolved case**: the official story (triple Spirit Thread alignment plus Eldritch Moon convergence) doesn't match the inconsistencies, suppressed evidence, and contradictory testimonies investigators kept finding — several who pursued it died investigating, others went silent, and the truth remains officially classified.
+
+**Source of Power (DM truth):** No supernatural power source — just observation, logic, and intuition refined to superhuman precision. But the compendium poses this as a genuine open question: if investigation thorough enough predicts and prevents crimes before they happen, is that not a form of magic? The theory offered is that master investigators access **probability manipulation** through pure skill, collapsing multiple possible futures into a single predicted outcome — mundane in method, but reality-warping in effect.
+
+**Philosophy**, from "The Investigator's Creed": *"Reality lies constantly. Memory lies. Evidence lies. Witnesses lie. Everyone lies. But reality is a bad liar... We don't create truth. We uncover it. This makes us dangerous to anyone whose power depends on lies. Which, looking at Dór-o Estel's power structures, is basically everyone."*
 
 ## See also
 

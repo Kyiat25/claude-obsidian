@@ -12,7 +12,7 @@ tags:
   - dm-only
 status: developing
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 entity_type: plane
 role: "The Feywild — the Weave's boundless dream"
 first_mentioned: ".raw/Luminous Echo.md"

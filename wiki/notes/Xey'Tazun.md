@@ -12,7 +12,7 @@ tags:
   - dm-only
 status: developing
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 entity_type: deity
 role: "Eldritch God of temporal collapse"
 first_mentioned: "[[Guide to the Eldritch Forces]]"
@@ -64,6 +64,10 @@ Déjà vu becomes constant; events happen out of order; people remember meeting 
 ## Role in the Hollow Thread
 
 Xey'Tazun's specialization — temporal corruption — is aimed at breaking the causality that maintains [[The Hollow Thread]]'s seal, making it exist in multiple timelines simultaneously (some where it holds, some where it fails), with the goal of merging a timeline where the seal never existed into reality itself.
+
+## Unwitting agent: Kethyr Flameheart
+
+Per [[Arc 2A - The Prophet of Ashes|Campaign Arc 2A]], Xey'Tazun granted a grieving Ashkarra-survivor priest, **Kethyr Flameheart**, a centuries-long warlock pact after his family was unmade in the Day of Twelve Shadows. Kethyr believes his subsequent crusade to reveal the gods' lie about creation is righteous truth-seeking; in fact his "visions" are Xey'Tazun's guidance, and every Faith temple he burns and every theological certainty he shatters weakens the belief-maintained containment referred to there as "the Nameless One Below" — i.e. [[The Hollow Thread]]'s seal.
 
 ## See also
 

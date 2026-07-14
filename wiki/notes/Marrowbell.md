@@ -12,7 +12,7 @@ tags:
   - dm-only
 status: seed
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 entity_type: spirit
 role: "Eldritch Spirit — Dream-Born category"
 first_mentioned: "[[Guide to the Eldritch Forces]]"

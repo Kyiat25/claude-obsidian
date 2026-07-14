@@ -12,7 +12,7 @@ tags:
   - dm-only
 status: developing
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 entity_type: phenomenon
 role: "Eldritch Moon — temporal frost"
 first_mentioned: "[[Guide to the Eldritch Forces]]"
@@ -22,6 +22,7 @@ related:
   - "[[Ith'Quess]]"
 sources:
   - ".raw/Guide to the Eldritch_Forces.md"
+  - ".raw/Eldritch Moons.md"
 confidence: medium
 ---
 
@@ -44,6 +45,10 @@ Stillness that transcends weather, magic, and thought. Known as "The Stillstone 
 ## Madness
 
 Short-term: belief that you're slowing down. Long-term: paranoia that emotions and memories are being frozen. Indefinite: refusal to act — becoming a passive observer.
+
+## Glyph interactions and resistance
+
+Transmutation spells have a 25% chance to fail entirely, freezing the target mid-shift; Spirit Glyphs involving passage, motion, or rebirth collapse into sigils of stasis; all chronomancy (haste, slow, time stop) becomes unstable, with 1-in-4 castings reversing or misapplying. Ceymarn, Whisper-Vigil, sends no spirits across the veil — the passageways freeze shut; the Restbringer's bells fall silent, even death itself waiting; the Goddess of Magic cannot feel parts of the Weave, as if frozen mid-thread, neither flowing nor breaking.
 
 ## Campaign use
 

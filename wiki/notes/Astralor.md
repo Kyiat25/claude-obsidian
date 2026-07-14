@@ -12,7 +12,7 @@ tags:
   - dm-only
 status: developing
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 entity_type: deity
 role: "the Overgod — one half of the Twins of Creation (literally Aeloria's sibling)"
 first_mentioned: "[[How the Five Layers Shape the Creation World]]"
@@ -34,6 +34,8 @@ sources:
   - ".raw/Hidden Cosmology Thread System.md"
   - ".raw/Twins of Creation.md"
   - ".raw/Creation World.md"
+  - ".raw/Astralor.md"
+  - ".raw/Aeloria.md"
 confidence: medium
 ---
 
@@ -51,7 +53,7 @@ The Creation World is described as Astralor's proving ground: here, he forges re
 
 ## The gap between what he believes and what's actually true
 
-[[Hidden Cosmology Thread System]] and [[Twins of Creation]] agree on the core irony of his position, even where they disagree on Aeloria's awareness: **Astralor's creations only work because [[Aeloria]] secretly stabilizes them**, a fact he has no knowledge of. [[Twins of Creation]] states this plainly — he never realizes "something else is shaping his works when he looks away." He doesn't know [[The Restorer]] exists either, and doesn't realize what he discards doesn't always vanish (the Restorer's actual function). The elemental gods he made believe *he* is the ultimate authority constraining their power; in truth, much of what constrains and shapes their existence is Aeloria's uncredited correction work layered invisibly on top of his design.
+[[Hidden Cosmology Thread System]] and [[Twins of Creation]] agree on the core irony of his position, even where they disagreed on Aeloria's awareness before [[Aeloria]]'s knowledge-hierarchy contradiction was ruled in [[Twins of Creation]]'s favor (2026-07-14): **Astralor's creations only work because [[Aeloria]] secretly stabilizes them**, a fact he has no knowledge of. [[Twins of Creation]] states this plainly — he never realizes "something else is shaping his works when he looks away." He doesn't know [[The Restorer]] exists either, and doesn't realize what he discards doesn't always vanish (the Restorer's actual function). The elemental gods he made believe *he* is the ultimate authority constraining their power; in truth, much of what constrains and shapes their existence is Aeloria's uncredited correction work layered invisibly on top of his design.
 
 ## A Force that doesn't always get its way
 
@@ -61,8 +63,16 @@ The Fourth Law (Form Glyphs) states that even when Astralor tries to erase certa
 
 [[Creation World]] adds a detail no other source mentions: Astralor unintentionally forged **[[Divine Sparks]]** — raw fragments of unresolved divinity — whenever iterations of perfection collapsed into unresolved creation. Neither he nor [[Aeloria]], [[The Whispering Dark]], or [[The Restorer]] intended this; together they accidentally created the origin material for the first gods. Astralor has no more awareness of this than he does of the Restorer's existence.
 
-> [!contradiction] Is Astralor a person, or an impersonal cosmic Law?
-> [[The Lie of Godhood]] states flatly that Astralor is "not a god, but the Law of Becoming... a pattern, not a person," the impersonal force shaping the Divine Rank System that governs mortal ascension to godhood — no god knows of Astralor before ascending, and even afterward only feels "the inescapable weight of the structure," never Astralor as a character. This directly contradicts every other source in this cluster, all of which give Astralor personality, memory, and a literal sibling ([[Aeloria]]). Flagged, not resolved — see [[Divine Sparks]] for the fuller writeup of this specific source and its unusual essay-like register.
+## The Celestial Forge and the Reset Principle
+
+A later, richer telling gives Astralor a fuller character: he resides beyond gods, beyond time, in the Celestial Forge, where stars are born and discarded in the same breath and reality is hammered endlessly. His **Reset Principle**: he has no hesitation erasing entire universes that don't meet his expectations, starting over again and again without looking back, since dwelling on the past wastes time better spent forging the next reality. He is Creator but not Maintainer — he builds but doesn't refine, shapes but doesn't adjust, commands but doesn't reconsider. This source states his blindness to Aeloria even more starkly than elsewhere in this cluster: he does not merely fail to credit her stabilizing work, he does not know she exists at all, full stop — see [[Aeloria]]'s own page for the "Great Silence" she wove specifically to ensure this.
+
+He acknowledges [[The Whispering Dark]] but doesn't fear it — to him destruction is meaningless, since he'll always create again, and erasure is insignificant, since he'll simply replace what was lost. He does not know how close the universe has repeatedly come to true annihilation, because [[Aeloria]] has always ensured even his resets don't erase everything that came before. Gods who serve him are, in his own view, merely tools and extensions of his work, disposable if they fail or grow too flawed — this is precisely why the gods fear him, not through punishment but through his casual willingness to consider their purpose temporary.
+
+> [!contradiction] RESOLVED — Is Astralor a person, or an impersonal cosmic Law?
+> [[The Lie of Godhood]] states flatly that Astralor is "not a god, but the Law of Becoming... a pattern, not a person," the impersonal force shaping the Divine Rank System that governs mortal ascension to godhood — no god knows of Astralor before ascending, and even afterward only feels "the inescapable weight of the structure," never Astralor as a character. This directly contradicted every other source in this cluster, all of which give Astralor personality, memory, and a literal sibling ([[Aeloria]]).
+>
+> **Ruled (2026-07-14):** Astralor and Aeloria are genuine entities — literal overgods, not impersonal laws — but they operate so far above even the gods' comprehension that what filters down to a god (or, far more diluted, to a mortal) is indistinguishable from an impersonal structural force. [[The Lie of Godhood]]'s "Law of Becoming" framing is kept as *true from the gods' epistemic vantage point* — it describes how an incomprehensibly vast entity is perceived and experienced by those beneath him, not what he actually is. Ontologically, Astralor is a person with the personality, memory, and Reset Principle described elsewhere in this cluster; phenomenologically, to any god who ascends through the Divine Rank System, he registers only as "the inescapable weight of the structure," because a being of his scale simply doesn't fit inside a god's frame of reference, let alone a mortal's. See [[Divine Sparks]] and [[The Lie of Godhood]] for the same ruling applied.
 
 ## Open questions
 

@@ -12,7 +12,7 @@ tags:
   - dm-only
 status: developing
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 entity_type: phenomenon
 role: "Eldritch Moon — viscous mockery of light"
 first_mentioned: "[[Guide to the Eldritch Forces]]"
@@ -24,6 +24,7 @@ related:
   - "[[Vezherak]]"
 sources:
   - ".raw/Guide to the Eldritch_Forces.md"
+  - ".raw/Eldritch Moons.md"
 confidence: medium
 ---
 
@@ -46,6 +47,10 @@ Appears when the Weave curdles, near corrupted leylines or failed sealing glyphs
 ## Madness
 
 Short-term: obsession with filth or purity. Long-term: discomfort with light. Indefinite: belief that everyone is melting.
+
+## Glyph interactions and resistance
+
+Form Glyphs become unreliable — healing spells may cause tissue swelling or glyphic boils; Earth Glyphs manifest as oil-veined stone, permanently blackened; Spirit Glyphs may burn when cast, leaving psychic backlash or glyphmarks on the caster's skin. In response, Earth Pantheon Warden-Stones begin to pulse, warning of subsurface corruption; the Restbringer's temples remain physically untouched but their glyphs blacken as if stained from within; [[Vaelora]] is said to shed black tears during the moon's rise, though whether she mourns the dead or the gods is unclear.
 
 ## Campaign use
 

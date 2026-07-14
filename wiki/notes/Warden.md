@@ -209,6 +209,21 @@ Choose: **Boon of the Immovable Force** (immune to forced movement; can't be kno
 
 Twentieth class confirming [[Last Stand]] as universal (of 21 per-class files ingested — [[Sorcerer]] remains the sole exception); all three options reaffirm the standard permanent-death clause (no exception — Bender remains the lone confirmed exception). **The Earth Remembers is the first Last Stand option in this cluster to name a saving throw without ever giving its DC formula** — every other class's save-based option has stated at least one of the `8/10/12+PB+ability` shapes; this one simply doesn't, on any of its five element variants.
 
+## Mythology & Cultural Lore
+
+> [!note] Original composition — no raw source
+> Warden is absent from all three `Class_Lore_Compendiums_DorOEstel` variants (they cover Runesmith/Shadowbinder/Tamer instead, three retired classes Bender/Warden/Binder replaced on the current roster). No `.raw/` source treats Warden's mythology. The section below was composed to fill that gap, following the Compendium's own template and staying consistent with established Dór-o Estel cosmology (including [[World Anchors and Thread System]]) — it is original wiki content, not an ingestion, and carries no `.raw/` source citation.
+
+*Unmoved Roots: Those Who Become the Ground They Defend.*
+
+Wardens trace their tradition to the first guardians who planted themselves at chokepoints — mountain passes, city gates, river fords — and simply refused to leave, absorbing every blow meant for what stood behind them until attacker and defender both forgot the Warden had ever been capable of retreat. During Ashkarra's Fall, as the city's own World Anchor buckled under the triple Spirit Thread alignment, several Wardens attempted to physically brace it — planting themselves at its base and channeling their Prime Element into the failing structure. No single Warden could out-anchor a dying World Anchor, and all who tried were lost with the city, but the attempt itself became the tradition's defining legend: the conviction that a body, held still and fed enough elemental will, can function as a small, mortal echo of what a World Anchor does at civilization's scale.
+
+**Source of Power (DM truth):** Wardens access the [[Elemental Glyphs]] the same way a Bender does — but where a Bender embraces the fluidity between them, a Warden locally *halts* it. Standing still long enough, and channeling hard enough into a single element, a Warden's body becomes a miniature stabilizing point, imposing the same kind of local permanence a [[World Anchors and Thread System|World Anchor]] imposes on reality at large — which is why Wardens instinctively read a battlefield the way a World Anchor reads a Loom-City, and why "the ground obeys" a Sentinel-discipline Warden almost literally. Neither Wardens nor the scholars who study them have ever connected this to actual World Anchor mechanics; it remains an unrecognized structural echo, not a stated in-world theory.
+
+**Legendary figures:** Borun Ironroot, a dwarf said to have held a mountain pass alone against a routed army for three days and nights without taking a single step backward, dying on his feet still facing the direction the enemy had come from — his stance is still taught as the founding posture of the Guardian discipline.
+
+*"The storm doesn't move for you. It moves through you. Plant your feet before you plant your argument — anyone can speak of holding ground. Fewer are still standing on it three days later."* — attributed to Borun Ironroot
+
 ## See also
 
 - [[Narrative Identity]]
@@ -224,4 +239,6 @@ Twentieth class confirming [[Last Stand]] as universal (of 21 per-class files in
 - [[Weapon Mastery]]
 - [[Last Stand]]
 - [[Class Reactions]]
+- [[Elemental Glyphs]]
+- [[World Anchors and Thread System]]
 - [[FEARS MOC]]

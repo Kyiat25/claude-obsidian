@@ -13,7 +13,7 @@ tags:
   - dm-only
 status: seed
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 entity_type: phenomenon
 role: "The forbidden, erased tenth Glyph — also called the Glyph of Unbeing"
 first_mentioned: "[[How the Five Layers Shape the Creation World]]"

@@ -13,7 +13,7 @@ tags:
   - secret-organization
 status: developing
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Setting & Campaign MOC]]"
 entity_type: organization
 role: "secret organization, unknowing agents of Aeloria"
 first_mentioned: "[[Hidden Cosmology Thread System]]"

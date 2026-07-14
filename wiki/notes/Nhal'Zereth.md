@@ -12,7 +12,7 @@ tags:
   - dm-only
 status: developing
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 entity_type: deity
 role: "Eldritch God of retroactive erasure"
 first_mentioned: "[[Guide to the Eldritch Forces]]"
@@ -24,6 +24,7 @@ related:
   - "[[Eldritch Moons]]"
 sources:
   - ".raw/Guide to the Eldritch_Forces.md"
+  - ".raw/Pantheon_Perspectives_on_Godhood.md"
 confidence: medium
 ---
 
@@ -62,6 +63,10 @@ Written records of recent events simply don't exist; multiple people insist an e
 | 2 (5-10) | Entire buildings vanish from city maps |
 | 3 (11-16) | Historical events begin unraveling, past changing |
 | 4 (17-20) | Players must prevent complete erasure of civilization |
+
+## Revelation: "you worship stones that fell from a sky that isn't real"
+
+Per `Pantheon_Perspectives_on_Godhood.md`, Nhal'Zereth articulates the Eldritch forces' partial cosmic truth more clearly than any other Eldritch God: *"You worship stones that fell from a sky that isn't real. Your Sparks are refugees from dead worlds, and you mistake your prison for paradise."* The Eldritch perspective holds that Divine Sparks are contamination from failed realities and the Glyph of Sovereignty is a quarantine seal — a partial truth the Eldritch don't realize applies to themselves too, since they were equally spawned from [[The Whispering Dark]]'s own brush against the Weave. Full five-pantheon-plus-Eldritch comparison on [[The Lie of Godhood]].
 
 ## Role in the Hollow Thread
 

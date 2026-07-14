@@ -12,7 +12,7 @@ tags:
   - dm-only
 status: seed
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 entity_type: phenomenon
 role: "Eldritch Moon — precursor sorrow"
 first_mentioned: "[[Guide to the Eldritch Forces]]"
@@ -21,6 +21,7 @@ related:
   - "[[Guide to the Eldritch Forces]]"
 sources:
   - ".raw/Guide to the Eldritch_Forces.md"
+  - ".raw/Eldritch Moons.md"
 confidence: low
 ---
 
@@ -46,6 +47,10 @@ Appears as a half-moon with a calming silver-blue glow — the light is a lie, a
 ## Madness
 
 Short-term: a compulsion to write wills and say goodbyes. Long-term: delusions of future deaths or punishments. Indefinite: belief that loved ones are already dead, though present.
+
+## Glyph interactions and resistance
+
+Divination Glyphs become hyper-reactive — augury and divination spells default to responses like "it will end in sorrow"; emotion-based spells (calm emotions, heroism) function at disadvantage; Spirit Glyphs of Memory and Compassion intensify, making casters feel a target's grief as their own. The Echoed Mother weeps openly through her oracles, speaking in voices not her own; Elythra, the Soulwoven, goes silent, offering only mirrors reflecting the face of someone feared lost; some claim Kyren, the Starlost Seer, cuts thread after thread in his own loom, unable to bear what lies beyond this moon.
 
 ## Campaign use
 

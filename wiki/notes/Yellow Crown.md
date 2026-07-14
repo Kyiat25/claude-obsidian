@@ -12,7 +12,7 @@ tags:
   - dm-only
 status: developing
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 entity_type: phenomenon
 role: "Eldritch Moon — coronation of madness"
 first_mentioned: "[[Guide to the Eldritch Forces]]"
@@ -23,6 +23,7 @@ related:
   - "[[Vezherak]]"
 sources:
   - ".raw/Guide to the Eldritch_Forces.md"
+  - ".raw/Eldritch Moons.md"
 confidence: medium
 ---
 
@@ -43,6 +44,10 @@ A shadow of forgotten divinity — royalty erased by the Glyph of Unbeing. Possi
 ## Madness
 
 Short-term: a desire to be recognized, fear of being overlooked. Long-term: belief one is destined to rule, hostility toward rivals. Indefinite: accepting that "the Crown wears you," not the other way around.
+
+## Glyph interactions and resistance
+
+Enchantment and Divination Glyphs turn gold-threaded and grow stronger, occasionally casting themselves at the nearest speaker of authority; Personal Glyphs of Identity and Name mutate, adding honorifics that cannot be removed; summoned creatures bow, salute, or speak in the tongue of forgotten courts. The Restbringer refuses to pass judgment while it holds — all death rites halt; the Veiled Hand hides the face of prophecy, fearing any revealed future would empower the Crown further; [[Mirag'Nael]] stirs in fractured temples, whispering rewritten histories of crowns that never were but should have been.
 
 ## Campaign use
 

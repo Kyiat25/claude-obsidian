@@ -30,6 +30,7 @@ sources:
   - "[[Classes_Summary]]"
   - "[[Bloodied Breaking Points Rally]]"
   - ".raw/Bard.md"
+  - ".raw/Class_Lore_Compendiums_DorOEstel_UPDATED.md"
 confidence: high
 ---
 
@@ -192,6 +193,14 @@ College of Swords removes Called Shot penalties during a Blade Flourish — see 
 
 **Jack of All Trades** adds half Proficiency Bonus to a [[Seize the Moment]] check; **Bardic Inspiration** helps allies capitalize on the +1 first-attack bonus from a successful attempt.
 
+## Mythology & Cultural Lore (from the Class Lore Compendium)
+
+*"Word-Weavers: Those Who Sing the World Into Being."* Bards claim their power predates language — that they wield the song reality used to dream itself awake, before Astralor's Fundamental Forces settled into form. Dwarven Deep Law was originally sung before it was ever carved into stone. The **Ballad Wars** of the Second Age saw entire battles decided through competing songs, casualties manifesting as forgotten memories or retroactively rewritten history rather than bodies. **300 bards survived Ashkarra's Fall** and sang their eyewitness accounts simultaneously across the continent, creating a permanent "memorial echo" in the Weave — bards who sleep near the ruins today still dream the fall in perfect detail.
+
+**Source of Power (DM truth):** Bardic power accesses the [[Form Glyphs]] — reality's self-image, what the universe believes about itself. A convincing enough performance changes reality to match the story, which is why bardic magic feels "softer" than a wizard's — it persuades reality rather than commanding it.
+
+**Legendary figures:** **Elensar the Hundred-Tongued** (First Age) — an elf who spoke languages before they existed, his songs creating dialects still used today. **The 300 of Ashkarra** (Third Age) — the survivor-witnesses whose simultaneous continent-wide performance created the permanent memorial echo. Core philosophy, attributed to Loremistress Yavanna's "The Performer's Paradox": *"The universe is narrative, not mathematics... When I sing a battle charge, I'm not inspiring soldiers — I'm convincing reality that victory is inevitable."*
+
 ## See also
 
 - [[Class_breakdown]]
@@ -205,4 +214,5 @@ College of Swords removes Called Shot penalties during a Blade Flourish — see 
 - [[Injury System]]
 - [[Last Stand]]
 - [[Class Reactions]]
+- [[Form Glyphs]]
 - [[FEARS MOC]]

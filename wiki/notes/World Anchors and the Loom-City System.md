@@ -14,7 +14,7 @@ tags:
   - campaign-setting
 status: developing
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 related:
   - "[[World Anchors and Thread System]]"
   - "[[Loom-Cities]]"
@@ -50,8 +50,8 @@ The founding narrative (deforestation destroying World Trees, the Faith orchestr
 
 **A historical precedent for the current crisis**: this source states the current Threadbearer mass-assassination crisis "has happened once before, during the Second Age," and that it caused massive political chaos, widespread war, mutual accusations, and generations-long collapse of inter-city trust — but did not cause Weave collapse either time. No equivalent precedent is mentioned in [[World Anchors and Thread System]].
 
-> [!contradiction] Which Loom-City's Threadbearer survives?
-> This source states "only Aeravae's hybrid system, more resistant to corruption through its living World Tree component, maintains full stability" — implying Aeravae is the sole untouched Anchor. [[World Anchors and Thread System]] instead states only Kel Varyan's Threadbearer survives. Documented on [[The Threadbearer Crisis]] and [[Ashkarra]], not resolved here.
+> [!contradiction] RESOLVED — Which Loom-City's Threadbearer survives?
+> This source states "only Aeravae's hybrid system, more resistant to corruption through its living World Tree component, maintains full stability" — implying Aeravae is the sole untouched Anchor. [[World Anchors and Thread System]] instead states only Kel Varyan's Threadbearer survives. **Ruled (2026-07-14) in favor of Kel Varyan** — see [[The Threadbearer Crisis]] for the full resolution. This source's Aeravae claim is kept as historical record, not treated as canon.
 
 ## Maintenance and mystery, restated
 

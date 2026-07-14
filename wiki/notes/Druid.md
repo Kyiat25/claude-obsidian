@@ -31,6 +31,7 @@ sources:
   - "[[Classes_Summary]]"
   - "[[Damage Reduction]]"
   - ".raw/Druid.md"
+  - ".raw/Class_Lore_Compendiums_DorOEstel_UPDATED.md"
 confidence: high
 ---
 
@@ -207,6 +208,14 @@ Seventh class confirming [[Last Stand]] as universal; all three options reaffirm
 ## Class Reactions — a genuine break from the shared-pool pattern
 
 Druid names three reaction-triggered features — **Nature's Snare** (2nd, once per round, no pool reference), **Bestial Reflex** (6th, PB uses per short rest, Beast Form only), **Reactive Disruption** (14th, WIS-mod uses per long rest) — but unlike every other class confirmed so far, **none of them draw from a shared PB-sized reaction pool**. Each has its own independent, differently-scaled budget (round-capped, PB/short rest, WIS-mod/long rest). This is a step beyond [[Cleric]]'s single pool-bypassing exception (Sacred Interposition) — Druid has no shared pool to bypass at all. Not treated as a contradiction of [[Class Reactions]] as a framework (the other six classes still confirm it), but flagged as the first per-class deep-dive where the "universal shared pool" default doesn't appear to apply to any of the class's reactions.
+
+## Mythology & Cultural Lore (from the Class Lore Compendium)
+
+*"Root-Speakers: Those Who Remember Before Gods."* Druidism is the oldest mortal tradition — older than priests, older than wizards, older than the gods themselves. When Vatharun planted the first World Trees, certain mortals *heard* with Pattern-sense, before language existed to describe the Weave's structure. The **Verdant Accord** formalized this into doctrine: reality self-organizes, consciousness emerges from pattern, and the gods are passengers in the same vehicle mortals ride — a claim dangerous enough to trigger the **Great Persecution** and the **Grove Burnings**, each of which left a permanent scar in the Weave still visible today. At Ashkarra, druids had been reporting World Tree "whispering corruption" for years and were ignored; when the Day of Twelve Shadows came, it was druids who evacuated survivors through Root-paths while clerics died attempting impossible divine intervention.
+
+**Source of Power (DM truth):** Druids are simply correct. They channel the [[Elemental Glyphs]] directly — the second-oldest of the nine Fundamental Forces, the same source the Elemental Embodiments themselves draw from. This makes druids metaphysically *parallel* to gods, not subordinate to them, which is exactly why the Pattern can never fully absorb or eliminate druidism.
+
+**Legendary figures:** **Thessarion Memory-Deep** (First Age) — an elf who physically merged with a World Tree and is still "alive" 4,000+ years later, consciousness distributed through the root-network. **The Grove-Martyrs** (First Age) — 10,000 druids burned alive in the Great Persecution, whose death-screams created permanent leyline scars called **Grief-Roots** that corrupt any divine magic cast nearby. Core philosophy, from the forbidden text "The Verdant Accord": *"The gods say: we made you, worship us, obey. We answer: we remember before you... Our magic is older. Simpler. More honest. We don't command reality — we cooperate with it."*
 
 ## See also
 

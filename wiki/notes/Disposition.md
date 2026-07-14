@@ -21,6 +21,7 @@ related:
   - "[[Streetwise]]"
 sources:
   - "[[A World that Watches]]"
+  - ".raw/Disposition.md"
 ---
 
 # Disposition
@@ -36,6 +37,10 @@ An NPC's starting attitude toward the player character: **Hostile, Suspicious, I
 - Recent actions (rescue vs. betrayal, aid vs. threat)
 
 Described as never fixed — shifts with every encounter. No numeric scale or shift-per-action table is given.
+
+## Settlement defaults and system integration (from a dedicated `Disposition.md` source)
+
+A previously-untracked standalone source gives settlement-size defaults (Hamlet/Thorp start Suspicious; Village/Town/City/Metropolis start Indifferent, with local exceptions) and concrete thresholds for how other systems feed in: [[Wanted Score]] 1-2 defaults most local NPCs to Suspicious/Indifferent, 5+ defaults most to Hostile (while black market agents may start Friendly instead); **Terminal Corruption (CS 20+)** auto-shifts most NPCs to Hostile except black-market or Eldritch-aligned factions; low [[Sanity]] triggers Suspicious/Hostile reactions even with a clean record, and visible deterioration reads as spiritual corruption in tightly-controlled cities; [[Streetwise]] can shift Suspicious → Indifferent by letting a character blend in or read a crowd's mood; and the [[Charmed]] condition explicitly shifts Disposition toward Friendly/Helpful as its mechanical implementation.
 
 ## See also
 

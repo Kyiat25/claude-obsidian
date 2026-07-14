@@ -14,7 +14,7 @@ tags:
   - saga
 status: developing
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 related:
   - "[[How the Five Layers Shape the Creation World]]"
   - "[[Hidden Cosmology Thread System]]"

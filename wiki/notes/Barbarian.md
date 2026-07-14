@@ -32,6 +32,7 @@ sources:
   - "[[Classes_Summary]]"
   - "[[Dynamic Combat System (DCS)]]"
   - ".raw/Barbarian.md"
+  - ".raw/Class_Lore_Compendiums_DorOEstel_UPDATED.md"
 confidence: high
 ---
 
@@ -206,6 +207,14 @@ Lower Focus means higher risk on [[Seize the Moment]] — same tradeoff as [[Fig
 
 Two subclass-specific reaction upgrades: Path of the Bear gains resistance to the triggering damage type when using a Tactical Reaction; Path of the Berserker's Raging Counterattacks trade advantage for Reckless Attack rules instead — see [[Reaction Subclass Features]]. Separate from the base-class Level 7 Primal Defiance reaction (Momentum-loss mitigation) and the three baseline Class Reactions above (Furious Defiance, Bloodrush Reprisal, Primal Shockwave), none of which are subclass-gated.
 
+## Mythology & Cultural Lore (from the Class Lore Compendium)
+
+*"Fury's Children: Those Who Remember the First Rage."* Barbarians claim no divine patron — their rage predates the gods, an inherited echo of the War of Elemental Becoming that birthed the universe's own violence. Orcish **Scar-Law** treats each battle-scar as ritual testimony, read by elders to determine truth; Goliaths of the Skyholds channel storm-fury directly into weather. **Ashkarra's Fall** devastated the class specifically — the dragonborn empire's "rage-priests" died trying to burn away the Day of Twelve Shadows' Eldritch corruption with pure fury and failed, a shame that still haunts barbarian culture.
+
+**Source of Power (DM truth):** Barbarian rage accesses the [[Primal Glyphs]] directly — one of the nine Fundamental Forces woven by Astralor, predating the gods and outlasting them. Rage is reality's *immune response* to wrongness, expressed through mortal flesh; raging briefly returns a barbarian to what the universe was during the Loomless Time — pure force without structure.
+
+**Legendary figures:** **Krag Stormfury** (Second Age) — a Goliath whose rage literally tore holes in reality, creating the first documented wild magic zones. **Ur-Skarn the Witness** (First Age) — an Orc who bore 10,000 ritual scars, her body a living law-book, attributed author of the class's core philosophy: *"Rage is not losing control — it's finding the truth beneath control... We are the storm. We are the breaking wave. We are the reminder that sometimes, the world needs breaking before it can heal."*
+
 ## See also
 
 - [[Class_breakdown]]
@@ -220,4 +229,5 @@ Two subclass-specific reaction upgrades: Path of the Bear gains resistance to th
 - [[Initiative System]]
 - [[Last Stand]]
 - [[Class Reactions]]
+- [[Primal Glyphs]]
 - [[FEARS MOC]]

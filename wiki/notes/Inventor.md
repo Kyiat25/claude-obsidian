@@ -30,6 +30,7 @@ sources:
   - "[[Classes_Summary]]"
   - "[[Class_breakdown]]"
   - ".raw/Inventor.md"
+  - ".raw/Class_Lore_Compendiums_DorOEstel_UPDATED.md"
 confidence: high
 ---
 
@@ -175,6 +176,14 @@ Draws from the shared **Proficiency Bonus pool**, refreshing short/long rest —
 | Emergency Gadget | 7th | Self or an ally within 30 ft is hit by an attack or targeted by a spell | Deploy a stored Specialisation gadget/invention that normally needs an action, as part of the reaction. Defensive effects (cover, obscurement, DR, forced saves) apply before the triggering damage resolves |
 | Infusion Burst | 7th | Self or an ally within 30 ft takes damage from an attack | Reduce the triggering damage by 2d6+INT mod (3d6+INT at 11th, 4d6+INT at 15th), or trigger the infused item's offensive/utility effect instead. **New Momentum interaction**: if the attack would have dropped the target below their Bloodied threshold, the attacker loses 1 Momentum |
 | Overclock | 7th | Attack action hits with an Inventor weapon or infused weapon | Roll an extra weapon damage die; target CON saves (DC 8+PB+INT) or has DR reduced by 2 until the Inventor's next turn |
+
+## Mythology & Cultural Lore (from the Class Lore Compendium)
+
+*"Reality-Engineers: Those Who Build Tomorrow."* Inventorship began when Secondary Glyphs were discovered and mortals realized magical effects could be *manufactured* — the first artifice wasn't art, it was mass production. Gnome inventor **Thaldrin Cogwhistle**'s Ever-Burning Lamp (a glyph-inscribed permanent light source) was magic without a mage, revolutionary at the time. The gods responded to the Second Age's **Maker Guilds** with the **Artifice Purges**, systematically destroying "blasphemous machines" that "usurped divine dominion" — thousands died, but technology once invented can't be uninvented. Ashkarra's fall destroyed the **Grand Manufactory**, the greatest technical library ever assembled, setting inventive knowledge back centuries.
+
+**Source of Power (DM truth):** Inventors unknowingly access the [[Form Glyphs]] — the Fundamental Force governing structure and pattern. When an inventor "invents," they aren't creating something genuinely new, they're *discovering* a form that already existed in potential and convincing reality to manifest it. True innovation is recognition, not creation — which makes every great inventor an unknowing reality-manipulator editing the universe's code through technological interface.
+
+**Legendary figures:** **Thaldrin Cogwhistle** (First Age) — inventor of the Ever-Burning Lamp. Core philosophy, from "The Manifesto of Making": *"They say gods created reality. We say: prove it. Show us the blueprints... Given sufficient time, knowledge, resources — mortals could build gods. Could build worlds. Could build reality itself. This terrifies them. Good."*
 
 ## See also
 

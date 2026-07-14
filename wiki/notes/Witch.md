@@ -34,6 +34,7 @@ sources:
   - "[[Class_breakdown]]"
   - "[[Dynamic Combat System (DCS)]]"
   - ".raw/Witch.md"
+  - ".raw/Class_Lore_Compendiums_DorOEstel_UPDATED.md"
 confidence: high
 ---
 
@@ -190,6 +191,18 @@ Draws from the shared **Class Reaction Pool** (PB uses per short or long rest); 
 
 Hex Ward and Hex-Turn overlap in shape (both redirect a hexed creature's attack via a CHA save) but trigger differently — Hex Ward only fires when the Witch themself is the original target, Hex-Turn fires on any attack roll by a hexed creature.
 
+## Mythology & Cultural Lore (from the Class Lore Compendium)
+
+*Implement-Binders: Those Who Make Spirits Their Tools.*
+
+Witches emerged from the discovery that spirits will inhabit objects if asked properly — a witch binding a spirit to an implement (cauldron, broom, candle, mirror, knife) creates a living tool, neither fully spirit nor fully object. Thessara the Hundred-Implements, who bound 100 different spirits into 100 different objects simultaneously, built a workshop that continued operating autonomously for decades after her death, fulfilling contracts she'd made with the bound spirits. The Second Age's discovery of the Witch's Mark — a curse-technique that finds hairline cracks in a target's defenses and applies calculated pressure until reality frays around them — made witches feared as curse-workers rather than mere spirit-negotiators. Ashkarra's Fall shattered thousands of implements and devastated coven-networks, but survivors learned to bind spirits fleeing the dimensional collapse itself.
+
+**Source of Power (DM truth):** Spirit-binding accesses the [[Universal Glyphs]] — the same fundamental force governing relationship and connection that underlies [[Tamer]] partnerships and [[Reaper]] consciousness-harvest — creating a hybrid entity (neither spirit nor object) capable of effects neither component could achieve alone. The Witch's Mark works through what the Compendium calls "**Flaw Glyphs**," channeling cosmic imperfections (Pride, Wrath, Fear, Envy) directly into a target's existence — not a curse but an invitation for their own Flaws to manifest. *Flagged discrepancy:* like Shaman's "Spirit Glyphs," "Flaw Glyphs" does not appear among the five established Glyph layers (Primal, Universal, Elemental, Form, Personal) in [[How the Five Layers Shape the Creation World]]; left unresolved pending a source that clarifies whether Flaws constitute a sixth layer or are a Compendium-specific gloss on an existing one.
+
+**Legendary figures:** Thessara the Hundred-Implements, whose bound-spirit workshop kept operating autonomously for decades after her own death.
+
+*"I say: I negotiated. With spirits older than gods, wiser than wizards, more patient than clerics... My implements aren't tools—they're colleagues... My power isn't mine. It's negotiated, borrowed, temporarily granted by spirits who could refuse anytime. But they don't refuse. Because our partnership works."* — The Implement-Binder's Pact
+
 ## See also
 
 - [[Welcome to FEARS]]
@@ -204,4 +217,6 @@ Hex Ward and Hex-Turn overlap in shape (both redirect a hexed creature's attack 
 - [[Weapon Mastery]]
 - [[Last Stand]]
 - [[Class Reactions]]
+- [[Universal Glyphs]]
+- [[How the Five Layers Shape the Creation World]]
 - [[FEARS MOC]]

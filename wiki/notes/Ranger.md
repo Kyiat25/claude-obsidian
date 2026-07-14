@@ -30,6 +30,7 @@ sources:
   - "[[Classes_Summary]]"
   - "[[Dynamic Combat System (DCS)]]"
   - ".raw/Ranger.md"
+  - ".raw/Class_Lore_Compendiums_DorOEstel_UPDATED.md"
 confidence: high
 ---
 
@@ -197,6 +198,18 @@ Draws from the shared **Proficiency Bonus pool**, refreshing short/long rest, no
 | Quarry Interpose | 3rd | The marked target attacks an ally within 30 ft | Disadvantage; if it still hits, reduce damage by 1d8+PB. Against bloodied marked targets: intercept entirely by moving 10 ft (become the target), gaining resistance to that damage |
 | Hunter's Snare | 11th | The marked target moves within 30 ft | STR save (DC 8+PB+WIS) or restrained until end of their next turn + PBd6 piercing. Against bloodied marked targets: DC +2, also grappled, damage PBd8 |
 
+## Mythology & Cultural Lore (from the Class Lore Compendium)
+
+*Apex Predators: Those Who Make the Hunt Sacred.*
+
+Rangers emerged when mortals discovered killing requires more than strength — the perfect hunt demands reading prey's footprints in reality itself, across physical, elemental, and magical trails simultaneously. Kethran Death-Arrow's legendary shot on a regenerating hydra (an arrow that pierced the creature's regeneration magic itself, not just its flesh) exemplifies the First Age's instinctual, survival-driven magic tradition. Ashkarra's Fall killed thousands of rangers during evacuation efforts, but survivors emerged with unmatched experience tracking and killing eldritch abominations, founding the Corruption Hunter tradition that persists into the Fourth Age's predator renaissance.
+
+**Source of Power (DM truth):** Rangers believe their instinctual magic flows from survival imperative made supernatural. In truth, rangers access the [[Primal Glyphs]] through pure predatory intent — when a ranger marks prey, they are writing "death" directly onto the target's fate. Their tracking isn't observation but destiny manipulation: the arrow doesn't travel to the target, the target travels to the arrow. Rangers are, unknowingly, fate-assassins who delete prey from reality's future; the arrow merely confirms what their will already decided.
+
+**Legendary figures:** Kethran Death-Arrow, the human ranger whose arrows found targets' magical signatures rather than their physical position, killing a legendary hydra with a single shot that suppressed its regeneration for a century.
+
+*"When I mark prey, I'm not aiming weapon. I'm aiming universe. My arrow is probability compressed into physical form... I am apex predator. Not through strength—through certainty. When I hunt you, you're already dead. You just haven't realized yet."* — The Apex Predator's Truth
+
 ## See also
 
 - [[Class_breakdown]]
@@ -211,4 +224,5 @@ Draws from the shared **Proficiency Bonus pool**, refreshing short/long rest, no
 - [[Weapon Mastery]]
 - [[Last Stand]]
 - [[Class Reactions]]
+- [[Primal Glyphs]]
 - [[FEARS MOC]]

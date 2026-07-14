@@ -12,7 +12,7 @@ tags:
   - dm-only
 status: developing
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 entity_type: plane
 role: "Anti-reality plane, distinct from Feywild and Shadowfell"
 first_mentioned: "[[Guide to the Eldritch Forces]]"

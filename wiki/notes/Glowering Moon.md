@@ -12,7 +12,7 @@ tags:
   - dm-only
 status: developing
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 entity_type: phenomenon
 role: "Eldritch Moon — forced fixation"
 first_mentioned: "[[Guide to the Eldritch Forces]]"
@@ -21,6 +21,7 @@ related:
   - "[[Guide to the Eldritch Forces]]"
 sources:
   - ".raw/Guide to the Eldritch_Forces.md"
+  - ".raw/Eldritch Moons.md"
 confidence: medium
 ---
 
@@ -43,6 +44,10 @@ Watches intensely, endlessly, unyieldingly — the first cosmic awareness the We
 ## Madness
 
 Short-term: feeling watched from behind every mirror, glyph, or eye. Long-term: saying others' thoughts aloud before they think them. Indefinite: belief that you are the one watching — the world performs for you.
+
+## Glyph interactions and resistance
+
+Divination Glyphs become overcharged, pulling information that should not be retrievable — scrying shows false and true images overlapping like double exposure; detect thoughts pulls surface thoughts from anyone nearby, not just the target; illusion and invisibility fail 50% of the time outside sealed or sacred space. The Fate-Weaver coils her threads, cutting even her faithful off from future knowledge; Seralyne, Blade of Threads, sharpens her magic against being seen, becoming unreachable; the Restbringer closes the veil harder than ever, and resurrection spells fail as souls flee the sight of the moon.
 
 ## Campaign use
 

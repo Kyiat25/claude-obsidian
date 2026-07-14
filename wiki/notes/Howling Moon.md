@@ -12,7 +12,7 @@ tags:
   - dm-only
 status: developing
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 entity_type: phenomenon
 role: "Eldritch Moon — primal beast-awakening"
 first_mentioned: "[[Guide to the Eldritch Forces]]"
@@ -21,6 +21,7 @@ related:
   - "[[Guide to the Eldritch Forces]]"
 sources:
   - ".raw/Guide to the Eldritch_Forces.md"
+  - ".raw/Eldritch Moons.md"
 confidence: medium
 ---
 
@@ -45,6 +46,10 @@ Every night a phantom howl rolls across the land, not from beasts but from the W
 ## Madness
 
 Short-term: heightened hearing, phantom howls, hunting sounds. Long-term: identity fracture, believing oneself a beast in disguise. Indefinite: belief that civilization is a lie and one's true form is feral and divine.
+
+## Glyph interactions and resistance
+
+Form Glyphs become unstable, often imprinting animalistic traits — polymorph spells may produce a wrong but violent form; Personal Glyphs mutate, especially among lycanthropes, druids, rangers, and primal-path warriors; blood magic and ancestral glyphs (goliaths, orcs, shifters) may temporarily "remember" a previous lineage. The Earth Pantheon trembles as stone-carved glyphs howl faintly at dusk; the Goddess of Magic suffers backlash as druidic glyphs mutate and bestial runes glow hot; the Spirit Pantheon's Restbringer grows distant as the veil between soul and shape turns turbulent.
 
 ## Campaign use
 

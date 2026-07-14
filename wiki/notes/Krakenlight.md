@@ -12,7 +12,7 @@ tags:
   - dm-only
 status: developing
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 entity_type: phenomenon
 role: "Eldritch Moon — oceanic dread"
 first_mentioned: "[[Guide to the Eldritch Forces]]"
@@ -22,6 +22,7 @@ related:
   - "[[Water Pantheon]]"
 sources:
   - ".raw/Guide to the Eldritch_Forces.md"
+  - ".raw/Eldritch Moons.md"
 confidence: medium
 ---
 
@@ -44,6 +45,10 @@ A shimmering shape with no celestial source, pulsing with an eerie lunar cadence
 ## Madness
 
 Short-term: disorientation on land, constant rocking sensation. Long-term: an aquatic obsession, constant thirst, belief that one belongs in the ocean. Indefinite: the belief that the moon is beneath the sea and dry land is the lie.
+
+## Glyph interactions and resistance
+
+Water glyphs behave unpredictably — create/destroy water may cause localized flooding or salt-boil, control water can generate backward currents or echoes of drowned cities; Abjuration glyphs fail at sea, unraveling wards on ships and coastlines; summoning spells may call Eldritch aquatic hybrids instead of the intended creature. [[Vaelora]], Deep Mother, becomes fragmented, her vision of the seas clouded, and some of her shrines begin leaking ink instead of holy water; Ceymarn reports rift-signatures from beneath sealed tomb-reefs once protected by the Earth Pantheon; some believe the Krakenlight calls to the drowned, offering them voice and vessel in the waking world.
 
 ## Campaign use
 

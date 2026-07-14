@@ -11,7 +11,7 @@ tags:
   - dm-only
 status: developing
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 entity_type: infrastructure
 role: "The veins of magic — the primary circulatory system of the Weave"
 first_mentioned: "[[Three Pillars of Magical Flow]]"

@@ -12,7 +12,7 @@ tags:
   - dm-only
 status: seed
 mocs:
-  - "[[FEARS MOC]]"
+  - "[[Dór-o Estel Cosmology MOC]]"
 entity_type: phenomenon
 role: "The Frame That Whittles the Weave — restraint on the four Primal Forces"
 first_mentioned: ".raw/Veiled Star.md"

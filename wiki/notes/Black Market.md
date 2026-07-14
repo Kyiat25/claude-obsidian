@@ -21,6 +21,7 @@ related:
 sources:
   - "[[A World that Watches]]"
   - ".raw/FEARS Advanced Backgrounds - Batch 1.md"
+  - ".raw/Black Market.md"
 ---
 
 # Black Market

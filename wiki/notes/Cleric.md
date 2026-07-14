@@ -31,6 +31,7 @@ sources:
   - "[[Classes_Summary]]"
   - "[[Bloodied Breaking Points Rally]]"
   - ".raw/Cleric.md"
+  - ".raw/Class_Lore_Compendiums_DorOEstel_UPDATED.md"
 confidence: high
 ---
 
@@ -168,6 +169,14 @@ Reactions drawn from the shared PB pool (refresh short/long rest) as established
 ## Enemy-morale hook (from Bloodied Breaking Points Rally)
 
 **Bane** on enemy [[Enemy Rally]] checks; **Turn Undead** (now confirmed as the formal ability **Turn the Profane**, see above) forces an automatic rout on undead — still notable since [[Breaking Points]] otherwise states undead/constructs are *immune* to morale entirely, making this a specific carve-out. The per-class deep-dive doesn't address this Breaking-Points interaction directly, so the underlying open question (spell-granted exception vs. genuine inconsistency) remains unresolved even with the fuller Turn the Profane mechanics now known.
+
+## Mythology & Cultural Lore (from the Class Lore Compendium)
+
+*"Divine Conduits: The Chosen of the Bound Pattern."* Clerics existed before they had gods to serve — the first faithful didn't worship the Elemental Embodiments (Vatharun, Nereus, Soltharion, Veydras, Nyzara), they *resonated* with them as living instruments for cosmic forces seeking mortal expression, only later mistaking those forces for creators. The Second Age's **Silence of the Twelve** saw twelve powerful clerics simultaneously lose all divine connection for three days; when power returned, none would explain what they'd experienced — some say they learned the gods' true origin and were struck mute for it. 3,000 clerics died at Ashkarra trying to channel divine power against the Eldritch corruption of the Day of Twelve Shadows, a failure that shook faith continent-wide.
+
+**Source of Power (DM truth):** Divine power is genuinely **hybrid**. The younger Divine Spark gods truly do grant power in response to faith. But the Elemental Embodiments don't grant power at all — they *are* power, and clerics who serve them channel cosmic force directly rather than receiving a gift. Some clerics unknowingly serve gods; others unknowingly channel raw cosmic forces through a theological framework. Neither is wrong.
+
+**Legendary figures:** **Saint Tharivol the Questioning** (First Age) — received genuine divine visions despite publicly doubting the gods' creation-claim, proving faith and doctrine aren't identical. **The Twelve Silent** (Second Age) — the clerics of the three-day Silence, still refusing to explain what they learned. Core philosophy, from "Meditations of a Field Medic," an anonymous Corvessan war-priest: *"They ask: how do you know your god is real? I answer: I don't. I believe. And belief becomes real when sufficient people share it... I heal. I bless. I guide. I stand between mortals and darkness. Call it what you will. I call it faith."*
 
 ## See also
 

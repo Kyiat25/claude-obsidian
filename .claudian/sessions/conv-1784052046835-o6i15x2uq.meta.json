@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784052046835-o6i15x2uq",
+  "providerId": "claude",
+  "title": "Identify open contradictions",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784052046837,
+  "updatedAt": 1784052603152,
+  "lastResponseAt": 1784052551213,
+  "sessionId": "77b2031b-721a-479b-b003-49e53c36cc3c",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "77b2031b-721a-479b-b003-49e53c36cc3c"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 932,
+    "cacheReadInputTokens": 57335,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 58277,
+    "percentage": 29
+  }
+}
