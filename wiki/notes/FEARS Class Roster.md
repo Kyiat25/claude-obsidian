@@ -72,9 +72,9 @@ The definitive 24-class list per [[Classes_Summary]], the first source to give a
 | [[Apothecary]] | Science of Survival | Reagent-driven Concoctions |
 | [[Binder]] | Vessel of the Unfinished Dead | Bleed Points (replaces retired Summoner) |
 
-## Naming collision — not resolved
+## Naming collision — resolved by user ruling
 
-"Exploit Weakness" is [[Investigator]]'s signature ability per [[Welcome to FEARS]], but [[Class_breakdown]] gives that exact name to [[Rogue]] instead (renaming Investigator's version "Exploit Vulnerability"). Flagged on both pages, not silently reconciled.
+"Exploit Weakness" is [[Investigator]]'s signature ability per [[Welcome to FEARS]], but [[Class_breakdown]] gives that exact name to [[Rogue]] instead (renaming Investigator's version "Exploit Vulnerability"). **Resolved**: [[Rogue]]'s own deep-dive never uses "Exploit Weakness" at all (folded into Sneak Attack), so [[Investigator]] keeps sole ownership of both "Exploit Vulnerability" and "Exploit Weakness" as its own studied two-stage progression. Rogue's reactive version of the same fantasy lives inside Sneak Attack, unnamed.
 
 ## Shared systems (all 24 classes)
 
