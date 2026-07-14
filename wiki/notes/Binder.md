@@ -92,14 +92,16 @@ Every bound remnant leaves a visible sign (narrative flavor, no default mechanic
 
 ### Bleed Points (1st level)
 
-A pool of **Bleed Points (BP)**, max per the table. Gained (max once per trigger per round): taking damage from an attack/effect, an enemy within 30 ft dropping to 0 HP or being reduced to Bloodied by the Binder's attack, or failing a Focus or Sanity saving throw. No explicit [[Momentum]] interaction anywhere in this document — the first per-class deep-dive with zero Momentum mention, despite Bleed Points' gain triggers structurally resembling Momentum's own (taking damage, dropping an enemy) — flagged as an observation, not a contradiction.
+A pool of **Bleed Points (BP)**, max per the table. Gained (max once per trigger per round): taking damage from an attack/effect, an enemy within 30 ft dropping to 0 HP or being reduced to Bloodied by the Binder's attack, or failing a Focus or Sanity saving throw. This document has zero [[Momentum]] mentions despite Bleed Points' gain triggers structurally resembling Momentum's own (taking damage, dropping an enemy) — see the two confirmed hooks below, added by user ruling to close that gap.
 
 **Spending**: **Push the Bind** (1 BP) — one extra damage die or impose disadvantage on a triggered save from a remnant's active ability, once per use. **Steady the Crack** (2 BP, reaction on taking damage) — reduce damage by 1d8 + Binder level. **Force the Bind** (3 BP, bonus action) — treat one additional unselected remnant as bound for 1 minute; can't reuse until a rest. All BP regained on a short or long rest.
 
-> [!note] Proposed design addition — not in source
-> Discussed with the user as a fix for Binder's zero-Momentum-interaction gap (see above). Not present in `.raw/Binder.md`; `.raw/` is immutable and was not edited. Suggested wording, offered here for the user's own design document, not treated as confirmed class content:
-> **Momentum Surge** — When you spend a Bleed Point to Push the Bind and the triggered ability succeeds (the attack hits, or the target fails the imposed save), gain +1 Momentum, as the remnant's borrowed strength finds its rhythm inside you.
-> Chosen over the two other options discussed (a flat trigger on any successful remnant active ability, or a Momentum gain on Rebinding mid-combat) because it mirrors Barbarian's Counterattack-via-forgoing-Evasion pattern — a spend-plus-success trigger, not a free one — keeping Momentum gain tied to Binder's actual risk/reward lever (Bleed Points) rather than to routine remnant use.
+> [!note] Momentum hooks — resolved by user ruling, original addition
+> Not present in `.raw/Binder.md`; `.raw/` is immutable and was not edited. Added to close Binder's zero-Momentum-interaction gap — the only per-class deep-dive with none at all, despite Bleed Points and Momentum sharing near-identical gain logic.
+>
+> **Borrowed Rhythm** — When you spend a Bleed Point to Push the Bind and the triggered ability succeeds (the attack hits, or the target fails the imposed save), gain +1 Momentum, as the remnant's borrowed strength finds its rhythm inside you. (Named to avoid colliding with [[Sorcerer]]'s existing "Momentum Surge" reaction option — chosen over a flat trigger on any successful remnant ability, or a gain on mid-combat Rebinding, because it mirrors Barbarian's Counterattack-via-forgoing-Evasion pattern: a spend-plus-success trigger, tied to Binder's actual risk/reward lever rather than routine remnant use.)
+>
+> **Cracked Vessel** — When your Momentum resets to 0 from a Major Injury or Fatal/0 HP threshold, gain 1 Bleed Point (in addition to any BP already gained from the same triggering damage). The vessel cracks further, but something of the remnants' strength seeps through the break. Ties Binder's core "wear becomes power" identity directly to Momentum's own harshest loss event, rather than leaving that moment mechanically inert for this class alone.
 
 ### Rebinding (2nd level)
 
@@ -198,9 +200,11 @@ Each has a Trait (passive) and an Active ability (bonus action unless stated, on
 
 All three options reaffirm the standard permanent-death clause explicitly ("Once a Last Stand is invoked, the character permanently dies... cannot return this character to life") — unlike [[Bender]]'s Elemental Rebirth exception, Binder's options don't break this rule. Fifth class confirming [[Last Stand]] as universal.
 
-## Weapon Mastery: total silence, resolves an old open question
+## Weapon Mastery: Non-Martials tier (resolved by user ruling)
 
-[[Weapon Mastery System]]'s tier table (Fighter/Full Martials/Half-Martials/Non-Martials) never listed Binder in any category — flagged at the time as an unresolved gap. This per-class deep-dive doesn't mention Weapon Mastery, mastered weapons, or Weapon Skills once across its full ~650 lines; Binder's proficiencies are simple weapons only, and every Remnant ability is a spell attack (melee or ranged), not a weapon attack. This is strong evidence — not explicit confirmation — that Binder simply doesn't participate in the Weapon Mastery subsystem the way every other ingested class does, rather than the profile being merely "unknown." Updated on [[Weapon Mastery]] accordingly.
+[[Weapon Mastery System]]'s tier table (Fighter/Full Martials/Half-Martials/Non-Martials) never listed Binder in any category — flagged at the time as an unresolved gap. This per-class deep-dive doesn't mention Weapon Mastery, mastered weapons, or Weapon Skills once across its full ~650 lines; Binder's proficiencies are simple weapons only, and every Remnant ability is a spell attack (melee or ranged), not a weapon attack.
+
+That silence was originally read as Binder opting out of the subsystem entirely. **Resolved**: it's the exact same silent-omission shape that confirmed Sangromancer, Warlock, and Witch as **Non-Martials** rather than total exclusions — Binder's "Weapons: simple" proficiency and simple-weapon starting equipment match that row precisely. Binder joins the Non-Martials tier: **5 crits with a simple weapon unlocks Weapon Mastery**, martial weapon mastery only via the Weapon Adept feat — in practice this will rarely matter, since Binder's real kit runs entirely on Remnant spell attacks, same as Wizard or Sorcerer. See [[Weapon Mastery]] for the full ruling.
 
 ## Multiclassing, party role, and setting notes (condensed)
 

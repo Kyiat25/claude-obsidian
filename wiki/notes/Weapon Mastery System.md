@@ -55,7 +55,7 @@ This document uses **"Technique Point"** exclusively and repeatedly for Monk's (
 
 ## Contradiction: Summoner vs. Binder
 
-The starting-mastery and non-martial-caster tables both list **Summoner** with a full weapon profile ("One simple weapon... Minimal personal combat investment — creatures fight for them"). **Binder is never mentioned anywhere in this document.** [[Classes_Summary]] states unambiguously that "The Summoner has been replaced outright by the Binder." This document's silence on Binder and continued treatment of Summoner as current is the same kind of version-mismatch signal as [[The Dynamic Combat System (Excluded Draft)]] — not marked excluded here, but likely an earlier snapshot predating the rename. Binder's Weapon Mastery profile remains genuinely unknown; not fabricated by analogy to Summoner's.
+The starting-mastery and non-martial-caster tables both list **Summoner** with a full weapon profile ("One simple weapon... Minimal personal combat investment — creatures fight for them"). **Binder is never mentioned anywhere in this document.** [[Classes_Summary]] states unambiguously that "The Summoner has been replaced outright by the Binder." This document's silence on Binder and continued treatment of Summoner as current is the same kind of version-mismatch signal as [[The Dynamic Combat System (Excluded Draft)]] — not marked excluded here, but likely an earlier snapshot predating the rename. **Resolved by user ruling**: Binder's own deep-dive is silent on Weapon Mastery in the same shape as Sangromancer/Warlock/Witch, all three of which that silence confirmed as Non-Martials rather than total exclusion — Binder joins that row too. See [[Weapon Mastery]] for the full ruling.
 
 ## Fighter's exact multi-mastery math
 
