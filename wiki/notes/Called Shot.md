@@ -40,6 +40,7 @@ sources:
   - "[[Dynamic Combat System (DCS)]]"
   - "[[Bloodied Breaking Points Rally]]"
   - ".raw/Called Shots.md"
+  - "[[The Dynamic Combat System (Excluded Draft)]]"
 confidence: high
 ---
 
@@ -123,9 +124,11 @@ This source revealed two previously-unseen systems, each visible only through th
 - [[Investigator]]'s **Forensic Called Shot** (5th level): the same penalty-reduction shape as Fighter's Surgical Precision (reduce by PB, an arm shot's −2 becomes +1 at PB +3), but restricted to Called Shots against the Investigator's designated Quarry specifically rather than any target.
 - [[Monk]]'s **Deadeye Strike** (15th level): once per turn, reduce the Called Shot penalty by DEX modifier (minimum reduction of 1) — the same access-route shape as Fighter's and Investigator's hooks, but scaled by an ability modifier instead of PB.
 
-## Open gap: no confirmed save DC formula
+## Save DC (resolved by user ruling)
 
-None of the tables above state a DC for the Called Shot saving throw itself — only which ability the target saves with. [[The Dynamic Combat System (Excluded Draft)|An excluded earlier draft]] gives `DC = 8 + Proficiency Bonus + attacker's ability modifier`, which is plausible and consistent with standard 5E-style formulas, but comes from a source explicitly marked non-canonical. Not adopted here — flagged as an open question on [[FEARS MOC]] pending a confirmed source.
+`DC = 8 + Proficiency Bonus + attacker's ability modifier` (the same ability used for the attack roll — STR/DEX for a weapon Called Shot, the caster's spellcasting ability for a spell-delivered one). Matches the house `8 + PB + ability` shape used everywhere else in FEARS (every confirmed caster spell-DC sighting).
+
+This number was previously only sourced from [[The Dynamic Combat System (Excluded Draft)]] — an explicitly non-canonical, low-confidence source — and flagged as an open gap on [[FEARS MOC]]. **Resolved by user ruling**: the real risk of a Called Shot was never the target's save DC anyway — it's the attack-roll penalty itself (−2 to −7, confirmed identically across three sources), which is already a fully realized, well-tuned risk/reward trade against [[Damage Reduction]] bypass (see the worked table above). The save DC only governs whether the *bonus rider effect* also lands on top of an already-risky hit, so adopting the excluded draft's formula here doesn't change that risk/reward balance — it just resolves the one number nothing else in canon supplied. Promoted to confirmed canon on this basis.
 
 ## See also
 
