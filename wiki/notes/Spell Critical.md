@@ -59,9 +59,11 @@ A Spell Critical fires on a natural 20 on a spell attack roll, a target's natura
 
 [[Unstable Magic Zones]] previously stated no table or DC existed for which of Arcane Rift / Wild Magic Zone / Dead Magic Zone results from a Critical Spell Hit — pure GM adjudication. This source supplies that table (the Focus Check above), plus a fourth "Enhanced Arcane Rift" outcome not previously documented. [[Unstable Magic Zones]] updated accordingly.
 
-## Fracture Save / Fracture Effect (partially confirmed)
+## Fracture Save / Fracture Effect (Spell Critical variant, resolved)
 
-Confirms a **Fracture Save** (DC 10 + PB) exists and is tied to the Sanity system. The full **Fracture Effect** itself — what actually happens on a failed save — is not detailed by this source ("from the Sanity system" is a pointer, not a definition). `Fracture Whispers.md`, still uningested, is expected to supply the actual effect table. [[Sanity]] updated to reflect the Save formula as confirmed while flagging the Effect as still pending.
+Confirms this source's own **Fracture Save** variant (DC `10 + PB`, scaled to the casting creature) exists and is tied to the Sanity system — triggered specifically when a creature already Frightened by this Spell Critical's Fear Effect fails its follow-up save. The **Fracture Effect** itself — what happens on a failed save — is not detailed by this source ("from the Sanity system" is a pointer, not a definition); [[Fracture Whispers]] later supplied the actual effect table, now used for this variant too.
+
+Previously flagged as a DC-formula conflict against [[Sanity & Focus in Combat]]/[[Fracture Whispers]]'s `13 + Whisper Points` formula. **Resolved by user ruling**: these are two distinct mechanics sharing a name, not one formula stated two ways — this variant fires off a Spell Critical's Fear Effect (scaled to the caster's PB), the other off a character's own Whisper Point accumulation. Full breakdown on [[Fracture Save]].
 
 ## New terminology
 

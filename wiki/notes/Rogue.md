@@ -46,13 +46,14 @@ confidence: high
 
 - **Sneak Attack** — massive conditional damage
 - **Cunning Action** — constant repositioning
-- **Exploit Weakness** — reduces DR and penalties (per [[Class_breakdown]] — see naming-collision note below)
 
 **Gameplay style**: hit-and-run assassin, picking the moment and ending it. **Core loop**: create advantage → strike hard → escape → repeat. Excels in encounters it can set up; struggles in long frontal engagements with no room to reposition.
 
-### Naming collision — still not resolved
+### Naming collision — resolved by user ruling: Rogue has no separate "Exploit" ability
 
-[[Class_breakdown]] gave the name "Exploit Weakness" to Rogue, the same name [[Welcome to FEARS]] originally used for [[Investigator]] (whose equivalent [[Class_breakdown]] renamed to "Exploit Vulnerability"). This per-class deep-dive **never uses the term "Exploit Weakness" at all** — Rogue's DR/penalty-reduction effects here are folded directly into Sneak Attack's own DCS Integration bullets (DR Bypass, Called Shot Synergy) rather than named as a separate feature. Doesn't resolve the collision either way — it's simply silent on the name, the same shape of non-answer [[Investigator]]'s own deep-dive gave when it didn't address the cross-class overlap.
+[[Class_breakdown]] gave the name "Exploit Weakness" to Rogue, the same name [[Welcome to FEARS]] originally used for [[Investigator]]. **Resolved**: Rogue's own per-class deep-dive **never uses the term "Exploit Weakness" at all** — its DR/penalty-reduction effects are folded directly into Sneak Attack's own DCS Integration bullets (DR Bypass, Called Shot Synergy) rather than named as a separate feature, and that's now confirmed as the deliberate, final shape rather than a silent gap. "Exploit Weakness" is retired as a Rogue term — [[Investigator]] keeps sole ownership of it, alongside "Exploit Vulnerability," as its own two-stage studied progression.
+
+The thematic distinction: Rogue's version of "finding the flaw" is reactive and in-the-moment — Sneak Attack triggers off advantage/flanking, a vulnerability spotted and struck within the same turn, with no separate ceremony or named feature. Investigator's is deliberate and studied — a vulnerability identified over time, then exploited as a confirmed weakness once analysis is complete. Same fantasy family, different tempo, no name in common anymore.
 
 ## Class basics (from Rogue.md deep-dive)
 

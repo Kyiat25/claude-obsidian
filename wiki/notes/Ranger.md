@@ -186,7 +186,7 @@ Choose: **Foe Slayer** (+WIS mod to attack/damage against marked targets; once/t
 | Call of the Wild | Summon 3 creatures (Beasts ≤CR4, Elementals ≤CR3, or Fey ≤CR3) within 30 ft for 5 minutes, immune to charm/fear/magical control |
 | Ghost of the Vale | 5 minutes as a spectral guide: allies within 100 ft gain invisibility while not attacking/casting, plus advantage on Stealth/DEX saves; enemies within 30 ft disadvantaged on Perception/ranged attacks; the Ranger flies 60 ft and passes through barriers |
 
-Fourteenth class confirming [[Last Stand]] as universal; all three options reaffirm the standard permanent-death clause (no exception — Bender remains the lone confirmed exception). None of Ranger's options state an explicit save DC, so this source doesn't add a data point to the ongoing 10-vs-12-base DC question on [[Last Stand]].
+Fourteenth class confirming [[Last Stand]] as universal; all three options reaffirm the standard permanent-death clause (no exception — Bender remains the lone confirmed exception). None of Ranger's options state an explicit save DC — **resolved by user ruling as not a gap**: none of the three (auto-hit, summon, buff/aura) actually call for a target saving throw in the first place, unlike most of the roster's Last Stand options, so there's no DC to add.
 
 ## Class Reactions (confirmed universal, 14th class — clean shared-pool confirmation)
 

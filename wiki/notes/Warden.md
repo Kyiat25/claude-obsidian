@@ -199,15 +199,18 @@ Choose: **Boon of the Immovable Force** (immune to forced movement; can't be kno
 - **Apex Strike** (10th): the first weapon attack against Prey each turn expends a Power Die rolled twice (keep higher) on a hit; a critical hit forces a CON save (DC 8+PB+WIS) or Prey gains a Prime-Element-appropriate Frailty.
 - **Final Hunt** (14th): once/long rest, reducing Prey to 0 HP free-designates a new Prey immediately; against a bloodied Prey, Extra Attack grants three attacks instead of two.
 
-## Last Stand (confirmed, 20th class of 21 ingested — standard permanent-death clause, and a DC-formula gap)
+## Last Stand (confirmed, 20th class of 21 ingested — standard permanent-death clause, DC gap resolved by user ruling)
 
 | Option | Effect |
 |---|---|
-| The Earth Remembers | 60 ft terrain transformation matching the Prime Element (e.g. Earthen Bulwark: DEX save or 8d10 bludgeoning + prone, permanent terrain; Unrelenting Storm: DEX save for half of 8d10 lightning, then 3d10/round for 1 minute) — **no DC formula given for any element's save**, the only Last Stand option this cluster to name a save type without a DC |
+| The Earth Remembers | 60 ft terrain transformation matching the Prime Element (e.g. Earthen Bulwark: DEX save, DC 10+PB+WIS, or 8d10 bludgeoning + prone, permanent terrain; Unrelenting Storm: DEX save, DC 10+PB+WIS, for half of 8d10 lightning, then 3d10/round for 1 minute) — DC resolved below for all five element variants |
 | Hold the Line | Stays at 0 HP for 1 minute, immune to HP-damage death; allies within 30 ft gain +3 DR (stacking); each death-save success bursts 2d10 Prime Element damage (no save) to enemies within 10 ft; dies when the minute ends or a third death save fails |
 | The Storm Breaks | 3 rounds as a raw elemental vessel: Elemental Presence radius 60 ft dealing 3d10 (no save); attacks auto-hit and auto-max; immune to all damage; can't be moved/charmed/frightened/controlled. Dies when it ends |
 
-Twentieth class confirming [[Last Stand]] as universal (of 21 per-class files ingested — [[Sorcerer]] remains the sole exception); all three options reaffirm the standard permanent-death clause (no exception — Bender remains the lone confirmed exception). **The Earth Remembers is the first Last Stand option in this cluster to name a saving throw without ever giving its DC formula** — every other class's save-based option has stated at least one of the `8/10/12+PB+ability` shapes; this one simply doesn't, on any of its five element variants.
+Twentieth class confirming [[Last Stand]] as universal (of 21 per-class files ingested — [[Sorcerer]] remains the sole exception); all three options reaffirm the standard permanent-death clause (no exception — Bender remains the lone confirmed exception).
+
+> [!resolved] The Earth Remembers' missing DC
+> Previously the only Last Stand option in the cluster to name a saving throw type across all five element variants without ever giving a DC. **Resolved by user ruling**: `DC = 10 + PB + WIS`, matching Warden's own confirmed spellcasting DC (`8+PB+WIS`) and the canonical `10+PB+ability` Last Stand shape used everywhere else in the roster. Applies uniformly across all five Prime Element variants — only the save type (DEX or CON, per element) differs.
 
 ## Mythology & Cultural Lore
 

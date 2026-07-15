@@ -38,9 +38,9 @@ The 12 "Core" 5E-derived classes ([[Wizard]], [[Sorcerer]], [[Warlock]], [[Cleri
 
 The 12 "FEARS-Original" classes ([[Witch]], [[Sangromancer]], [[Shaman]], [[Bender]], [[Magus]], [[Inventor]], [[Tattooist]], [[Warden]], [[Reaper]], [[Investigator]], [[Apothecary]], [[Binder]]) all get enriched with their full writeup, layered onto the class-data sections [[Classes_Summary]] already added.
 
-## Contradiction: Exploit Weakness vs. Exploit Vulnerability
+## Exploit Weakness vs. Exploit Vulnerability — resolved by user ruling
 
-[[Welcome to FEARS]] gave **Investigator** the signature feature "Exploit Weakness." This document gives **Rogue** a signature ability literally named "Exploit Weakness: Reduce DR and penalties," while Investigator's equivalent here is renamed "Exploit Vulnerability: Identify and expose weaknesses." Not silently merged or assumed to be a typo — flagged on both [[Investigator]] and [[Rogue]] as an open naming question: did the ability migrate classes during development, do both classes coincidentally have similarly-named-but-distinct features, or is this an inconsistency in the source material itself (consistent with [[Classes_Summary]]'s own admission that the underlying FEARS design material is snapshotted inconsistently across sources)?
+[[Welcome to FEARS]] gave **Investigator** the signature feature "Exploit Weakness." This document gives **Rogue** a signature ability literally named "Exploit Weakness: Reduce DR and penalties," while Investigator's equivalent here is renamed "Exploit Vulnerability: Identify and expose weaknesses." Flagged for a time as an open naming question on both [[Investigator]] and [[Rogue]]. **Resolved**: [[Rogue]]'s own later, deeper per-class deep-dive never uses "Exploit Weakness" at all — it folded the effect into Sneak Attack instead, and that's now confirmed as final rather than a silent gap. "Exploit Weakness" is retired as a Rogue term; [[Investigator]] keeps sole ownership of it alongside "Exploit Vulnerability," as its own two-stage studied progression. This document's assignment of the name to Rogue is superseded by Rogue's own deep-dive.
 
 ## Other terminology drift noted (not treated as contradictions)
 

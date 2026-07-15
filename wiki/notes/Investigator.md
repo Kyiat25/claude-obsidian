@@ -54,9 +54,9 @@ confidence: high
 
 **Gameplay style**: analytical striker, dismantling enemies piece by piece before finishing them. **Core loop**: study → identify weakness → exploit → execute. Struggles in chaotic fights with no time to observe; excels in prepared encounters and against recurring enemy types.
 
-### Naming collision — still not resolved
+### Naming collision — resolved by user ruling: Investigator keeps both names
 
-[[Class_breakdown]] renamed this class's [[Welcome to FEARS]]-era signature ability from "Exploit Weakness" to "Exploit Vulnerability," giving the "Exploit Weakness" name to [[Rogue]] instead. This per-class deep-dive uses **both** names for genuinely different Investigator features (Exploit Vulnerability at 2nd level, a separate Exploit Weakness at 5th level) — so within this source they're not synonyms, but the cross-source naming collision with Rogue remains unresolved and unaddressed by this document.
+[[Class_breakdown]] renamed this class's [[Welcome to FEARS]]-era signature ability from "Exploit Weakness" to "Exploit Vulnerability," giving the "Exploit Weakness" name to [[Rogue]] instead. This per-class deep-dive uses **both** names for genuinely different Investigator features (Exploit Vulnerability at 2nd level, a separate Exploit Weakness at 5th level) — a real two-stage progression, not synonyms. **Resolved**: [[Rogue]]'s own deep-dive never actually used "Exploit Weakness" (folded into Sneak Attack instead), so the name was never really contested — Investigator keeps sole ownership of both "Exploit Vulnerability" and "Exploit Weakness," matching its studied, sequential fantasy: a vulnerability is identified through observation, then exploited as a confirmed weakness once analysis is complete.
 
 ## Class basics (from Investigator.md deep-dive)
 
